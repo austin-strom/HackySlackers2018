@@ -5,6 +5,7 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.net.URISyntaxException;
+import java.net.URL;
 import java.nio.file.Paths;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -19,8 +20,8 @@ public class MainGUI {
     private JFrame frame;
     private JLabel[] labels;
     private static String imagePath = "MainClassifier/src/humanBody.jpg";
-    private final int rows = 8; //You should decide the values for rows and cols variables
-    private final int cols = 8;
+    private final int rows = 6; //You should decide the values for rows and cols variables
+    private final int cols = 6;
     private final int chunks = rows * cols;
     private final int SPACING = 2;//spacing between split images
 
@@ -64,16 +65,13 @@ public class MainGUI {
     }
 
     private BufferedImage[] getImages() throws URISyntaxException, Exception {
-        File file = new File(imagePath); // I have bear.jpg in my working directory
         FileInputStream fis = null;
-        try {
-            fis = new FileInputStream(file);
-        } catch (FileNotFoundException ex) {
-            Logger.getLogger(MainGUI.class.getName()).log(Level.SEVERE, null, ex);
-        }
+
         BufferedImage image = null;
         try {
-            image = (BufferedImage) Toolkit.getDefaultToolkit().getImage(getClass().getResource("MainClassifier/src/humanBody.jpg"));
+            URL url = new URL("https://github.com/austin-strom/HackySlackers2018/blob/master/CancerClassifier/Interface/src/humanBody.jpg?raw=true");
+            image = ImageIO.read(url);
+//            image = (BufferedImage) Toolkit.getDefaultToolkit().getImage(getClass().getResource("MainClassifier/src/humanBody.jpg"));
         } catch (Exception e) {
             Logger.getLogger(MainGUI.class.getName()).log(Level.SEVERE, null, e);
             throw new Exception(e);
