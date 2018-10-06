@@ -10,20 +10,25 @@ import java.nio.file.Paths;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.imageio.ImageIO;
-import javax.swing.ImageIcon;
-import javax.swing.JFrame;
-import javax.swing.JLabel;
-import javax.swing.SwingUtilities;
+import javax.swing.*;
 
 public class MainGUI {
 
     private JFrame frame;
-    private JLabel[] labels;
+    private JLabel[] buttons;
     private static String imagePath = "MainClassifier/src/humanBody.jpg";
     private final int rows = 6; //You should decide the values for rows and cols variables
     private final int cols = 6;
     private final int chunks = rows * cols;
     private final int SPACING = 2;//spacing between split images
+    private JButton head = new JButton();
+    private JButton chest = new JButton();
+    private JButton lowerAbdomen = new JButton();
+    private JButton pelvis = new JButton();
+    private JButton legs = new JButton();
+    private JButton feet = new JButton();
+    private JButton rightShoulder = new JButton();
+    private JButton leftShoulder = new JButton();
 
     public static void main(String[] args) throws URISyntaxException, Exception{
         SwingUtilities.invokeLater(new Runnable() {
@@ -55,13 +60,19 @@ public class MainGUI {
         //set contentpane layout for grid
         frame.getContentPane().setLayout(new GridLayout(rows, cols, SPACING, SPACING));
 
-        labels = new JLabel[imgs.length];
+        buttons = new JLabel[imgs.length];
 
         //create JLabels with split images and add to frame contentPane
         for (int i = 0; i < imgs.length; i++) {
-            labels[i] = new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
-            frame.getContentPane().add(labels[i]);
+            buttons[i] = new JLabel(String.valueOf(i));
+            frame.getContentPane().add(buttons[i]);
         }
+
+        /*int i = 0;
+        buttons[i] = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
+        i++;*/
+
+
     }
 
     private BufferedImage[] getImages() throws URISyntaxException, Exception {
