@@ -1,20 +1,18 @@
+package Interface;
+
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.image.BufferedImage;
-import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.IOException;
 import java.net.URISyntaxException;
 import java.net.URL;
-import java.nio.file.Paths;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.imageio.ImageIO;
 import javax.swing.*;
 
-public class MainGUI {
+public class MainGUI extends JFrame{
 
     private JFrame frame;
     private JLabel[] buttons;
@@ -81,96 +79,86 @@ public class MainGUI {
             buttons[i] = new JLabel(String.valueOf(i));
             frame.getContentPane().add(buttons[i]);
         }*/
+        ButtonHandler handler = new ButtonHandler();
 
         int i = 0;
-        nonClick0 = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
-        nonClick0.setBorder(BorderFactory.createEmptyBorder());
-        frame.getContentPane().add(nonClick0);
-        i++;
-
-        nonClick1 = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
-        nonClick1.setBorder(BorderFactory.createEmptyBorder());
-        frame.getContentPane().add(nonClick1);
-        i++;
-
-        nonClick2 = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
-        nonClick2.setBorder(BorderFactory.createEmptyBorder());
-        frame.getContentPane().add(nonClick2);
-        i++;
-
-        nonClick3 = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
-        nonClick3.setBorder(BorderFactory.createEmptyBorder());
-        frame.getContentPane().add(nonClick3);
+        frame.getContentPane().add(new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
         i++;
 
         head = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
         head.setBorder(BorderFactory.createEmptyBorder());
+        head.addActionListener(handler);
         frame.getContentPane().add(head);
         i++;
 
-        nonClick5 = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
-        nonClick5.setBorder(BorderFactory.createEmptyBorder());
-        frame.getContentPane().add(nonClick5);
+        frame.getContentPane().add(new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
         i++;
 
         leftShoulder = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
         leftShoulder.setBorder(BorderFactory.createEmptyBorder());
+        leftShoulder.addActionListener(handler);
         frame.getContentPane().add(leftShoulder);
         i++;
 
         chest = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
         chest.setBorder(BorderFactory.createEmptyBorder());
+        chest.addActionListener(handler);
         frame.getContentPane().add(chest);
         i++;
 
         rightShoulder = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
         rightShoulder.setBorder(BorderFactory.createEmptyBorder());
+        rightShoulder.addActionListener(handler);
         frame.getContentPane().add(rightShoulder);
         i++;
 
-        nonClick9 = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
-        nonClick9.setBorder(BorderFactory.createEmptyBorder());
-        frame.getContentPane().add(nonClick9);
+        frame.getContentPane().add(new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
+        i++;
+
+
+        lowerAbdomen = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
+        lowerAbdomen.setBorder(BorderFactory.createEmptyBorder());
+        lowerAbdomen.addActionListener(handler);
+        frame.getContentPane().add(lowerAbdomen);
+        i++;
+
+        frame.getContentPane().add(new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
+        i++;
+
+        frame.getContentPane().add(new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
         i++;
 
         pelvis = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
         pelvis.setBorder(BorderFactory.createEmptyBorder());
+        pelvis.addActionListener(handler);
         frame.getContentPane().add(pelvis);
         i++;
 
-        nonClick11 = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
-        nonClick11.setBorder(BorderFactory.createEmptyBorder());
-        frame.getContentPane().add(nonClick11);
+        frame.getContentPane().add(new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
         i++;
 
-        nonClick12 = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
-        nonClick12.setBorder(BorderFactory.createEmptyBorder());
-        frame.getContentPane().add(nonClick12);
+        frame.getContentPane().add(new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
         i++;
 
         legs = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
         legs.setBorder(BorderFactory.createEmptyBorder());
+        legs.addActionListener(handler);
         frame.getContentPane().add(legs);
         i++;
 
-        nonClick14 = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
-        nonClick14.setBorder(BorderFactory.createEmptyBorder());
-        frame.getContentPane().add(nonClick14);
+        frame.getContentPane().add(new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
         i++;
 
-        nonClick15 = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
-        nonClick15.setBorder(BorderFactory.createEmptyBorder());
-        frame.getContentPane().add(nonClick15);
+        frame.getContentPane().add(new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
         i++;
 
         feet = new JButton((new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
         feet.setBorder(BorderFactory.createEmptyBorder());
+        feet.addActionListener(handler);
         frame.getContentPane().add(feet);
         i++;
 
-        nonClick17 = new JButton(((new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())))));
-        nonClick17.setBorder(BorderFactory.createEmptyBorder());
-        frame.getContentPane().add(nonClick17);
+        frame.getContentPane().add(new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
         i++;
 
     }
@@ -206,10 +194,10 @@ public class MainGUI {
         return imgs;
     }
 
-    private class ButtonHandler implements ActionListener{
+    public class ButtonHandler implements ActionListener{
         @Override
         public void actionPerformed(ActionEvent e) {
-
+            JOptionPane.showMessageDialog(MainGUI.this,"Pressed " + ((JComponent)e.getSource()).getName());
         }
     }
 }
