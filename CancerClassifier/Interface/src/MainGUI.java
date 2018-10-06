@@ -1,4 +1,6 @@
 import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.FileInputStream;
@@ -18,17 +20,29 @@ public class MainGUI {
     private JLabel[] buttons;
     private static String imagePath = "MainClassifier/src/humanBody.jpg";
     private final int rows = 6; //You should decide the values for rows and cols variables
-    private final int cols = 6;
+    private final int cols = 3;
     private final int chunks = rows * cols;
     private final int SPACING = 2;//spacing between split images
-    private JButton head = new JButton();
-    private JButton chest = new JButton();
-    private JButton lowerAbdomen = new JButton();
-    private JButton pelvis = new JButton();
-    private JButton legs = new JButton();
-    private JButton feet = new JButton();
-    private JButton rightShoulder = new JButton();
-    private JButton leftShoulder = new JButton();
+    private JButton head;
+    private JButton chest;
+    private JButton lowerAbdomen;
+    private JButton pelvis;
+    private JButton legs;
+    private JButton feet;
+    private JButton rightShoulder;
+    private JButton leftShoulder;
+    private JButton nonClick0;
+    private JButton nonClick1;
+    private JButton nonClick2;
+    private JButton nonClick3;
+    private JButton nonClick5;
+    private JButton nonClick9;
+    private JButton nonClick11;
+    private JButton nonClick12;
+    private JButton nonClick14;
+    private JButton nonClick15;
+    private JButton nonClick17;
+
 
     public static void main(String[] args) throws URISyntaxException, Exception{
         SwingUtilities.invokeLater(new Runnable() {
@@ -63,17 +77,104 @@ public class MainGUI {
         buttons = new JLabel[imgs.length];
 
         //create JLabels with split images and add to frame contentPane
-        for (int i = 0; i < imgs.length; i++) {
+        /*for (int i = 0; i < imgs.length; i++) {
             buttons[i] = new JLabel(String.valueOf(i));
             frame.getContentPane().add(buttons[i]);
-        }
+        }*/
 
-        /*int i = 0;
-        buttons[i] = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
-        i++;*/
+        int i = 0;
+        nonClick0 = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
+        nonClick0.setBorder(BorderFactory.createEmptyBorder());
+        frame.getContentPane().add(nonClick0);
+        i++;
 
+        nonClick1 = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
+        nonClick1.setBorder(BorderFactory.createEmptyBorder());
+        frame.getContentPane().add(nonClick1);
+        i++;
+
+        nonClick2 = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
+        nonClick2.setBorder(BorderFactory.createEmptyBorder());
+        frame.getContentPane().add(nonClick2);
+        i++;
+
+        nonClick3 = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
+        nonClick3.setBorder(BorderFactory.createEmptyBorder());
+        frame.getContentPane().add(nonClick3);
+        i++;
+
+        head = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
+        head.setBorder(BorderFactory.createEmptyBorder());
+        frame.getContentPane().add(head);
+        i++;
+
+        nonClick5 = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
+        nonClick5.setBorder(BorderFactory.createEmptyBorder());
+        frame.getContentPane().add(nonClick5);
+        i++;
+
+        leftShoulder = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
+        leftShoulder.setBorder(BorderFactory.createEmptyBorder());
+        frame.getContentPane().add(leftShoulder);
+        i++;
+
+        chest = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
+        chest.setBorder(BorderFactory.createEmptyBorder());
+        frame.getContentPane().add(chest);
+        i++;
+
+        rightShoulder = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
+        rightShoulder.setBorder(BorderFactory.createEmptyBorder());
+        frame.getContentPane().add(rightShoulder);
+        i++;
+
+        nonClick9 = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
+        nonClick9.setBorder(BorderFactory.createEmptyBorder());
+        frame.getContentPane().add(nonClick9);
+        i++;
+
+        pelvis = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
+        pelvis.setBorder(BorderFactory.createEmptyBorder());
+        frame.getContentPane().add(pelvis);
+        i++;
+
+        nonClick11 = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
+        nonClick11.setBorder(BorderFactory.createEmptyBorder());
+        frame.getContentPane().add(nonClick11);
+        i++;
+
+        nonClick12 = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
+        nonClick12.setBorder(BorderFactory.createEmptyBorder());
+        frame.getContentPane().add(nonClick12);
+        i++;
+
+        legs = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
+        legs.setBorder(BorderFactory.createEmptyBorder());
+        frame.getContentPane().add(legs);
+        i++;
+
+        nonClick14 = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
+        nonClick14.setBorder(BorderFactory.createEmptyBorder());
+        frame.getContentPane().add(nonClick14);
+        i++;
+
+        nonClick15 = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
+        nonClick15.setBorder(BorderFactory.createEmptyBorder());
+        frame.getContentPane().add(nonClick15);
+        i++;
+
+        feet = new JButton((new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
+        feet.setBorder(BorderFactory.createEmptyBorder());
+        frame.getContentPane().add(feet);
+        i++;
+
+        nonClick17 = new JButton(((new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())))));
+        nonClick17.setBorder(BorderFactory.createEmptyBorder());
+        frame.getContentPane().add(nonClick17);
+        i++;
 
     }
+
 
     private BufferedImage[] getImages() throws URISyntaxException, Exception {
         FileInputStream fis = null;
@@ -103,5 +204,12 @@ public class MainGUI {
             }
         }
         return imgs;
+    }
+
+    private class ButtonHandler implements ActionListener{
+        @Override
+        public void actionPerformed(ActionEvent e) {
+
+        }
     }
 }
