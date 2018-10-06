@@ -18,7 +18,7 @@
             <file leaf-file-name="MainGUI.java" pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/src/Interface/MainGUI.java">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="862">
+                  <state relative-caret-position="928">
                     <caret line="84" column="8" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="8" />
                     <folding>
                       <element signature="imports" expanded="true" />
@@ -34,14 +34,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainGUI.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainGUI.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Interface/MainGUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="159" column="121" selection-start-line="159" selection-start-column="121" selection-end-line="159" selection-end-column="121" />
+            <state relative-caret-position="180">
+              <caret line="191" selection-start-line="190" selection-end-line="191" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClassifierBase.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Classifier/ClassifierBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SQLQueryBuilder.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/RESTAPI/SQLQueryBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -75,6 +93,8 @@
         <option value="$PROJECT_DIR$/FileReader/src/FileReader.java" />
         <option value="$PROJECT_DIR$/Interface/src/MainGUI.java" />
         <option value="$PROJECT_DIR$/src/Interface/MainGUI.java" />
+        <option value="$PROJECT_DIR$/src/Classifier/ClassifierBase.java" />
+        <option value="$PROJECT_DIR$/src/RESTAPI/SQLQueryBuilder.java" />
       </list>
     </option>
   </component>
@@ -120,6 +140,12 @@
               <item name="CancerClassifier" type="b2602c69:ProjectViewProjectNode" />
               <item name="CancerClassifier" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CancerClassifier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CancerClassifier" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Classifier" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CancerClassifier" type="b2602c69:ProjectViewProjectNode" />
@@ -247,15 +273,15 @@
       <updated>1538842088686</updated>
       <workItem from="1538842096806" duration="4702000" />
       <workItem from="1538850086676" duration="6633000" />
-      <workItem from="1538857021996" duration="1986000" />
+      <workItem from="1538857021996" duration="2819000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13321000" />
+    <option name="totallyTimeSpent" value="14154000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -267,12 +293,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09808102" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3704691" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -322,11 +348,25 @@
     <entry file="file://$PROJECT_DIR$/FileReader/src/FileReader.java" />
     <entry file="file://$PROJECT_DIR$/src/Interface/MainGUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="159" column="121" selection-start-line="159" selection-start-column="121" selection-end-line="159" selection-end-column="121" />
+        <state relative-caret-position="180">
+          <caret line="191" selection-start-line="190" selection-end-line="191" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classifier/ClassifierBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RESTAPI/SQLQueryBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
