@@ -205,7 +205,12 @@ public class MainGUI extends JFrame{
     public class ButtonHandler implements ActionListener{
         @Override
         public void actionPerformed(ActionEvent e) {
-            JOptionPane.showMessageDialog(MainGUI.this,"Pressed " + ((JComponent)e.getSource()).getName());
+            JOptionPane.showMessageDialog(MainGUI.this,"Opening " + ((JComponent)e.getSource()).getName());
+            if(((JComponent)e.getSource()).getName().equals("head")){
+                InformationInput informationInput = new InformationInput();
+                informationInput.setSize(600,600);
+                informationInput.setVisible(true);
+            }
         }
     }
 }
