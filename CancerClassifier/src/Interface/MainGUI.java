@@ -29,17 +29,13 @@ public class MainGUI extends JFrame{
     private JButton feet;
     private JButton rightShoulder;
     private JButton leftShoulder;
-    private JButton nonClick0;
-    private JButton nonClick1;
-    private JButton nonClick2;
-    private JButton nonClick3;
-    private JButton nonClick5;
-    private JButton nonClick9;
-    private JButton nonClick11;
-    private JButton nonClick12;
-    private JButton nonClick14;
-    private JButton nonClick15;
-    private JButton nonClick17;
+
+
+    private JTextField age;
+    private JCheckBox gender;
+    private JCheckBoxMenuItem male;
+    private JCheckBoxMenuItem female;
+
 
 
     public static void main(String[] args) throws URISyntaxException, Exception{
@@ -57,7 +53,7 @@ public class MainGUI extends JFrame{
     }
 
     private void createAndShowUI() throws URISyntaxException, Exception{
-        frame = new JFrame("Test");
+        frame = new JFrame("Main");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         initComponents();
         frame.setResizable(false);
@@ -74,11 +70,6 @@ public class MainGUI extends JFrame{
 
         buttons = new JLabel[imgs.length];
 
-        //create JLabels with split images and add to frame contentPane
-        /*for (int i = 0; i < imgs.length; i++) {
-            buttons[i] = new JLabel(String.valueOf(i));
-            frame.getContentPane().add(buttons[i]);
-        }*/
         ButtonHandler handler = new ButtonHandler();
 
         int i = 0;
@@ -87,7 +78,9 @@ public class MainGUI extends JFrame{
 
         head = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
         head.setBorder(BorderFactory.createEmptyBorder());
+        head.setName("head");
         head.addActionListener(handler);
+
         frame.getContentPane().add(head);
         i++;
 
@@ -97,18 +90,21 @@ public class MainGUI extends JFrame{
         leftShoulder = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
         leftShoulder.setBorder(BorderFactory.createEmptyBorder());
         leftShoulder.addActionListener(handler);
+        leftShoulder.setName("left shoulder");
         frame.getContentPane().add(leftShoulder);
         i++;
 
         chest = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
         chest.setBorder(BorderFactory.createEmptyBorder());
         chest.addActionListener(handler);
+        chest.setName("chest");
         frame.getContentPane().add(chest);
         i++;
 
         rightShoulder = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
         rightShoulder.setBorder(BorderFactory.createEmptyBorder());
         rightShoulder.addActionListener(handler);
+        rightShoulder.setName("right shoulder");
         frame.getContentPane().add(rightShoulder);
         i++;
 
@@ -119,6 +115,7 @@ public class MainGUI extends JFrame{
         lowerAbdomen = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
         lowerAbdomen.setBorder(BorderFactory.createEmptyBorder());
         lowerAbdomen.addActionListener(handler);
+        lowerAbdomen.setName("lower abdomen");
         frame.getContentPane().add(lowerAbdomen);
         i++;
 
@@ -131,6 +128,7 @@ public class MainGUI extends JFrame{
         pelvis = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
         pelvis.setBorder(BorderFactory.createEmptyBorder());
         pelvis.addActionListener(handler);
+        pelvis.setName("pelvis");
         frame.getContentPane().add(pelvis);
         i++;
 
@@ -143,6 +141,7 @@ public class MainGUI extends JFrame{
         legs = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
         legs.setBorder(BorderFactory.createEmptyBorder());
         legs.addActionListener(handler);
+        legs.setName("legs");
         frame.getContentPane().add(legs);
         i++;
 
@@ -155,6 +154,7 @@ public class MainGUI extends JFrame{
         feet = new JButton((new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
         feet.setBorder(BorderFactory.createEmptyBorder());
         feet.addActionListener(handler);
+        feet.setName("feet");
         frame.getContentPane().add(feet);
         i++;
 
@@ -169,7 +169,7 @@ public class MainGUI extends JFrame{
 
         BufferedImage image = null;
         try {
-            URL url = new URL("https://github.com/austin-strom/HackySlackers2018/blob/master/CancerClassifier/Interface/src/humanBody.jpg?raw=true");
+            URL url = new URL("https://github.com/austin-strom/HackySlackers2018/blob/master/CancerClassifier/src/Interface/humanBody.jpg?raw=true");
             image = ImageIO.read(url);
 //            image = (BufferedImage) Toolkit.getDefaultToolkit().getImage(getClass().getResource("MainClassifier/src/humanBody.jpg"));
         } catch (Exception e) {
@@ -194,10 +194,64 @@ public class MainGUI extends JFrame{
         return imgs;
     }
 
+
     public class ButtonHandler implements ActionListener{
         @Override
-        public void actionPerformed(ActionEvent e) {
+        public void actionPerformed(ActionEvent e){
             JOptionPane.showMessageDialog(MainGUI.this,"Pressed " + ((JComponent)e.getSource()).getName());
+            if(((JComponent) e.getSource()).getName().equals("head")){
+
+                JFrame newFrame = new JFrame();
+                newFrame = new JFrame("Test");
+                newFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+
+                newFrame.setResizable(true);
+                newFrame.setSize(800,800);
+                newFrame.setVisible(true);
+
+                frame.getContentPane().removeAll();
+                frame.repaint();
+
+                age = new JTextField(20);
+                frame.getContentPane().add(age);
+
+                gender = new JCheckBox();
+                male = new JCheckBoxMenuItem();
+                female = new JCheckBoxMenuItem();
+
+                newFrame.getContentPane().add(gender);
+                newFrame.getContentPane().add(male);
+                newFrame.getContentPane().add(female);
+            }
+            else if(((JComponent) e.getSource()).getName().equals("chest")){
+                frame.getContentPane().removeAll();
+                frame.repaint();
+            }
+            else if(((JComponent) e.getSource()).getName().equals("lower abdomen")){
+                frame.getContentPane().removeAll();
+                frame.repaint();
+            }
+            else if(((JComponent) e.getSource()).getName().equals("pelvis")){
+                frame.getContentPane().removeAll();
+                frame.repaint();
+            }
+            else if(((JComponent) e.getSource()).getName().equals("legs")){
+                frame.getContentPane().removeAll();
+                frame.repaint();
+            }
+            else if(((JComponent) e.getSource()).getName().equals("left shoulder")){
+                frame.getContentPane().removeAll();
+                frame.repaint();
+            }
+            else if(((JComponent) e.getSource()).getName().equals("right shoulder")){
+                frame.getContentPane().removeAll();
+                frame.repaint();
+            }
+            else if(((JComponent) e.getSource()).getName().equals("feet")){
+                frame.getContentPane().removeAll();
+                frame.repaint();
+            }
+
         }
     }
 }
