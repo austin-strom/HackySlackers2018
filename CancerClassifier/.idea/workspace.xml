@@ -12,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainGUI.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainGUI.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Interface/MainGUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="189" selection-start-line="189" selection-end-line="189" />
+            <state relative-caret-position="242">
+              <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -27,8 +27,8 @@
       <file leaf-file-name="BayesDriver.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BayesNew/BayesDriver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="118" selection-start-line="17" selection-start-column="118" selection-end-line="17" selection-end-column="118" />
+            <state relative-caret-position="1760">
+              <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -50,19 +50,16 @@
           <provider selected="true" editor-type-id="ui-designer" />
         </entry>
       </file>
-      <file leaf-file-name="InformationInput.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="InformationInput.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Interface/InformationInput.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="420" column="5" lean-forward="true" selection-start-line="420" selection-start-column="5" selection-end-line="420" selection-end-column="5" />
+            <state relative-caret-position="241">
+              <caret line="179" column="5" lean-forward="true" selection-start-line="179" selection-start-column="5" selection-end-line="179" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#781#782#0" expanded="true" />
-                <element signature="e#813#814#0" expanded="true" />
                 <element signature="initializer##0;class#InformationInput#0" expanded="true" />
-                <element signature="initializer##0;class#InformationInput#0" expanded="true" />
-                <element signature="e#7205#7206#0" expanded="true" />
-                <element signature="e#7234#7235#0" expanded="true" />
+                <element signature="e#6360#6361#0" expanded="true" />
+                <element signature="e#6389#6390#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -73,6 +70,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="197">
               <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SQLQueryBuilder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RESTAPI/SQLQueryBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -137,7 +143,6 @@
         <option value="$PROJECT_DIR$/FileReader/src/FileReader.java" />
         <option value="$PROJECT_DIR$/Interface/src/MainGUI.java" />
         <option value="$PROJECT_DIR$/src/Classifier/ClassifierBase.java" />
-        <option value="$PROJECT_DIR$/src/RESTAPI/SQLQueryBuilder.java" />
         <option value="$PROJECT_DIR$/src/naivebayes/experiments/MainBayes.java" />
         <option value="$PROJECT_DIR$/src/naivebayes/old/experiments/MainBayes.java" />
         <option value="$PROJECT_DIR$/src/BayesNew/BayesClassifier.java" />
@@ -147,6 +152,7 @@
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Interface/MainGUI.java" />
         <option value="$PROJECT_DIR$/src/Interface/InformationInput.java" />
+        <option value="$PROJECT_DIR$/src/RESTAPI/SQLQueryBuilder.java" />
       </list>
     </option>
   </component>
@@ -172,7 +178,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
-    <option name="width" value="974" />
+    <option name="width" value="972" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
@@ -203,6 +209,31 @@
               <item name="CancerClassifier" type="b2602c69:ProjectViewProjectNode" />
               <item name="CancerClassifier" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CancerClassifier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CancerClassifier" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="BayesNew" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CancerClassifier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CancerClassifier" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CancerClassifier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CancerClassifier" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Interface" type="462c0819:PsiDirectoryNode" />
+              <item name="InformationInput" type="e9f4de52:FormNode" />
+            </path>
+            <path>
+              <item name="CancerClassifier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CancerClassifier" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="RESTAPI" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -355,18 +386,28 @@
       <workItem from="1538850086676" duration="6633000" />
       <workItem from="1538857021996" duration="7381000" />
       <workItem from="1538897257308" duration="2945000" />
-      <workItem from="1538901571110" duration="8065000" />
+      <workItem from="1538901571110" duration="10164000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29726000" />
+    <option name="totallyTimeSpent" value="31825000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.32570806" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.33115467" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
@@ -374,13 +415,14 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33115467" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17430703" />
       <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32570806" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -392,7 +434,6 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32570806" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
@@ -534,13 +575,6 @@
     <entry file="file://$PROJECT_DIR$/Interface/src/MainDriver.java" />
     <entry file="file://$PROJECT_DIR$/Interface/src/ImageCreator.java" />
     <entry file="file://$PROJECT_DIR$/FileReader/src/FileReader.java" />
-    <entry file="file://$PROJECT_DIR$/src/RESTAPI/SQLQueryBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/naivebayes/old/experiments/MainBayes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -628,26 +662,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BayesNew/BayesClassifier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BayesNew/BayesDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="118" selection-start-line="17" selection-start-column="118" selection-end-line="17" selection-end-column="118" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Interface/InformationInput.form">
       <provider selected="true" editor-type-id="ui-designer" />
     </entry>
@@ -658,28 +672,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Interface/MainGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/BayesNew/BayesDriver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="189" selection-start-line="189" selection-end-line="189" />
+        <state relative-caret-position="1760">
+          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Interface/InformationInput.java">
+    <entry file="file://$PROJECT_DIR$/src/BayesNew/BayesClassifier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="420" column="5" lean-forward="true" selection-start-line="420" selection-start-column="5" selection-end-line="420" selection-end-column="5" />
+        <state relative-caret-position="189">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#781#782#0" expanded="true" />
-            <element signature="e#813#814#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RESTAPI/SQLQueryBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interface/InformationInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="179" column="5" lean-forward="true" selection-start-line="179" selection-start-column="5" selection-end-line="179" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
             <element signature="initializer##0;class#InformationInput#0" expanded="true" />
-            <element signature="initializer##0;class#InformationInput#0" expanded="true" />
-            <element signature="e#7205#7206#0" expanded="true" />
-            <element signature="e#7234#7235#0" expanded="true" />
+            <element signature="e#6360#6361#0" expanded="true" />
+            <element signature="e#6389#6390#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interface/MainGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
