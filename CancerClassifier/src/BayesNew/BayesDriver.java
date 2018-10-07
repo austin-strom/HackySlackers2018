@@ -13,7 +13,17 @@ import org.apache.commons.csv.CSVRecord;
 
 public class BayesDriver {
 
-    public static void init() throws FileNotFoundException, IOException {
+    public static void init(String age, String race, String gender, String familyHistory, String BMI, String type) throws FileNotFoundException, IOException {
+
+        //TODO: With type we have the ability to specify the types of cancer we are searching for. This may be helpful
+
+        List<String> inputValues = new ArrayList<>();
+        inputValues.add(age);
+        inputValues.add(race);
+        inputValues.add(gender);
+        inputValues.add(familyHistory);
+        inputValues.add(BMI);
+
 
         List<CSVRecord> trainingData = CSVFormat.DEFAULT.parse(new InputStreamReader(new FileInputStream(new File("dataset1.csv")))).getRecords();
 
@@ -63,38 +73,12 @@ public class BayesDriver {
         bayes.learn("None",noCancer);
 
 
-        System.out.println(bayes.classify(Arrays.asList(/*NEW FEATURES*/)).getCategory());
+        System.out.println(bayes.classify(inputValues).getCategory());
+
+        System.out.println("Detailed Content: \n");
+        System.out.println(((BayesClassifier<String, String>) bayes).classifyDetailed(inputValues));
 
 
-
-       /* System.out.println( // will output "positive"
-                bayes.classify(Arrays.asList(unknownText1)).getCategory());
-        System.out.println( // will output "negative"
-                bayes.classify(Arrays.asList(unknownText2)).getCategory());
-*/
-        /*
-         * The BayesClassifier extends the abstract Classifier and provides
-         * detailed classification results that can be retrieved by calling
-         * the classifyDetailed Method.
-         *
-         * The classification with the highest probability is the resulting
-         * classification. The returned List will look like this.
-         * [
-         *   Classification [
-         *     category=negative,
-         *     probability=0.0078125,
-         *     featureset=[today, is, a, sunny, day]
-         *   ],
-         *   Classification [
-         *     category=positive,
-         *     probability=0.0234375,
-         *     featureset=[today, is, a, sunny, day]
-         *   ]
-         * ]
-         */
-        /*((BayesClassifier<String, String>) bayes).classifyDetailed(
-                Arrays.asList(unknownText1));
-        */
         bayes.setMemoryCapacity(1000); // remember the last 500 learned classifications
     }
 

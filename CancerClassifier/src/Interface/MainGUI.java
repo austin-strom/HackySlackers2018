@@ -29,37 +29,19 @@ public class MainGUI extends JFrame{
     private JButton feet;
     private JButton rightShoulder;
     private JButton leftShoulder;
-    private JButton nonClick0;
-    private JButton nonClick1;
-    private JButton nonClick2;
-    private JButton nonClick3;
-    private JButton nonClick5;
-    private JButton nonClick9;
-    private JButton nonClick11;
-    private JButton nonClick12;
-    private JButton nonClick14;
-    private JButton nonClick15;
-    private JButton nonClick17;
 
 
-    public static void main(String[] args) throws URISyntaxException, Exception{
-        SwingUtilities.invokeLater(new Runnable() {
 
-            @Override
-            public void run() {
-                try {
-                    new MainGUI().createAndShowUI();
-                } catch (Exception e) {
-                    e.printStackTrace();
-                }
-            }
-        });
-    }
 
-    private void createAndShowUI() throws URISyntaxException, Exception{
+
+    public MainGUI() {
         frame = new JFrame("Test");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        initComponents();
+        try {
+            initComponents();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
         frame.setResizable(false);
         frame.pack();
         frame.setVisible(true);
@@ -205,12 +187,46 @@ public class MainGUI extends JFrame{
     public class ButtonHandler implements ActionListener{
         @Override
         public void actionPerformed(ActionEvent e) {
-            JOptionPane.showMessageDialog(MainGUI.this,"Opening " + ((JComponent)e.getSource()).getName());
             if(((JComponent)e.getSource()).getName().equals("head")){
                 InformationInput informationInput = new InformationInput();
+                informationInput.setType("head");
                 informationInput.setSize(600,600);
                 informationInput.setVisible(true);
             }
+            else if(((JComponent)e.getSource()).getName().equals("left shoulder")){
+                JOptionPane.showMessageDialog(MainGUI.this, "Unfortunately this feature is not supported at this time.");
+
+            }
+            else if(((JComponent)e.getSource()).getName().equals("chest")){
+                InformationInput informationInput = new InformationInput();
+                informationInput.setType("head");
+                informationInput.setSize(600,600);
+                informationInput.setVisible(true);
+            }
+            else if(((JComponent)e.getSource()).getName().equals("right shoulder")){
+                JOptionPane.showMessageDialog(MainGUI.this, "Unfortunately this feature is not supported at this time.");
+
+            }
+            else if(((JComponent)e.getSource()).getName().equals("lower abdomen")){
+                InformationInput informationInput = new InformationInput();
+                informationInput.setType("head");
+                informationInput.setSize(600,600);
+                informationInput.setVisible(true);
+            }
+            else if(((JComponent)e.getSource()).getName().equals("pelvis")){
+                InformationInput informationInput = new InformationInput();
+                informationInput.setType("head");
+                informationInput.setSize(600,600);
+                informationInput.setVisible(true);
+            }
+            else if(((JComponent)e.getSource()).getName().equals("legs")){
+                JOptionPane.showMessageDialog(MainGUI.this, "Unfortunately this feature is not supported at this time.");
+
+            }
+            else if(((JComponent)e.getSource()).getName().equals("feet")){
+                JOptionPane.showMessageDialog(MainGUI.this, "Unfortunately this feature is not supported at this time.");
+            }
+
         }
     }
 }
