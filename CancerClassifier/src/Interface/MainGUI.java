@@ -16,7 +16,6 @@ public class MainGUI extends JFrame{
 
     private JFrame frame;
     private JLabel[] buttons;
-    private static String imagePath = "MainClassifier/src/humanBody.jpg";
     private final int rows = 6; //You should decide the values for rows and cols variables
     private final int cols = 3;
     private final int chunks = rows * cols;
@@ -30,11 +29,7 @@ public class MainGUI extends JFrame{
     private JButton rightShoulder;
     private JButton leftShoulder;
 
-
-
-
-
-    public MainGUI() {
+   /* public MainGUI() {
         frame = new JFrame("Test");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         try {
@@ -45,14 +40,14 @@ public class MainGUI extends JFrame{
         frame.setResizable(false);
         frame.pack();
         frame.setVisible(true);
-    }
+    }*/
 
-    private void initComponents() throws URISyntaxException, Exception {
+    public MainGUI() throws URISyntaxException, Exception {
 
         BufferedImage[] imgs = getImages();
 
         //set contentpane layout for grid
-        frame.getContentPane().setLayout(new GridLayout(rows, cols, SPACING, SPACING));
+        getContentPane().setLayout(new GridLayout(rows, cols, SPACING, SPACING));
 
         buttons = new JLabel[imgs.length];
 
@@ -64,41 +59,41 @@ public class MainGUI extends JFrame{
         ButtonHandler handler = new ButtonHandler();
 
         int i = 0;
-        frame.getContentPane().add(new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
+        getContentPane().add(new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
         i++;
 
         head = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
         head.setBorder(BorderFactory.createEmptyBorder());
         head.addActionListener(handler);
         head.setName("head");
-        frame.getContentPane().add(head);
+        getContentPane().add(head);
         i++;
 
-        frame.getContentPane().add(new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
+        getContentPane().add(new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
         i++;
 
         leftShoulder = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
         leftShoulder.setBorder(BorderFactory.createEmptyBorder());
         leftShoulder.addActionListener(handler);
         leftShoulder.setName("left shoulder");
-        frame.getContentPane().add(leftShoulder);
+        getContentPane().add(leftShoulder);
         i++;
 
         chest = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
         chest.setBorder(BorderFactory.createEmptyBorder());
         chest.addActionListener(handler);
         chest.setName("chest");
-        frame.getContentPane().add(chest);
+        getContentPane().add(chest);
         i++;
 
         rightShoulder = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
         rightShoulder.setBorder(BorderFactory.createEmptyBorder());
         rightShoulder.addActionListener(handler);
         rightShoulder.setName("right shoulder");
-        frame.getContentPane().add(rightShoulder);
+        getContentPane().add(rightShoulder);
         i++;
 
-        frame.getContentPane().add(new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
+        getContentPane().add(new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
         i++;
 
 
@@ -106,49 +101,49 @@ public class MainGUI extends JFrame{
         lowerAbdomen.setBorder(BorderFactory.createEmptyBorder());
         lowerAbdomen.addActionListener(handler);
         lowerAbdomen.setName("lower abdomen");
-        frame.getContentPane().add(lowerAbdomen);
+        getContentPane().add(lowerAbdomen);
         i++;
 
-        frame.getContentPane().add(new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
+        getContentPane().add(new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
         i++;
 
-        frame.getContentPane().add(new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
+        getContentPane().add(new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
         i++;
 
         pelvis = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
         pelvis.setBorder(BorderFactory.createEmptyBorder());
         pelvis.addActionListener(handler);
         pelvis.setName("pelvis");
-        frame.getContentPane().add(pelvis);
+        getContentPane().add(pelvis);
         i++;
 
-        frame.getContentPane().add(new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
+        getContentPane().add(new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
         i++;
 
-        frame.getContentPane().add(new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
+        getContentPane().add(new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
         i++;
 
         legs = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
         legs.setBorder(BorderFactory.createEmptyBorder());
         legs.addActionListener(handler);
         legs.setName("legs");
-        frame.getContentPane().add(legs);
+        getContentPane().add(legs);
         i++;
 
-        frame.getContentPane().add(new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
+        getContentPane().add(new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
         i++;
 
-        frame.getContentPane().add(new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
+        getContentPane().add(new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
         i++;
 
         feet = new JButton((new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
         feet.setBorder(BorderFactory.createEmptyBorder());
         feet.addActionListener(handler);
         feet.setName("feet");
-        frame.getContentPane().add(feet);
+        getContentPane().add(feet);
         i++;
 
-        frame.getContentPane().add(new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
+        getContentPane().add(new JLabel(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
         i++;
 
     }
