@@ -1,4 +1,4 @@
-package naivebayes;
+package naivebayes.old.experiments;
 
 public class ContinuousAttribute {
 

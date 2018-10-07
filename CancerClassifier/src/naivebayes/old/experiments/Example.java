@@ -1,4 +1,4 @@
-package naivebayes;
+package naivebayes.old.experiments;
 
 import java.util.List;
 

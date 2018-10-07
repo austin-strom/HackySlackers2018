@@ -1,17 +1,12 @@
-package naivebayes.experiments;
+package naivebayes.old.experiments;
 
-
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
 
 public class MainBayes {
 
     public static void main(String []args){
 
     }
+
 
     /*private static List<Example> readFile(String filename) {
         List <Example> examples = new ArrayList<Example>();

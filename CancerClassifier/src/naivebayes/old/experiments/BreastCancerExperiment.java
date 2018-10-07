@@ -1,4 +1,4 @@
-package naivebayes.experiments;
+package naivebayes.old.experiments;
 
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -8,11 +8,6 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
-
-import naivebayes.CategoricalAttribute;
-import naivebayes.ContinuousAttribute;
-import naivebayes.Example;
-import naivebayes.NaiveBayesClassifier;
 
 public class BreastCancerExperiment {
 

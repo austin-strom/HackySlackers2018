@@ -1,4 +1,4 @@
-package naivebayes.experiments;
+package naivebayes.old.experiments;
 
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -6,17 +6,15 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+import java.util.Random;
 import java.util.Scanner;
 
-import naivebayes.CategoricalAttribute;
-import naivebayes.ContinuousAttribute;
-import naivebayes.Example;
-import naivebayes.NaiveBayesClassifier;
+public class WineExperiment {
 
-public class AbaloneExperiment {
+  private static final String DEFAULT_DATA_FILE = "wine.data";
+  private static final int DEFAULT_TRAINING_EXAMPLES = 100;
 
-  private static final String DEFAULT_DATA_FILE = "abalone.data";
-  private static final int DEFAULT_TRAINING_EXAMPLES = 3133;
+  private static final int INPUTS = 13;
 
   public static void main(String[] args) {
     String dataFile = DEFAULT_DATA_FILE;
@@ -31,6 +29,10 @@ public class AbaloneExperiment {
     }
 
     List <Example> all = readFile(dataFile);
+
+    Collections.shuffle(all, new Random(42));
+
+    normalize(all);
 
     List <Example> examples = new ArrayList <Example> ();
     List <Example> validationSet = new ArrayList <Example> ();
@@ -53,7 +55,7 @@ public class AbaloneExperiment {
       String output = classifier.classify(
           example.getCategoricalInputs(),
           example.getContinuousInputs()).getValue();
-      if(getClass(output) == getClass(example.getOutput().getValue())) {
+      if(output.equals(example.getOutput().getValue())) {
         correct++;
       }
     }
@@ -83,8 +85,7 @@ public class AbaloneExperiment {
     List <ContinuousAttribute> conInputs =
         new ArrayList <ContinuousAttribute> ();
 
-    catInputs.add(new CategoricalAttribute(tokens[0]));
-    for(int i = 1; i < tokens.length - 1; i++) {
+    for(int i = 1; i < tokens.length; i++) {
       conInputs.add(new ContinuousAttribute(
           Double.parseDouble(tokens[i])));
     }
@@ -92,14 +93,31 @@ public class AbaloneExperiment {
     return new Example(
         catInputs,
         conInputs,
-        new CategoricalAttribute(tokens[tokens.length - 1]));
+        new CategoricalAttribute(tokens[0]));
   }
 
-  private static int getClass(String s) {
-    int num = Integer.parseInt(s);
-    if(num <= 8) return 1;
-    if(num <= 10) return 2;
-    return 3;
+  private static void normalize(List <Example> examples) {
+    for(int i = 0; i < INPUTS; i++) {
+      double minValue =
+          examples.get(0).getContinuousInputs().get(i).getValue();
+      double maxValue =
+          examples.get(0).getContinuousInputs().get(i).getValue();
+      for(int j = 0; j < examples.size(); j++) {
+        minValue = Math.min(
+            minValue,
+            examples.get(j).getContinuousInputs().get(i).getValue());
+        maxValue = Math.max(
+            maxValue,
+            examples.get(j).getContinuousInputs().get(i).getValue());
+      }
+      for(int j = 0; j < examples.size(); j++) {
+        double value =
+            examples.get(j).getContinuousInputs().get(i).getValue();
+        value = (value - minValue) / (maxValue - minValue);
+        examples.get(j).getContinuousInputs().set(
+            i, new ContinuousAttribute(value));
+      }
+    }
   }
 }
 
