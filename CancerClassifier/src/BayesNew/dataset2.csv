@@ -1,0 +1,2929 @@
+Age,Race,Gender,Family Member had Cancer,BMI,Cancer Type
+75,White,Female,1,35,Breast
+36,White,Female,1,28,Breast
+68,White,Female,1,38,Breast
+52,White,Female,1,39,Breast
+55,White,Female,1,37,Breast
+86,White,Female,1,31,Breast
+55,White,Female,1,25,Breast
+69,African American,Female,1,34,Breast
+68,African American,Female,1,27,Breast
+74,Hispanic,Female,1,31,Breast
+75,Hispanic,Female,0,39,Breast
+54,Asain,Female,0,35,Breast
+53,Hispanic,Female,0,30,Breast
+88,African American,Female,0,37,Breast
+49,White,Female,0,25,Breast
+65,Hispanic,Female,0,31,Breast
+56,Asain,Female,0,32,Breast
+54,African American,Female,0,37,Breast
+56,Asain,Female,0,31,Breast
+69,White,Female,0,39,Breast
+79,White,Female,0,27,Breast
+78,White,Female,0,40,Breast
+77,Hispanic,Female,0,37,Breast
+67,White,Female,0,37,Breast
+61,White,Female,0,37,Breast
+79,White,Female,0,39,Breast
+68,Hispanic,Female,0,34,Breast
+60,White,Female,0,35,Breast
+75,White,Female,0,33,Breast
+74,White,Female,0,38,Breast
+78,White,Female,0,25,Breast
+65,White,Female,0,38,Breast
+60,White,Female,0,38,Breast
+70,White,Female,0,29,Breast
+79,White,Female,0,28,Breast
+58,Asain,Female,0,26,Breast
+70,African American,Female,0,32,Breast
+64,White,Female,0,40,Breast
+52,African American,Female,0,38,Breast
+79,Hispanic,Female,0,30,Breast
+57,White,Female,0,24,Breast
+73,White,Female,0,20,Breast
+61,White,Female,0,23,Breast
+50,White,Female,0,30,Breast
+59,White,Female,0,29,Breast
+68,Asain,Female,0,38,Breast
+49,Hispanic,Female,0,29,Breast
+60,White,Female,0,29,Breast
+68,White,Female,0,27,Breast
+66,White,Female,0,34,Breast
+78,White,Female,0,40,Breast
+55,White,Female,0,29,Breast
+45,White,Female,0,32,Breast
+51,White,Female,0,25,Breast
+81,African American,Female,0,24,Breast
+98,African American,Female,0,22,Breast
+53,Hispanic,Female,0,23,Breast
+51,Hispanic,Female,0,31,Breast
+46,Asain,Female,0,35,Breast
+79,White,Female,0,31,Breast
+64,African American,Female,0,34,Breast
+76,White,Female,0,38,Breast
+61,African American,Female,0,29,Breast
+82,White,Female,0,29,Breast
+81,Hispanic,Female,0,25,Breast
+68,White,Female,0,31,Breast
+57,Hispanic,Female,0,39,Breast
+78,African American,Female,0,25,Breast
+72,African American,Female,0,38,Breast
+66,Hispanic,Female,0,39,Breast
+84,African American,Female,0,32,Breast
+39,White,Female,0,35,Breast
+68,White,Female,0,25,Breast
+46,White,Female,0,30,Breast
+59,White,Female,0,35,Breast
+80,African American,Female,0,30,Breast
+75,African American,Female,0,39,Breast
+63,White,Female,0,20,Breast
+59,White,Female,0,25,Breast
+59,White,Female,0,39,Breast
+54,White,Female,0,35,Breast
+62,White,Female,0,33,Breast
+76,White,Female,0,39,Breast
+67,White,Female,0,28,Breast
+63,African American,Female,0,29,Breast
+57,Hispanic,Female,0,20,Breast
+53,African American,Female,0,29,Breast
+65,African American,Female,0,34,Breast
+87,Hispanic,Female,0,36,Breast
+68,White,Female,0,39,Breast
+57,White,Female,0,32,Breast
+57,White,Female,0,32,Breast
+56,White,Female,0,25,Breast
+57,Hispanic,Female,0,29,Breast
+79,White,Female,0,32,Breast
+67,White,Female,0,30,Breast
+68,White,Female,0,35,Breast
+54,White,Female,0,33,Breast
+81,White,Female,0,40,Breast
+43,White,Female,0,30,Breast
+73,White,Female,0,25,Breast
+72,African American,Female,0,20,Breast
+44,African American,Female,0,31,Breast
+63,Hispanic,Female,0,39,Breast
+75,Hispanic,Female,0,34,Breast
+74,Asain,Female,0,31,Breast
+51,White,Female,0,39,Breast
+45,Hispanic,Female,0,40,Breast
+48,Hispanic,Female,0,29,Breast
+66,Asain,Male,1,27,Prostate
+49,Asain,Male,1,25,Prostate
+41,White,Male,1,28,Prostate
+89,African American,Male,1,40,Prostate
+86,White,Male,1,28,Prostate
+64,White,Male,1,26,Prostate
+58,African American,Male,1,26,Prostate
+60,White,Male,1,35,Prostate
+62,African American,Male,1,35,Prostate
+44,White,Male,0,20,Prostate
+71,White,Male,0,39,Prostate
+69,African American,Male,0,34,Prostate
+61,White,Male,0,26,Prostate
+64,White,Male,0,37,Prostate
+54,Hispanic,Male,0,35,Prostate
+64,White,Male,0,32,Prostate
+39,White,Male,0,27,Prostate
+50,Hispanic,Male,0,35,Prostate
+48,Hispanic,Male,0,30,Prostate
+56,Hispanic,Male,0,36,Prostate
+76,White,Male,0,27,Prostate
+45,White,Male,0,29,Prostate
+61,White,Male,0,25,Prostate
+72,Hispanic,Male,0,20,Prostate
+50,White,Male,0,37,Prostate
+60,White,Male,0,35,Prostate
+68,White,Male,0,30,Prostate
+71,African American,Male,0,26,Prostate
+67,African American,Male,0,28,Prostate
+55,White,Male,0,40,Prostate
+61,White,Male,0,38,Prostate
+84,White,Male,0,28,Prostate
+66,White,Male,0,26,Prostate
+83,White,Male,0,34,Prostate
+66,White,Male,0,38,Prostate
+66,White,Male,0,35,Prostate
+58,White,Male,0,37,Prostate
+80,White,Male,0,37,Prostate
+84,White,Male,0,35,Prostate
+71,African American,Male,0,20,Prostate
+80,African American,Male,0,28,Prostate
+69,Hispanic,Male,0,39,Prostate
+88,Hispanic,Male,0,34,Prostate
+54,Asain,Male,0,38,Prostate
+56,White,Male,0,34,Prostate
+73,White,Male,0,35,Prostate
+83,African American,Male,0,28,Prostate
+69,African American,Male,0,31,Prostate
+50,White,Male,0,32,Prostate
+59,African American,Male,0,25,Prostate
+70,Asain,Male,0,30,Prostate
+69,White,Male,0,28,Prostate
+72,African American,Male,0,28,Prostate
+100,White,Male,0,29,Prostate
+57,African American,Male,0,36,Prostate
+66,White,Male,0,30,Prostate
+72,White,Male,0,33,Prostate
+47,White,Male,0,20,Prostate
+65,Hispanic,Male,0,36,Prostate
+64,White,Male,0,35,Prostate
+69,White,Male,0,37,Prostate
+62,Hispanic,Male,0,36,Prostate
+67,White,Male,0,37,Prostate
+64,White,Male,0,28,Prostate
+70,African American,Male,0,27,Prostate
+44,African American,Male,0,39,Prostate
+69,African American,Male,0,26,Prostate
+52,African American,Male,0,38,Prostate
+53,White,Male,0,39,Prostate
+56,White,Male,0,28,Prostate
+81,African American,Male,0,31,Prostate
+60,Hispanic,Male,0,26,Prostate
+76,Hispanic,Male,0,36,Prostate
+67,African American,Male,0,39,Prostate
+54,Hispanic,Male,0,26,Prostate
+72,African American,Male,0,33,Prostate
+63,White,Male,0,20,Prostate
+83,White,Male,0,32,Prostate
+43,African American,Male,0,28,Prostate
+52,Asain,Male,0,38,Prostate
+45,White,Male,0,39,Prostate
+84,White,Male,0,40,Prostate
+72,White,Male,0,37,Prostate
+72,White,Male,0,38,Prostate
+80,White,Male,0,32,Prostate
+66,African American,Male,0,37,Prostate
+67,Hispanic,Male,0,34,Prostate
+69,Asain,Male,0,26,Prostate
+41,Asain,Male,0,38,Prostate
+81,White,Male,0,27,Prostate
+64,White,Male,0,26,Prostate
+69,White,Female,1,31,Colon
+83,White,Female,1,28,Colon
+78,White,Female,1,25,Colon
+82,White,Female,1,25,Colon
+49,White,Female,1,33,Colon
+72,White,Female,1,28,Colon
+82,White,Female,1,29,Colon
+75,Hispanic,Female,1,35,Colon
+59,Asain,Female,1,32,Colon
+64,White,Female,1,26,Colon
+32,White,Female,1,28,Colon
+80,White,Female,1,27,Colon
+76,White,Female,1,25,Colon
+68,White,Female,1,33,Colon
+62,White,Female,1,28,Colon
+60,White,Female,1,28,Colon
+63,African American,Female,1,38,Colon
+46,African American,Female,1,30,Colon
+64,Hispanic,Female,1,30,Colon
+50,Hispanic,Female,1,26,Colon
+82,Asain,Female,1,28,Colon
+75,African American,Female,1,27,Colon
+68,White,Female,1,36,Colon
+74,White,Female,1,37,Colon
+57,White,Female,1,34,Colon
+68,Asain,Female,1,34,Colon
+62,African American,Female,1,24,Colon
+71,White,Female,1,20,Colon
+82,White,Female,1,23,Colon
+81,White,Female,1,30,Colon
+62,White,Female,1,32,Colon
+45,White,Female,0,38,Colon
+45,White,Female,0,40,Colon
+60,White,Female,0,39,Colon
+62,White,Female,0,39,Colon
+62,White,Female,0,39,Colon
+56,Hispanic,Female,0,26,Colon
+75,White,Female,0,33,Colon
+62,White,Female,0,34,Colon
+54,White,Female,0,37,Colon
+65,White,Female,0,24,Colon
+63,White,Female,0,22,Colon
+88,African American,Female,0,23,Colon
+57,White,Female,0,38,Colon
+62,African American,Female,0,33,Colon
+90,White,Female,0,26,Colon
+46,White,Female,0,39,Colon
+80,White,Female,0,37,Colon
+73,African American,Female,0,40,Colon
+66,White,Female,0,31,Colon
+71,African American,Female,0,33,Colon
+84,African American,Female,0,28,Colon
+73,Hispanic,Female,0,29,Colon
+70,Hispanic,Female,0,25,Colon
+78,White,Female,0,33,Colon
+70,Hispanic,Female,0,35,Colon
+69,White,Female,0,27,Colon
+71,White,Female,0,35,Colon
+58,White,Female,0,33,Colon
+72,White,Female,0,28,Colon
+77,White,Female,0,30,Colon
+69,African American,Female,0,26,Colon
+64,African American,Female,0,40,Colon
+62,Hispanic,Female,0,20,Colon
+64,Hispanic,Female,0,28,Colon
+63,Asain,Female,0,40,Colon
+71,White,Female,0,35,Colon
+74,White,Female,0,28,Colon
+74,White,Female,0,40,Colon
+64,African American,Female,0,31,Colon
+71,White,Male,1,38,Colon
+77,African American,Male,1,32,Colon
+92,Asain,Male,1,39,Colon
+59,White,Male,1,28,Colon
+39,Asain,Male,1,28,Colon
+49,Hispanic,Male,1,34,Colon
+56,Hispanic,Male,1,36,Colon
+62,White,Male,1,20,Colon
+67,Asain,Male,1,19,Colon
+83,White,Male,0,34,Colon
+97,White,Male,0,38,Colon
+57,White,Male,0,32,Colon
+68,Asain,Male,0,38,Colon
+33,White,Male,0,30,Colon
+49,Asain,Male,0,34,Colon
+68,African American,Male,0,38,Colon
+74,African American,Male,0,36,Colon
+80,Hispanic,Male,0,28,Colon
+76,Hispanic,Male,0,40,Colon
+70,Hispanic,Male,0,34,Colon
+77,White,Male,0,34,Colon
+76,Asain,Male,0,38,Colon
+72,African American,Male,0,37,Colon
+57,White,Male,0,35,Colon
+64,White,Male,0,33,Colon
+65,White,Male,0,28,Colon
+85,White,Male,0,36,Colon
+57,African American,Male,0,20,Colon
+44,Hispanic,Male,0,24,Colon
+59,Asain,Male,0,25,Colon
+48,White,Male,1,38,Brain
+55,White,Female,1,33,Brain
+92,White,Male,1,40,Brain
+64,White,Female,1,38,Brain
+55,White,Male,1,21,Brain
+65,White,Female,1,35,Brain
+62,White,Male,0,23,Brain
+46,White,Female,0,40,Brain
+84,African American,Male,0,38,Brain
+52,African American,Female,0,23,Brain
+95,Hispanic,Male,0,20,Brain
+80,Hispanic,Female,0,31,Brain
+52,Asain,Male,0,37,Brain
+72,Hispanic,Female,0,38,Brain
+58,Hispanic,Male,0,36,Brain
+86,White,Female,0,24,Brain
+57,White,Male,0,34,Brain
+72,White,Female,0,18,Brain
+58,Asain,Male,0,24,Brain
+62,Hispanic,Female,0,20,Brain
+91,White,Male,0,37,Brain
+65,Asain,Female,0,21,Brain
+43,White,Male,0,33,Brain
+84,African American,Female,0,20,Brain
+60,White,Male,0,22,Brain
+52,Hispanic,Female,0,31,Brain
+53,White,Male,0,28,Brain
+51,African American,Female,0,36,Brain
+38,African American,Male,0,23,Brain
+65,White,Female,0,35,Brain
+57,White,Male,0,40,Brain
+59,White,Female,0,23,Brain
+52,White,Male,0,28,Brain
+42,African American,Female,0,36,Brain
+48,White,Male,0,18,Brain
+81,White,Female,0,34,Brain
+35,Hispanic,Male,0,18,Brain
+64,White,Female,0,39,Brain
+53,White,Male,0,30,Brain
+38,White,Female,0,34,Brain
+59,White,Male,0,34,Brain
+61,White,Female,0,20,Brain
+82,White,Male,0,40,Brain
+60,White,Female,0,24,Brain
+70,White,Male,0,31,Brain
+72,White,Female,0,29,Brain
+57,White,Male,0,31,Brain
+69,African American,Female,0,24,Brain
+66,African American,Male,0,34,Brain
+51,Hispanic,Female,0,26,Brain
+55,Hispanic,Male,0,28,Brain
+60,Asain,Female,0,33,Brain
+75,African American,Male,0,18,Brain
+50,White,Female,0,38,Brain
+74,Hispanic,Male,0,28,Brain
+80,White,Male,0,32,Brain
+79,Hispanic,Female,0,27,Brain
+79,White,Male,0,20,Brain
+53,Hispanic,Female,0,20,Brain
+72,White,Male,0,29,Brain
+68,White,Female,0,24,Brain
+80,White,Male,0,32,Brain
+74,White,Female,0,39,Brain
+61,White,Male,0,28,Brain
+30,White,Female,0,31,Brain
+61,White,Male,0,22,Brain
+57,White,Female,0,23,Brain
+64,White,Male,0,21,Brain
+68,White,Female,0,29,Brain
+63,Hispanic,Female,0,26,Brain
+93,White,Male,0,35,Brain
+53,White,Female,0,31,Brain
+55,White,Male,0,36,Brain
+81,White,Female,0,21,Brain
+71,White,Male,0,32,Brain
+49,White,Female,0,36,Brain
+43,White,Male,0,20,Brain
+73,White,Female,0,25,Brain
+68,Hispanic,Male,0,25,Brain
+41,African American,Female,0,36,Brain
+80,White,Male,0,22,Brain
+83,White,Female,0,22,Brain
+52,White,Male,0,27,Brain
+61,White,Female,0,29,Brain
+60,White,Male,0,28,Brain
+76,White,Female,0,27,Brain
+72,White,Male,0,29,Brain
+60,African American,Female,0,35,Brain
+45,African American,Male,0,29,Brain
+60,Hispanic,Female,0,21,Brain
+66,Hispanic,Male,0,27,Brain
+67,Asain,Female,0,19,Brain
+63,White,Male,0,24,Brain
+73,Hispanic,Male,1,19,Lung
+55,Asain,Male,1,30,Lung
+61,White,Male,0,31,Lung
+64,White,Male,0,30,Lung
+58,White,Male,0,26,Lung
+65,Asain,Male,0,25,Lung
+84,Hispanic,Male,0,30,Lung
+59,African American,Male,0,26,Lung
+75,Hispanic,Male,0,28,Lung
+47,Asain,Male,0,26,Lung
+59,Hispanic,Male,0,20,Lung
+79,White,Male,0,25,Lung
+64,African American,Male,0,28,Lung
+57,White,Male,0,28,Lung
+69,Hispanic,Male,0,35,Lung
+48,White,Male,0,19,Lung
+78,White,Male,0,28,Lung
+64,Hispanic,Male,0,35,Lung
+81,African American,Male,0,27,Lung
+70,White,Male,0,21,Lung
+64,White,Male,0,35,Lung
+78,White,Male,0,30,Lung
+85,Asain,Male,0,30,Lung
+56,White,Male,0,24,Lung
+57,White,Male,0,31,Lung
+59,African American,Male,0,26,Lung
+63,White,Male,0,25,Lung
+60,Hispanic,Male,0,28,Lung
+86,Hispanic,Male,0,36,Lung
+70,White,Male,0,19,Lung
+63,White,Male,0,29,Lung
+81,Hispanic,Male,0,27,Lung
+77,Hispanic,Male,0,27,Lung
+74,African American,Male,0,32,Lung
+55,White,Male,0,25,Lung
+83,White,Male,0,26,Lung
+72,White,Male,0,27,Lung
+88,White,Male,0,35,Lung
+64,White,Male,0,26,Lung
+79,White,Male,0,20,Lung
+60,White,Male,0,25,Lung
+59,African American,Male,0,23,Lung
+66,African American,Male,0,36,Lung
+64,Hispanic,Male,0,33,Lung
+53,Hispanic,Male,0,23,Lung
+58,Asain,Male,0,29,Lung
+69,African American,Male,0,19,Lung
+75,White,Male,0,22,Lung
+69,African American,Male,0,24,Lung
+95,Asain,Male,0,23,Lung
+57,African American,Male,0,20,Lung
+70,African American,Male,0,22,Lung
+75,White,Male,0,20,Lung
+78,White,Male,0,20,Lung
+53,White,Male,0,22,Lung
+85,Asain,Female,1,29,Lung
+56,White,Female,0,20,Lung
+60,Hispanic,Female,0,32,Lung
+61,African American,Female,0,21,Lung
+69,White,Female,0,26,Lung
+63,Asain,Female,0,24,Lung
+63,Hispanic,Female,0,21,Lung
+51,Hispanic,Female,0,28,Lung
+71,White,Female,0,25,Lung
+68,White,Female,0,24,Lung
+62,White,Female,0,27,Lung
+64,Hispanic,Female,0,19,Lung
+71,White,Female,0,26,Lung
+62,Hispanic,Female,0,23,Lung
+74,White,Female,0,33,Lung
+88,White,Female,0,34,Lung
+79,White,Female,0,20,Lung
+51,White,Female,0,26,Lung
+76,White,Female,0,30,Lung
+81,African American,Female,0,30,Lung
+72,African American,Female,0,22,Lung
+53,Hispanic,Female,0,36,Lung
+55,Hispanic,Female,0,35,Lung
+74,Asain,Female,0,33,Lung
+61,White,Female,0,24,Lung
+62,White,Female,0,21,Lung
+55,Hispanic,Female,0,23,Lung
+54,African American,Female,0,31,Lung
+63,Hispanic,Female,0,29,Lung
+68,White,Female,0,20,Lung
+54,African American,Female,0,29,Lung
+64,White,Female,1,27,Ovarian
+62,White,Female,1,35,Ovarian
+57,African American,Female,1,29,Ovarian
+56,White,Female,1,34,Ovarian
+61,White,Female,1,21,Ovarian
+56,White,Female,1,34,Ovarian
+64,African American,Female,1,35,Ovarian
+68,White,Female,1,27,Ovarian
+67,Hispanic,Female,1,28,Ovarian
+44,African American,Female,1,34,Ovarian
+60,White,Female,1,35,Ovarian
+77,White,Female,1,26,Ovarian
+61,White,Female,1,28,Ovarian
+54,White,Female,1,22,Ovarian
+63,Hispanic,Female,1,22,Ovarian
+69,White,Female,1,25,Ovarian
+65,African American,Female,1,24,Ovarian
+64,White,Female,1,33,Ovarian
+53,Hispanic,Female,1,20,Ovarian
+71,White,Female,1,22,Ovarian
+71,Asain,Female,1,34,Ovarian
+79,White,Female,1,29,Ovarian
+72,African American,Female,1,30,Ovarian
+79,Hispanic,Female,1,32,Ovarian
+94,African American,Female,1,26,Ovarian
+65,Hispanic,Female,1,36,Ovarian
+73,White,Female,1,22,Ovarian
+59,Hispanic,Female,1,24,Ovarian
+52,White,Female,0,23,Ovarian
+77,White,Female,0,19,Ovarian
+52,Hispanic,Female,0,26,Ovarian
+64,White,Female,0,29,Ovarian
+81,White,Female,0,30,Ovarian
+71,Asain,Female,0,31,Ovarian
+88,White,Female,0,25,Ovarian
+52,White,Female,0,25,Ovarian
+96,White,Female,0,27,Ovarian
+74,Hispanic,Female,0,29,Ovarian
+77,White,Female,0,20,Ovarian
+58,White,Female,0,21,Ovarian
+93,African American,Female,0,33,Ovarian
+52,Asain,Female,0,29,Ovarian
+44,Hispanic,Female,0,19,Ovarian
+85,White,Female,0,34,Ovarian
+54,White,Female,0,35,Ovarian
+79,Hispanic,Female,0,22,Ovarian
+74,Asain,Female,0,32,Ovarian
+61,White,Female,0,33,Ovarian
+59,White,Female,0,24,Ovarian
+57,White,Female,0,30,Ovarian
+86,White,Female,0,31,Ovarian
+82,White,Female,0,36,Ovarian
+66,White,Female,0,35,Ovarian
+50,White,Female,0,20,Ovarian
+59,White,Female,0,28,Ovarian
+59,White,Female,0,31,Ovarian
+73,African American,Female,0,36,Ovarian
+72,African American,Female,0,32,Ovarian
+54,Hispanic,Female,0,28,Ovarian
+60,Hispanic,Female,0,29,Ovarian
+57,Asain,Female,0,35,Ovarian
+78,White,Female,0,33,Ovarian
+65,Asain,Female,0,25,Ovarian
+55,Hispanic,Female,0,36,Ovarian
+70,Hispanic,Female,0,28,Ovarian
+58,Hispanic,Female,0,25,Ovarian
+37,White,Female,0,20,Ovarian
+88,White,Female,0,26,Ovarian
+63,White,Female,0,27,Ovarian
+71,Hispanic,Female,0,23,Ovarian
+79,White,Female,0,28,Ovarian
+31,White,Female,0,25,Ovarian
+63,White,Female,0,23,Ovarian
+72,African American,Female,0,34,Ovarian
+52,White,Female,0,33,Ovarian
+67,Hispanic,Female,0,24,Ovarian
+67,White,Female,0,21,Ovarian
+43,White,Female,0,29,Ovarian
+58,Hispanic,Female,0,27,Ovarian
+53,Asain,Female,0,19,Ovarian
+65,Hispanic,Female,0,26,Ovarian
+69,White,Female,0,33,Ovarian
+65,White,Female,0,24,Ovarian
+69,African American,Female,0,25,Ovarian
+46,Hispanic,Female,0,27,Ovarian
+75,Hispanic,Female,0,30,Ovarian
+53,Asain,Female,0,27,Ovarian
+68,White,Female,0,32,Ovarian
+67,White,Female,0,24,Ovarian
+64,Hispanic,Female,0,22,Ovarian
+58,Hispanic,Female,0,22,Ovarian
+75,White,Female,0,26,Ovarian
+87,White,Female,0,30,Ovarian
+68,White,Female,0,31,Ovarian
+51,White,Female,0,24,Ovarian
+64,African American,Female,0,22,Ovarian
+65,White,Female,0,21,Ovarian
+58,White,Female,0,26,Ovarian
+92,White,Female,0,22,Ovarian
+39,White,Female,0,36,Ovarian
+39,White,Male,0,23,None
+26,African American,Female,0,35,None
+22,African American,Male,0,37,None
+50,Hispanic,Female,0,24,None
+31,Hispanic,Male,0,21,None
+52,Asain,Female,1,33,None
+14,Asain,Male,1,34,None
+26,Hispanic,Female,1,27,None
+22,White,Male,1,35,None
+50,White,Female,1,29,None
+31,Hispanic,Male,1,27,None
+52,White,Female,1,29,None
+14,African American,Male,1,30,None
+39,White,Female,1,31,None
+26,White,Male,1,30,None
+22,African American,Female,1,29,None
+50,Asain,Male,1,37,None
+31,White,Female,1,20,None
+52,White,Male,1,28,None
+14,African American,Female,1,30,None
+26,Asain,Male,1,31,None
+22,White,Female,1,31,None
+50,Hispanic,Male,1,38,None
+31,White,Female,1,30,None
+52,African American,Male,1,23,None
+14,White,Female,1,18,None
+39,White,Male,1,23,None
+26,Hispanic,Female,1,35,None
+22,Asain,Male,1,29,None
+50,White,Female,1,35,None
+31,White,Male,1,34,None
+52,Hispanic,Female,1,25,None
+14,White,Male,1,32,None
+26,White,Female,1,38,None
+22,White,Male,1,20,None
+50,Hispanic,Female,1,39,None
+31,African American,Male,1,38,None
+52,African American,Female,1,19,None
+14,Asain,Male,1,39,None
+39,African American,Female,1,30,None
+26,White,Male,1,33,None
+22,White,Female,1,36,None
+50,White,Male,1,29,None
+31,White,Female,1,18,None
+52,White,Male,1,29,None
+14,White,Female,1,19,None
+26,White,Male,1,21,None
+22,White,Female,1,28,None
+50,African American,Male,1,26,None
+31,African American,Female,1,30,None
+52,Hispanic,Male,1,35,None
+14,Hispanic,Female,1,29,None
+39,Asain,Male,1,33,None
+26,Hispanic,Female,1,32,None
+22,White,Male,1,36,None
+50,White,Female,1,28,None
+31,White,Male,1,27,None
+52,Asain,Female,1,22,None
+14,White,Male,1,19,None
+26,White,Female,1,26,None
+22,African American,Male,1,25,None
+50,Hispanic,Female,1,32,None
+31,African American,Male,1,18,None
+52,Hispanic,Female,1,26,None
+14,White,Male,1,31,None
+39,White,Female,1,40,None
+26,White,Male,1,34,None
+22,White,Female,1,21,None
+50,White,Male,1,31,None
+31,White,Female,1,21,None
+52,White,Male,1,27,None
+14,White,Female,1,28,None
+26,White,Male,1,39,None
+22,White,Female,1,20,None
+50,White,Male,1,25,None
+31,White,Female,1,31,None
+52,White,Male,1,40,None
+14,White,Female,1,26,None
+39,African American,Male,1,40,None
+26,White,Female,1,22,None
+22,White,Male,1,26,None
+50,White,Female,1,22,None
+31,Asain,Male,1,24,None
+52,White,Female,1,24,None
+14,White,Male,1,27,None
+26,African American,Female,1,40,None
+22,Hispanic,Male,1,40,None
+50,Hispanic,Female,1,28,None
+31,Hispanic,Male,1,35,None
+52,African American,Female,1,39,None
+14,White,Male,1,27,None
+39,African American,Female,1,26,None
+26,White,Male,1,23,None
+22,Hispanic,Female,1,22,None
+39,White,Male,1,20,None
+26,White,Female,1,36,None
+22,White,Male,1,26,None
+50,White,Female,1,40,None
+31,White,Male,1,20,None
+52,White,Female,1,38,None
+14,White,Male,1,38,None
+26,African American,Female,1,32,None
+22,African American,Male,1,33,None
+50,Hispanic,Female,1,35,None
+31,Hispanic,Male,1,30,None
+52,Asain,Female,1,27,None
+14,White,Male,1,39,None
+39,Asain,Female,1,26,None
+26,White,Male,1,29,None
+22,White,Female,1,19,None
+50,White,Male,1,22,None
+31,White,Female,1,27,None
+52,African American,Male,1,24,None
+14,White,Female,1,29,None
+26,White,Male,1,40,None
+22,African American,Female,1,20,None
+50,White,Male,1,31,None
+31,White,Female,1,38,None
+52,African American,Male,1,23,None
+14,Asain,Female,1,34,None
+39,White,Male,1,20,None
+26,Hispanic,Female,1,40,None
+22,African American,Male,1,28,None
+50,White,Female,1,35,None
+31,White,Male,1,26,None
+52,Hispanic,Female,1,40,None
+14,White,Male,1,39,None
+26,White,Female,1,26,None
+22,White,Male,1,26,None
+50,White,Female,1,18,None
+31,White,Male,1,38,None
+52,African American,Female,1,25,None
+14,Hispanic,Male,1,35,None
+39,White,Female,1,39,None
+26,White,Male,1,26,None
+22,White,Female,1,38,None
+50,Asain,Male,1,35,None
+31,Hispanic,Female,1,18,None
+52,Hispanic,Male,1,32,None
+14,White,Female,1,19,None
+26,Asain,Male,1,18,None
+22,White,Female,1,28,None
+50,White,Male,1,31,None
+31,White,Female,1,33,None
+52,White,Male,1,36,None
+14,White,Female,1,25,None
+39,White,Male,1,27,None
+26,White,Female,1,22,None
+22,African American,Male,1,23,None
+50,African American,Female,1,36,None
+31,Hispanic,Male,1,31,None
+52,Hispanic,Female,1,38,None
+14,Asain,Male,1,30,None
+26,White,Female,1,36,None
+22,Asain,Male,1,35,None
+50,Hispanic,Female,1,40,None
+31,White,Male,1,31,None
+52,White,Female,1,34,None
+14,African American,Male,1,18,None
+39,White,Female,1,30,None
+26,White,Male,1,38,None
+22,White,Female,1,35,None
+50,White,Male,1,35,None
+31,White,Female,1,29,None
+52,African American,Male,1,38,None
+14,White,Female,1,27,None
+26,White,Male,1,31,None
+22,African American,Female,1,18,None
+50,White,Male,1,36,None
+31,African American,Female,1,20,None
+52,White,Male,1,33,None
+14,White,Female,1,19,None
+39,Hispanic,Male,1,31,None
+26,White,Female,1,33,None
+22,White,Male,1,18,None
+50,White,Female,1,40,None
+31,White,Male,1,40,None
+52,African American,Female,1,29,None
+14,White,Male,1,18,None
+26,White,Female,1,29,None
+22,White,Male,1,38,None
+50,African American,Female,1,31,None
+31,White,Male,1,23,None
+52,White,Female,1,32,None
+14,Hispanic,Male,1,26,None
+39,Asain,Female,1,37,None
+26,Asain,Male,1,25,None
+22,White,Female,1,23,None
+39,Hispanic,Male,1,37,None
+26,Asain,Female,1,34,None
+22,Hispanic,Male,1,30,None
+50,Hispanic,Female,1,23,None
+31,Hispanic,Male,1,28,None
+52,Asain,Female,1,26,None
+14,Hispanic,Male,1,39,None
+26,African American,Female,1,39,None
+22,Hispanic,Male,1,39,None
+50,White,Female,1,25,None
+31,Asain,Male,1,22,None
+52,White,Female,1,38,None
+14,African American,Male,1,31,None
+39,White,Female,1,23,None
+26,African American,Male,1,38,None
+22,African American,Female,1,20,None
+50,White,Male,1,27,None
+31,Hispanic,Female,1,38,None
+52,White,Male,1,37,None
+14,Hispanic,Female,1,39,None
+26,Hispanic,Male,1,27,None
+22,White,Female,1,30,None
+50,White,Male,1,19,None
+31,White,Female,1,27,None
+52,White,Male,1,26,None
+14,White,Female,1,36,None
+39,White,Male,1,29,None
+26,White,Female,1,34,None
+22,African American,Male,1,32,None
+50,African American,Female,1,33,None
+31,Hispanic,Male,1,18,None
+52,Hispanic,Female,1,38,None
+14,Asain,Male,1,39,None
+26,White,Female,1,18,None
+22,Hispanic,Male,1,24,None
+50,Hispanic,Female,1,35,None
+31,Hispanic,Male,1,22,None
+52,African American,Female,1,20,None
+14,Asain,Male,1,25,None
+39,African American,Female,1,34,None
+26,African American,Male,1,26,None
+22,White,Female,1,23,None
+50,White,Male,1,33,None
+31,Hispanic,Female,1,37,None
+52,Hispanic,Male,1,33,None
+14,Hispanic,Female,1,30,None
+26,African American,Male,1,39,None
+22,White,Female,1,29,None
+50,White,Male,1,19,None
+31,White,Female,1,37,None
+52,White,Male,1,40,None
+14,Hispanic,Female,1,28,None
+39,White,Male,1,37,None
+26,White,Female,1,35,None
+22,African American,Male,1,36,None
+50,White,Female,1,21,None
+31,African American,Male,1,23,None
+52,Hispanic,Female,1,21,None
+14,White,Male,1,25,None
+26,White,Female,1,21,None
+22,White,Male,1,28,None
+50,White,Female,1,34,None
+31,White,Male,1,22,None
+52,African American,Female,1,25,None
+14,African American,Male,1,20,None
+39,Hispanic,Female,1,39,None
+26,African American,Male,1,22,None
+22,White,Female,1,21,None
+50,White,Male,1,27,None
+31,White,Female,1,31,None
+52,White,Male,1,27,None
+14,White,Female,1,18,None
+26,White,Male,1,26,None
+22,African American,Female,1,18,None
+50,African American,Male,1,20,None
+31,Hispanic,Female,1,20,None
+52,Hispanic,Male,1,30,None
+14,Asain,Female,1,36,None
+39,White,Male,1,20,None
+26,Hispanic,Female,1,30,None
+22,African American,Male,1,20,None
+50,Hispanic,Female,1,30,None
+31,White,Male,1,29,None
+52,Hispanic,Female,1,29,None
+14,African American,Male,1,40,None
+26,White,Female,1,30,None
+22,Asain,Male,1,29,None
+50,Hispanic,Female,1,20,None
+26,Hispanic,Male,1,25,None
+22,White,Female,1,26,None
+50,African American,Male,1,32,None
+31,Hispanic,Female,1,30,None
+52,White,Male,1,24,None
+14,White,Female,1,18,None
+26,White,Male,1,33,None
+22,White,Female,1,34,None
+50,White,Male,1,34,None
+31,White,Female,1,23,None
+52,White,Male,1,38,None
+14,White,Female,1,34,None
+39,African American,Male,1,34,None
+26,African American,Female,1,25,None
+22,Hispanic,Male,1,19,None
+50,Hispanic,Female,1,25,None
+31,Asain,Male,1,18,None
+52,White,Female,1,27,None
+14,White,Male,1,24,None
+26,African American,Female,1,28,None
+22,White,Male,1,19,None
+50,White,Female,1,18,None
+31,White,Male,1,26,None
+52,White,Female,1,37,None
+14,Asain,Male,1,36,None
+39,Hispanic,Female,1,26,None
+26,African American,Male,1,27,None
+22,White,Female,1,32,None
+50,White,Male,1,29,None
+31,African American,Female,1,36,None
+52,White,Male,1,25,None
+14,White,Female,1,25,None
+26,Asain,Male,1,32,None
+22,White,Female,1,25,None
+50,African American,Male,1,29,None
+31,African American,Female,1,18,None
+52,White,Male,1,31,None
+14,White,Female,1,28,None
+39,Hispanic,Male,1,32,None
+26,White,Female,1,30,None
+22,Hispanic,Male,1,39,None
+50,Hispanic,Female,1,38,None
+31,African American,Male,1,36,None
+52,White,Female,1,33,None
+14,African American,Male,1,39,None
+26,White,Female,1,20,None
+22,White,Male,1,37,None
+50,White,Female,1,26,None
+31,White,Male,1,35,None
+52,White,Female,1,27,None
+14,Asain,Male,1,26,None
+39,White,Female,1,39,None
+26,White,Male,1,23,None
+22,White,Female,1,18,None
+50,White,Male,1,32,None
+31,White,Female,1,31,None
+52,White,Male,1,21,None
+14,White,Female,1,22,None
+26,White,Male,1,34,None
+22,African American,Female,1,35,None
+50,African American,Male,1,26,None
+31,Hispanic,Female,1,36,None
+52,Hispanic,Male,1,38,None
+14,Asain,Female,1,35,None
+39,White,Male,1,24,None
+26,Hispanic,Female,1,24,None
+22,White,Male,1,40,None
+50,African American,Female,1,38,None
+31,White,Male,1,32,None
+52,Hispanic,Female,1,34,None
+14,African American,Male,1,22,None
+26,White,Female,1,34,None
+22,White,Male,1,18,None
+50,White,Female,1,35,None
+31,Asain,Male,1,19,None
+52,White,Female,1,22,None
+14,White,Male,1,35,None
+39,White,Female,1,19,None
+26,Asain,Male,1,24,None
+22,White,Female,1,21,None
+39,White,Male,1,23,None
+26,Hispanic,Female,1,31,None
+22,White,Male,1,26,None
+50,White,Female,1,20,None
+31,White,Male,1,21,None
+52,African American,Female,1,27,None
+14,White,Male,1,20,None
+26,White,Female,1,21,None
+22,Hispanic,Male,1,18,None
+50,White,Female,1,38,None
+31,White,Male,1,33,None
+52,White,Female,1,27,None
+14,Hispanic,Male,1,27,None
+39,White,Female,1,20,None
+26,White,Male,1,31,None
+22,White,Female,1,21,None
+50,White,Male,1,18,None
+31,Hispanic,Female,1,25,None
+52,White,Male,1,33,None
+14,White,Female,1,20,None
+26,White,Male,1,33,None
+22,White,Female,1,29,None
+50,White,Male,1,40,None
+31,White,Female,1,34,None
+52,White,Male,1,36,None
+14,White,Female,1,18,None
+39,African American,Male,1,21,None
+26,African American,Female,1,34,None
+22,Hispanic,Male,1,25,None
+50,Hispanic,Female,1,38,None
+31,Asain,Male,1,37,None
+52,White,Female,1,26,None
+14,White,Male,1,18,None
+26,White,Female,1,38,None
+22,White,Male,1,23,None
+50,Hispanic,Female,1,19,None
+31,Asain,Male,1,25,None
+52,White,Female,1,39,None
+14,White,Male,1,22,None
+39,White,Female,1,40,None
+26,White,Male,1,40,None
+22,African American,Female,1,21,None
+50,White,Male,1,23,None
+31,White,Female,1,18,None
+52,Hispanic,Male,1,40,None
+14,White,Female,1,39,None
+26,White,Male,1,31,None
+22,Hispanic,Female,1,31,None
+50,White,Male,1,31,None
+31,African American,Female,1,28,None
+52,White,Male,1,39,None
+14,White,Female,1,30,None
+39,African American,Male,1,23,None
+26,White,Female,1,32,None
+22,White,Male,1,40,None
+50,White,Female,1,20,None
+31,White,Male,1,19,None
+52,Hispanic,Female,1,19,None
+14,African American,Male,1,24,None
+26,Asain,Female,1,28,None
+22,White,Male,1,21,None
+50,White,Female,1,18,None
+31,White,Male,1,27,None
+52,Hispanic,Female,1,34,None
+14,White,Male,1,39,None
+39,White,Female,1,29,None
+26,African American,Male,1,22,None
+22,African American,Female,1,26,None
+50,African American,Male,1,39,None
+31,White,Female,1,35,None
+52,White,Male,1,30,None
+14,African American,Female,1,34,None
+26,White,Male,1,33,None
+22,Asain,Female,1,27,None
+50,Hispanic,Male,1,40,None
+31,White,Female,1,35,None
+52,African American,Male,1,24,None
+14,Hispanic,Female,1,35,None
+39,White,Male,1,33,None
+26,Hispanic,Female,1,19,None
+22,Asain,Male,1,37,None
+50,White,Female,1,26,None
+31,African American,Male,1,25,None
+52,White,Female,1,35,None
+14,White,Male,1,36,None
+26,White,Female,1,36,None
+22,Asain,Male,1,34,None
+50,White,Female,1,23,None
+31,White,Male,1,35,None
+52,White,Female,1,33,None
+14,White,Male,1,31,None
+39,White,Female,1,19,None
+26,White,Male,1,23,None
+22,White,Female,1,28,None
+39,African American,Male,1,19,None
+26,African American,Female,1,34,None
+22,Hispanic,Male,1,30,None
+50,Hispanic,Female,1,40,None
+31,Asain,Male,1,39,None
+52,Hispanic,Female,1,30,None
+14,Hispanic,Male,1,38,None
+26,African American,Female,1,25,None
+22,Hispanic,Male,1,21,None
+50,Hispanic,Female,1,26,None
+31,White,Male,1,22,None
+52,Hispanic,Female,1,20,None
+14,Asain,Male,1,20,None
+39,White,Female,1,20,None
+26,African American,Male,1,26,None
+22,White,Female,1,37,None
+50,Asain,Male,1,39,None
+31,White,Female,1,31,None
+52,African American,Male,1,26,None
+14,Asain,Female,1,38,None
+26,White,Male,1,18,None
+22,White,Female,1,37,None
+50,White,Male,1,32,None
+31,White,Female,1,28,None
+52,African American,Male,1,28,None
+14,Asain,Female,1,23,None
+39,White,Male,1,35,None
+26,White,Female,1,26,None
+22,Hispanic,Male,1,21,None
+50,African American,Female,1,35,None
+31,White,Male,1,33,None
+52,African American,Female,1,32,None
+14,African American,Male,1,38,None
+26,White,Female,1,18,None
+22,African American,Male,1,34,None
+50,White,Female,1,37,None
+31,Asain,Male,1,31,None
+52,White,Female,1,27,None
+14,White,Male,1,31,None
+39,White,Female,1,23,None
+26,White,Male,1,36,None
+22,White,Female,1,24,None
+50,African American,Male,1,19,None
+31,Hispanic,Female,1,22,None
+52,White,Male,1,33,None
+14,White,Female,1,24,None
+26,African American,Male,1,36,None
+22,Asain,Female,1,28,None
+50,Asain,Male,1,37,None
+31,Hispanic,Female,1,20,None
+52,White,Male,1,28,None
+14,White,Female,1,28,None
+39,Asain,Male,1,37,None
+26,White,Female,1,36,None
+22,Asain,Male,1,35,None
+50,White,Female,1,32,None
+31,White,Male,1,20,None
+52,White,Female,1,24,None
+14,White,Male,1,33,None
+26,White,Female,1,39,None
+22,White,Male,1,26,None
+50,White,Female,1,30,None
+31,White,Male,1,18,None
+52,White,Female,1,30,None
+14,White,Male,1,24,None
+39,White,Female,1,25,None
+26,White,Male,1,37,None
+22,White,Female,1,18,None
+50,White,Male,1,32,None
+31,White,Female,1,22,None
+52,White,Male,1,22,None
+14,White,Female,1,27,None
+26,White,Male,1,21,None
+22,White,Female,1,31,None
+50,White,Male,1,38,None
+31,White,Female,1,38,None
+52,White,Male,1,20,None
+14,White,Female,1,26,None
+39,White,Male,1,31,None
+26,White,Female,0,22,None
+22,White,Male,0,29,None
+50,White,Female,0,19,None
+31,White,Male,0,40,None
+52,White,Female,0,21,None
+14,White,Male,0,20,None
+26,African American,Female,0,38,None
+22,African American,Male,0,31,None
+50,Hispanic,Female,0,30,None
+31,Hispanic,Male,0,39,None
+52,Asain,Female,0,39,None
+14,White,Male,0,21,None
+39,White,Female,0,28,None
+26,White,Male,0,34,None
+22,White,Female,0,32,None
+39,Hispanic,Male,0,31,None
+26,White,Female,0,18,None
+22,Asain,Male,0,25,None
+50,Hispanic,Female,0,23,None
+31,White,Male,0,34,None
+52,White,Female,0,40,None
+14,African American,Male,0,18,None
+26,Hispanic,Female,0,24,None
+22,White,Male,0,22,None
+50,White,Female,0,35,None
+31,African American,Male,0,26,None
+52,White,Female,0,30,None
+14,White,Male,0,22,None
+39,Asain,Female,0,31,None
+26,African American,Male,0,19,None
+22,White,Female,0,23,None
+50,White,Male,0,18,None
+31,White,Female,0,24,None
+52,White,Male,0,26,None
+14,African American,Female,0,19,None
+26,African American,Male,0,38,None
+22,White,Female,0,26,None
+50,White,Male,0,24,None
+31,Asain,Female,0,22,None
+52,White,Male,0,27,None
+14,African American,Female,0,21,None
+39,White,Male,0,33,None
+26,White,Female,0,21,None
+22,White,Male,0,40,None
+50,White,Female,0,25,None
+31,White,Male,0,30,None
+52,Asain,Female,0,26,None
+14,Asain,Male,0,24,None
+26,Hispanic,Female,0,35,None
+22,White,Male,0,29,None
+50,White,Female,0,36,None
+31,African American,Male,0,22,None
+52,White,Female,0,37,None
+14,Asain,Male,0,33,None
+39,Asain,Female,0,38,None
+26,White,Male,0,18,None
+22,White,Female,0,31,None
+50,White,Male,0,30,None
+31,White,Female,0,36,None
+52,African American,Male,0,23,None
+14,African American,Female,0,22,None
+26,Hispanic,Male,0,28,None
+22,Hispanic,Female,0,21,None
+50,Asain,Male,0,18,None
+31,African American,Female,0,29,None
+52,Asain,Male,0,39,None
+14,African American,Female,0,34,None
+39,Hispanic,Male,0,31,None
+26,Hispanic,Female,0,27,None
+22,African American,Male,0,25,None
+50,Asain,Female,0,36,None
+31,Asain,Male,0,20,None
+52,Hispanic,Female,0,35,None
+14,Asain,Male,0,38,None
+26,White,Female,0,37,None
+22,Asain,Male,0,19,None
+50,White,Female,0,31,None
+31,Asain,Male,0,24,None
+52,White,Female,0,18,None
+14,Hispanic,Male,0,23,None
+39,Asain,Female,0,33,None
+26,White,Male,0,30,None
+22,Asain,Female,0,35,None
+50,African American,Male,0,38,None
+31,African American,Female,0,36,None
+52,White,Male,0,26,None
+14,Asain,Female,0,22,None
+26,Asain,Male,0,22,None
+22,African American,Female,0,38,None
+50,Asain,Male,0,23,None
+31,Hispanic,Female,0,21,None
+52,Asain,Male,0,30,None
+14,Hispanic,Female,0,32,None
+39,White,Male,0,32,None
+26,Hispanic,Female,0,20,None
+22,White,Male,0,37,None
+50,Asain,Female,0,22,None
+31,Hispanic,Male,0,36,None
+52,White,Female,0,37,None
+14,White,Male,0,19,None
+26,White,Female,0,20,None
+22,White,Male,0,32,None
+50,White,Female,0,39,None
+31,White,Male,0,29,None
+52,African American,Female,0,27,None
+14,African American,Male,0,36,None
+39,Hispanic,Female,0,31,None
+26,Hispanic,Male,0,18,None
+22,Asain,Female,0,32,None
+39,Hispanic,Male,0,38,None
+26,Hispanic,Female,0,25,None
+22,African American,Male,0,27,None
+50,Hispanic,Female,0,31,None
+31,White,Male,0,36,None
+52,Hispanic,Female,0,34,None
+14,African American,Male,0,40,None
+26,Asain,Female,0,34,None
+22,Hispanic,Male,0,27,None
+50,African American,Female,0,34,None
+31,White,Male,0,26,None
+52,Hispanic,Female,0,24,None
+14,African American,Male,0,20,None
+39,White,Female,0,19,None
+26,African American,Male,0,21,None
+22,Hispanic,Female,0,30,None
+50,White,Male,0,40,None
+31,Asain,Female,0,18,None
+52,White,Male,0,32,None
+50,African American,Male,0,31,None
+31,African American,Female,0,19,None
+52,Hispanic,Male,0,18,None
+14,Hispanic,Female,0,32,None
+26,Asain,Male,0,23,None
+22,African American,Female,0,22,None
+50,Asain,Male,0,23,None
+31,African American,Female,0,30,None
+52,Hispanic,Male,0,18,None
+14,African American,Female,0,36,None
+39,Asain,Male,0,32,None
+26,African American,Female,0,31,None
+22,Hispanic,Male,0,18,None
+50,Hispanic,Female,0,28,None
+31,Hispanic,Male,0,33,None
+52,Hispanic,Female,0,31,None
+14,African American,Male,0,22,None
+26,Asain,Female,0,29,None
+22,Hispanic,Male,0,32,None
+50,Asain,Female,0,33,None
+31,Hispanic,Male,0,25,None
+52,Hispanic,Female,0,23,None
+14,Asain,Male,0,36,None
+39,Hispanic,Female,0,39,None
+26,Asain,Male,0,31,None
+22,Hispanic,Female,0,19,None
+50,African American,Male,0,21,None
+31,Hispanic,Female,0,30,None
+52,African American,Male,0,21,None
+14,Hispanic,Female,0,36,None
+26,African American,Male,0,30,None
+22,Hispanic,Female,0,34,None
+50,Hispanic,Male,0,22,None
+31,African American,Female,0,37,None
+52,African American,Male,0,38,None
+14,Asain,Female,0,31,None
+39,Asain,Male,0,40,None
+26,Asain,Female,0,34,None
+22,African American,Male,0,33,None
+50,African American,Female,0,18,None
+31,White,Male,0,18,None
+52,White,Female,0,40,None
+14,White,Male,0,40,None
+26,White,Female,0,34,None
+22,White,Male,0,33,None
+50,White,Female,0,21,None
+31,White,Male,0,22,None
+52,African American,Female,0,24,None
+14,African American,Male,0,19,None
+39,Hispanic,Female,0,31,None
+26,Hispanic,Male,0,36,None
+22,Asain,Female,0,25,None
+31,White,Male,0,18,None
+52,White,Female,0,27,None
+14,African American,Male,0,27,None
+26,White,Female,0,36,None
+22,White,Male,0,32,None
+50,White,Female,0,26,None
+31,Hispanic,Male,0,23,None
+52,White,Female,0,31,None
+14,White,Male,0,35,None
+39,African American,Female,0,22,None
+26,White,Male,0,38,None
+22,White,Female,0,34,None
+50,White,Male,0,33,None
+31,Hispanic,Female,0,19,None
+52,White,Male,0,28,None
+14,Hispanic,Female,0,28,None
+26,White,Male,0,19,None
+22,Asain,Female,0,30,None
+50,White,Male,0,26,None
+31,White,Female,0,26,None
+52,White,Male,0,23,None
+14,White,Female,0,23,None
+39,African American,Male,0,22,None
+26,Hispanic,Female,0,31,None
+22,White,Male,0,20,None
+50,White,Female,0,25,None
+31,White,Male,0,27,None
+52,Hispanic,Female,0,31,None
+14,Hispanic,Male,0,23,None
+26,Hispanic,Female,0,27,None
+22,White,Male,0,33,None
+50,White,Female,0,29,None
+31,African American,Male,0,32,None
+52,White,Female,0,36,None
+14,White,Male,0,26,None
+39,White,Female,0,22,None
+26,White,Male,0,18,None
+22,White,Female,0,21,None
+50,White,Male,0,23,None
+31,White,Female,0,38,None
+52,White,Male,0,21,None
+14,White,Female,0,25,None
+26,African American,Male,0,40,None
+22,African American,Female,0,20,None
+50,Hispanic,Male,0,37,None
+31,Hispanic,Female,0,29,None
+52,Asain,Male,0,20,None
+14,White,Female,0,21,None
+39,White,Male,0,25,None
+26,White,Female,0,23,None
+22,White,Male,0,36,None
+50,White,Female,0,36,None
+31,African American,Male,0,40,None
+52,White,Female,0,39,None
+14,White,Male,0,33,None
+26,African American,Female,0,19,None
+22,African American,Male,0,21,None
+50,Hispanic,Female,0,40,None
+31,White,Male,0,38,None
+52,Asain,Female,0,29,None
+14,White,Male,0,30,None
+39,African American,Female,0,26,None
+26,African American,Male,0,24,None
+22,Asain,Female,0,32,None
+50,White,Male,0,40,None
+31,White,Female,0,24,None
+52,White,Male,0,29,None
+14,White,Female,0,20,None
+26,White,Male,0,28,None
+22,White,Female,0,24,None
+50,White,Male,0,31,None
+31,White,Female,0,24,None
+52,White,Male,0,21,None
+14,White,Female,0,21,None
+39,White,Male,0,33,None
+26,White,Female,0,22,None
+22,African American,Male,0,39,None
+50,White,Female,0,22,None
+31,White,Male,0,39,None
+52,Hispanic,Female,0,36,None
+14,White,Male,0,27,None
+26,White,Female,0,35,None
+22,White,Male,0,25,None
+50,White,Female,0,32,None
+31,African American,Male,0,22,None
+52,White,Female,0,38,None
+14,African American,Male,0,21,None
+39,Hispanic,Female,0,25,None
+26,Hispanic,Male,0,36,None
+22,Asain,Female,0,25,None
+39,Hispanic,Male,0,26,None
+26,White,Female,0,40,None
+22,White,Male,0,19,None
+50,White,Female,0,35,None
+31,African American,Male,0,37,None
+52,African American,Female,0,26,None
+14,White,Male,0,34,None
+26,White,Female,0,40,None
+22,Hispanic,Male,0,24,None
+50,African American,Female,0,33,None
+31,White,Male,0,22,None
+52,White,Female,0,25,None
+14,Asain,Male,0,40,None
+39,White,Female,0,27,None
+26,White,Male,0,39,None
+22,White,Female,0,18,None
+50,White,Male,0,32,None
+31,White,Female,0,39,None
+52,White,Male,0,21,None
+14,White,Female,0,39,None
+26,African American,Male,0,30,None
+22,African American,Female,0,21,None
+50,Hispanic,Male,0,20,None
+31,Hispanic,Female,0,37,None
+52,Asain,Male,0,35,None
+14,White,Female,0,38,None
+39,White,Male,0,26,None
+26,White,Female,0,27,None
+22,White,Male,0,25,None
+50,White,Female,0,32,None
+31,White,Male,0,24,None
+52,Hispanic,Female,0,37,None
+14,African American,Male,0,36,None
+26,White,Female,0,21,None
+22,African American,Male,0,30,None
+50,White,Female,0,18,None
+31,Hispanic,Male,0,24,None
+52,White,Female,0,19,None
+14,White,Male,0,32,None
+39,White,Female,0,38,None
+26,Asain,Male,0,34,None
+22,Hispanic,Female,0,37,None
+50,African American,Male,0,36,None
+31,African American,Female,0,32,None
+52,White,Male,0,39,None
+14,White,Female,0,19,None
+26,Hispanic,Male,0,39,None
+22,African American,Female,0,34,None
+50,African American,Male,0,19,None
+31,White,Female,0,26,None
+52,White,Male,0,26,None
+14,White,Female,0,20,None
+39,Hispanic,Male,0,37,None
+26,Asain,Female,0,23,None
+22,White,Male,0,25,None
+50,White,Female,0,30,None
+31,White,Male,0,27,None
+52,White,Female,0,26,None
+14,White,Male,0,19,None
+26,White,Female,0,33,None
+22,White,Male,0,39,None
+50,White,Female,0,35,None
+31,African American,Male,0,30,None
+52,Hispanic,Female,0,25,None
+14,White,Male,0,24,None
+39,Asain,Female,0,31,None
+26,White,Male,0,30,None
+22,White,Female,0,24,None
+50,White,Male,0,30,None
+31,Asain,Female,0,24,None
+52,Hispanic,Male,0,18,None
+14,Asain,Female,0,25,None
+26,Hispanic,Male,0,22,None
+22,White,Female,0,30,None
+50,White,Male,0,40,None
+31,Hispanic,Female,0,20,None
+52,White,Male,0,22,None
+14,African American,Female,0,24,None
+39,White,Male,0,32,None
+26,Asain,Female,0,38,None
+22,White,Male,0,40,None
+50,African American,Female,0,22,None
+31,African American,Male,0,24,None
+52,African American,Female,0,34,None
+14,White,Male,0,25,None
+26,Asain,Female,0,19,None
+22,African American,Male,0,38,None
+50,African American,Female,0,20,None
+31,White,Male,0,25,None
+52,Asain,Female,0,26,None
+14,Asain,Male,0,23,None
+39,African American,Female,0,26,None
+26,African American,Male,0,40,None
+22,White,Female,0,20,None
+39,African American,Male,0,34,None
+26,Asain,Female,0,25,None
+22,Asain,Male,0,22,None
+50,Hispanic,Female,0,22,None
+31,White,Male,0,26,None
+52,White,Female,0,35,None
+14,White,Male,0,36,None
+26,White,Female,0,18,None
+22,White,Male,0,27,None
+50,White,Female,0,23,None
+31,White,Male,0,21,None
+52,African American,Female,0,35,None
+14,African American,Male,0,38,None
+39,Hispanic,Female,0,35,None
+26,Hispanic,Male,0,38,None
+22,Asain,Female,0,34,None
+50,White,Male,0,21,None
+31,African American,Female,0,27,None
+52,African American,Male,0,25,None
+14,African American,Female,0,26,None
+26,White,Male,0,31,None
+22,Asain,Female,0,35,None
+50,White,Male,0,28,None
+31,Hispanic,Male,0,38,None
+52,African American,Female,0,23,None
+14,Hispanic,Male,0,19,None
+26,African American,Female,0,29,None
+22,White,Male,0,27,None
+50,African American,Female,0,28,None
+31,White,Male,0,32,None
+52,Asain,Female,0,21,None
+14,African American,Male,0,28,None
+39,White,Female,0,20,None
+26,Hispanic,Male,0,34,None
+22,Hispanic,Female,0,37,None
+50,African American,Male,0,40,None
+31,White,Female,0,35,None
+52,White,Male,0,19,None
+14,White,Female,0,39,None
+26,White,Male,0,35,None
+22,Asain,Female,0,27,None
+50,White,Male,0,21,None
+31,White,Female,0,24,None
+52,White,Male,0,19,None
+14,Asain,Female,0,33,None
+39,White,Male,0,36,None
+26,White,Female,0,23,None
+22,White,Male,0,35,None
+50,White,Female,0,23,None
+31,African American,Male,0,24,None
+52,African American,Female,0,39,None
+14,African American,Male,0,28,None
+26,White,Female,0,29,None
+22,White,Male,0,34,None
+50,African American,Female,0,23,None
+31,White,Male,0,22,None
+52,White,Female,0,30,None
+14,African American,Male,0,32,None
+39,African American,Female,0,39,None
+26,Hispanic,Male,0,32,None
+22,Hispanic,Female,0,27,None
+50,Asain,Male,0,19,None
+31,African American,Female,0,32,None
+52,Hispanic,Male,0,36,None
+14,African American,Female,0,24,None
+26,African American,Male,0,37,None
+22,African American,Female,0,23,None
+50,African American,Male,0,22,None
+31,White,Female,0,21,None
+52,Hispanic,Male,0,18,None
+14,Hispanic,Female,0,25,None
+39,White,Male,0,39,None
+26,African American,Female,0,19,None
+22,White,Male,0,33,None
+50,White,Female,0,32,None
+31,African American,Male,0,27,None
+52,Hispanic,Female,0,39,None
+14,African American,Male,0,36,None
+26,White,Female,0,24,None
+22,White,Male,0,22,None
+50,Asain,Female,0,30,None
+31,African American,Male,0,30,None
+52,White,Female,0,22,None
+14,African American,Male,0,32,None
+39,African American,Female,0,31,None
+26,Hispanic,Male,0,27,None
+22,Hispanic,Female,0,24,None
+39,African American,Male,0,35,None
+26,African American,Female,0,38,None
+22,African American,Male,0,20,None
+50,Asain,Female,0,22,None
+31,Hispanic,Male,0,33,None
+52,African American,Female,0,40,None
+14,Hispanic,Male,0,20,None
+26,White,Female,0,38,None
+22,Hispanic,Male,0,33,None
+50,White,Female,0,25,None
+31,White,Male,0,27,None
+52,White,Female,0,38,None
+14,White,Male,0,38,None
+39,White,Female,0,39,None
+26,White,Male,0,30,None
+22,African American,Female,0,18,None
+50,African American,Male,0,31,None
+31,Hispanic,Female,0,18,None
+52,Hispanic,Male,0,28,None
+14,Asain,Female,0,30,None
+26,White,Male,0,18,None
+22,African American,Female,0,38,None
+50,Hispanic,Male,0,26,None
+31,African American,Female,0,20,None
+52,White,Male,0,33,None
+14,Hispanic,Female,0,20,None
+39,Hispanic,Male,0,33,None
+26,White,Female,0,23,None
+22,White,Male,0,28,None
+50,White,Female,0,34,None
+31,White,Male,0,19,None
+52,White,Female,0,36,None
+14,White,Male,0,18,None
+26,African American,Female,0,18,None
+22,White,Male,0,40,None
+50,African American,Female,0,39,None
+31,White,Male,0,40,None
+52,White,Female,0,20,None
+14,Hispanic,Male,0,36,None
+39,White,Female,0,23,None
+26,Hispanic,Male,0,25,None
+22,White,Female,0,33,None
+50,White,Male,0,40,None
+31,African American,Female,0,28,None
+52,White,Male,0,29,None
+14,Hispanic,Female,0,27,None
+26,Hispanic,Male,0,35,None
+22,White,Female,0,38,None
+50,African American,Male,0,28,None
+31,White,Female,0,26,None
+52,White,Male,0,36,None
+14,Hispanic,Female,0,40,None
+39,Hispanic,Male,0,34,None
+26,White,Female,0,32,None
+22,Asain,Male,0,32,None
+50,White,Female,0,22,None
+31,White,Male,0,23,None
+52,White,Female,0,21,None
+14,White,Male,0,20,None
+26,White,Female,0,25,None
+22,White,Male,0,29,None
+50,White,Female,0,28,None
+31,African American,Male,0,34,None
+52,African American,Female,0,22,None
+14,Hispanic,Male,0,29,None
+39,Hispanic,Female,0,18,None
+26,Asain,Male,0,37,None
+22,White,Female,0,21,None
+50,Hispanic,Male,0,37,None
+31,White,Female,0,23,None
+52,White,Male,0,31,None
+14,Hispanic,Female,0,39,None
+26,White,Male,0,25,None
+22,White,Female,0,36,None
+50,White,Male,0,35,None
+31,White,Female,0,35,None
+52,White,Male,0,37,None
+14,White,Female,0,21,None
+39,African American,Male,0,30,None
+26,White,Female,0,22,None
+22,Hispanic,Male,0,18,None
+50,White,Female,0,34,None
+31,White,Male,0,21,None
+52,Hispanic,Female,0,21,None
+14,Hispanic,Male,0,24,None
+26,White,Female,0,26,None
+22,White,Male,0,30,None
+50,African American,Female,0,39,None
+31,White,Male,0,39,None
+52,Hispanic,Female,0,39,None
+14,White,Male,0,39,None
+39,White,Female,0,30,None
+26,White,Male,0,29,None
+22,Asain,Female,0,28,None
+39,Hispanic,Male,0,28,None
+26,Hispanic,Female,0,32,None
+22,African American,Male,0,36,None
+50,Hispanic,Female,0,23,None
+31,White,Male,0,36,None
+52,Asain,Female,0,38,None
+14,African American,Male,0,23,None
+26,White,Female,0,37,None
+22,White,Male,0,26,None
+50,White,Female,0,23,None
+31,White,Male,0,36,None
+52,White,Female,0,27,None
+14,White,Male,0,24,None
+39,White,Female,0,40,None
+26,White,Male,0,22,None
+22,African American,Female,0,38,None
+50,African American,Male,0,21,None
+31,Hispanic,Female,0,28,None
+52,Hispanic,Male,0,22,None
+14,Asain,Female,0,40,None
+26,White,Male,0,28,None
+22,African American,Female,0,23,None
+50,White,Male,0,26,None
+31,White,Female,0,25,None
+52,White,Male,0,38,None
+14,White,Female,0,30,None
+39,White,Male,0,40,None
+26,White,Female,0,22,None
+22,White,Male,0,40,None
+50,White,Female,0,31,None
+31,White,Male,0,33,None
+52,White,Female,0,25,None
+14,White,Male,0,34,None
+26,White,Female,0,38,None
+22,White,Male,0,32,None
+50,White,Female,0,40,None
+31,Asain,Male,0,20,None
+52,Hispanic,Female,0,25,None
+14,African American,Male,0,34,None
+39,African American,Female,0,27,None
+26,African American,Male,0,40,None
+22,Hispanic,Female,0,20,None
+50,White,Male,0,22,None
+31,Hispanic,Female,0,36,None
+52,White,Male,0,35,None
+14,African American,Female,0,28,None
+26,Hispanic,Male,0,35,None
+22,Hispanic,Female,0,19,None
+50,White,Male,0,24,None
+31,Hispanic,Female,0,26,None
+52,White,Male,0,32,None
+14,Hispanic,Female,0,22,None
+39,Hispanic,Male,0,38,None
+26,White,Female,0,32,None
+22,Hispanic,Male,0,24,None
+50,White,Female,0,32,None
+31,White,Male,0,38,None
+52,White,Female,0,21,None
+14,White,Male,0,18,None
+26,White,Female,0,29,None
+22,White,Male,0,22,None
+50,White,Female,0,39,None
+31,African American,Male,0,22,None
+52,African American,Female,0,31,None
+14,Hispanic,Male,0,38,None
+39,Hispanic,Female,0,33,None
+26,Asain,Male,0,21,None
+22,White,Female,0,33,None
+50,White,Male,0,38,None
+31,White,Female,0,36,None
+52,Hispanic,Male,0,23,None
+14,African American,Female,0,23,None
+26,Asain,Male,0,34,None
+22,Hispanic,Female,0,32,None
+50,African American,Male,0,37,None
+31,White,Female,0,29,None
+52,White,Male,0,27,None
+14,White,Female,0,38,None
+39,African American,Male,0,26,None
+26,White,Female,0,26,None
+22,Asain,Male,0,40,None
+50,White,Female,0,21,None
+31,White,Male,0,22,None
+52,White,Female,0,18,None
+14,White,Male,0,38,None
+26,White,Female,0,19,None
+22,White,Male,0,28,None
+50,White,Female,0,30,None
+31,White,Male,0,40,None
+52,White,Female,0,21,None
+14,African American,Male,0,29,None
+39,White,Female,0,40,None
+26,White,Male,0,39,None
+22,African American,Female,0,24,None
+39,Hispanic,Male,0,39,None
+26,White,Female,0,40,None
+22,White,Male,0,40,None
+50,African American,Female,0,39,None
+31,White,Male,0,26,None
+52,Asain,Female,0,38,None
+14,Asain,Male,0,25,None
+26,White,Female,0,26,None
+22,White,Male,0,39,None
+50,African American,Female,0,20,None
+31,White,Male,0,26,None
+52,White,Female,0,27,None
+14,White,Male,0,31,None
+39,White,Female,0,18,None
+26,Hispanic,Male,0,19,None
+22,Asain,Female,0,19,None
+50,Hispanic,Male,0,24,None
+31,Hispanic,Female,0,36,None
+52,Hispanic,Male,0,28,None
+14,Asain,Female,0,22,None
+26,African American,Male,0,32,None
+22,White,Female,0,33,None
+50,African American,Male,0,23,None
+31,White,Female,0,24,None
+52,White,Male,0,33,None
+14,African American,Female,0,38,None
+39,White,Male,0,34,None
+26,White,Female,0,36,None
+22,Hispanic,Male,0,31,None
+50,White,Female,0,26,None
+31,White,Male,0,18,None
+52,White,Female,0,18,None
+14,White,Male,0,34,None
+26,White,Female,0,18,None
+22,White,Male,0,37,None
+50,White,Female,0,30,None
+31,African American,Male,0,27,None
+52,African American,Female,0,24,None
+14,Hispanic,Male,0,18,None
+39,Hispanic,Female,0,28,None
+26,Asain,Male,0,25,None
+22,White,Female,0,33,None
+50,White,Male,0,21,None
+31,White,Female,0,26,None
+52,White,Male,0,33,None
+14,White,Female,0,21,None
+26,African American,Male,0,21,None
+22,Hispanic,Female,0,26,None
+50,White,Male,0,32,None
+31,African American,Female,0,29,None
+52,White,Male,0,27,None
+14,White,Female,0,32,None
+39,White,Male,0,28,None
+26,White,Female,0,20,None
+22,Asain,Male,0,33,None
+50,White,Female,0,37,None
+31,African American,Male,0,18,None
+52,African American,Female,0,36,None
+14,Hispanic,Male,0,22,None
+26,Asain,Female,0,20,None
+22,White,Male,0,21,None
+50,White,Female,0,25,None
+31,White,Male,0,30,None
+52,White,Female,0,26,None
+14,White,Male,0,27,None
+39,White,Female,0,34,None
+26,White,Male,0,27,None
+22,White,Female,0,24,None
+50,Hispanic,Male,0,18,None
+31,Hispanic,Female,0,19,None
+52,Asain,Male,0,30,None
+14,African American,Female,0,35,None
+26,White,Male,0,27,None
+22,White,Female,0,24,None
+50,African American,Male,0,24,None
+31,Asain,Female,0,30,None
+52,White,Male,0,38,None
+14,White,Female,0,23,None
+39,African American,Male,0,36,None
+26,White,Female,0,40,None
+22,White,Male,0,28,None
+50,White,Female,0,32,None
+31,African American,Male,0,22,None
+52,White,Female,0,29,None
+14,African American,Male,0,28,None
+26,African American,Female,0,30,None
+22,White,Male,0,30,None
+50,Hispanic,Female,0,24,None
+31,Asain,Male,0,34,None
+52,White,Female,0,35,None
+14,White,Male,0,25,None
+39,Asain,Female,0,36,None
+26,African American,Male,0,18,None
+22,African American,Female,0,36,None
+39,White,Male,0,25,None
+26,White,Female,0,24,None
+22,African American,Male,0,31,None
+50,African American,Female,0,32,None
+31,Hispanic,Male,0,25,None
+52,Hispanic,Female,0,37,None
+14,Hispanic,Male,0,28,None
+26,White,Female,0,24,None
+22,Hispanic,Male,0,23,None
+50,African American,Female,0,32,None
+31,African American,Male,0,36,None
+52,Asain,Female,0,22,None
+14,White,Male,0,27,None
+39,White,Female,0,32,None
+26,White,Male,0,38,None
+22,White,Female,0,36,None
+50,White,Male,0,26,None
+31,White,Female,0,19,None
+52,Asain,Male,0,35,None
+14,Asain,Female,0,29,None
+26,White,Male,0,18,None
+22,White,Female,0,21,None
+50,White,Male,0,31,None
+31,White,Female,0,19,None
+52,White,Male,0,37,None
+14,White,Female,0,22,None
+39,White,Male,0,29,None
+26,African American,Female,0,30,None
+22,African American,Male,0,34,None
+50,Hispanic,Female,0,40,None
+31,Hispanic,Male,0,27,None
+52,Asain,Female,0,36,None
+14,African American,Male,0,24,None
+26,Hispanic,Female,0,40,None
+22,Hispanic,Male,0,24,None
+50,White,Female,0,21,None
+31,African American,Male,0,29,None
+52,White,Female,0,27,None
+14,Hispanic,Male,0,29,None
+39,White,Female,0,39,None
+26,White,Male,0,28,None
+22,Hispanic,Female,0,22,None
+50,African American,Male,0,39,None
+31,White,Female,0,36,None
+52,Hispanic,Male,0,32,None
+14,White,Female,0,19,None
+26,Hispanic,Male,0,18,None
+22,White,Female,0,25,None
+50,White,Male,0,39,None
+31,African American,Female,0,22,None
+52,White,Male,0,22,None
+14,White,Female,0,38,None
+39,White,Male,0,23,None
+26,Asain,Female,0,30,None
+22,African American,Male,0,25,None
+50,Hispanic,Female,0,27,None
+31,White,Male,0,23,None
+52,African American,Female,0,19,None
+14,African American,Male,0,40,None
+26,White,Female,0,18,None
+22,White,Male,0,35,None
+50,White,Female,0,25,None
+31,Hispanic,Male,0,36,None
+52,African American,Female,0,28,None
+14,Asain,Male,0,27,None
+39,White,Female,0,28,None
+26,White,Male,0,19,None
+22,White,Female,0,40,None
+50,White,Male,0,35,None
+31,White,Female,0,23,None
+52,White,Male,0,38,None
+14,African American,Female,0,36,None
+26,White,Male,0,33,None
+22,White,Female,0,27,None
+50,African American,Male,0,35,None
+31,African American,Female,0,23,None
+52,Asain,Male,0,30,None
+14,Hispanic,Female,0,19,None
+39,White,Male,0,39,None
+26,White,Female,0,31,None
+22,African American,Male,0,24,None
+50,African American,Female,0,25,None
+31,Hispanic,Male,0,24,None
+52,Hispanic,Female,0,37,None
+14,Asain,Male,0,20,None
+26,White,Female,0,21,None
+22,Asain,Male,0,19,None
+50,African American,Male,0,29,None
+31,African American,Female,0,36,None
+52,Asain,Male,0,39,None
+14,Asain,Female,0,26,None
+39,African American,Male,0,33,None
+26,Hispanic,Female,0,32,None
+22,African American,Male,0,23,None
+39,African American,Female,0,18,None
+26,White,Male,0,20,None
+22,Hispanic,Male,0,32,None
+50,African American,Female,0,27,None
+31,African American,Male,0,25,None
+52,African American,Female,0,39,None
+14,African American,Male,0,25,None
+26,Hispanic,Female,0,32,None
+22,Asain,Male,0,38,None
+50,White,Female,0,37,None
+31,Asain,Male,0,27,None
+52,Asain,Male,0,36,None
+14,African American,Female,0,31,None
+39,Hispanic,Male,0,24,None
+26,Hispanic,Female,0,33,None
+22,Asain,Male,0,30,None
+50,White,Female,0,19,None
+31,African American,Male,0,36,None
+52,Hispanic,Female,0,18,None
+14,Hispanic,Male,0,30,None
+26,Hispanic,Male,0,37,None
+22,Asain,Female,0,30,None
+50,White,Male,0,34,None
+31,African American,Female,0,20,None
+52,Asain,Male,0,36,None
+14,African American,Female,0,31,None
+39,White,Male,0,30,None
+26,White,Female,0,32,None
+22,White,Male,0,32,None
+50,White,Male,0,31,None
+31,White,Female,0,19,None
+52,African American,Male,0,37,None
+14,African American,Female,0,24,None
+26,Hispanic,Male,0,19,None
+22,Hispanic,Female,0,20,None
+50,Asain,Male,0,30,None
+31,Hispanic,Female,0,34,None
+52,African American,Male,0,40,None
+14,Asain,Male,0,22,None
+39,White,Female,0,18,None
+26,African American,Male,0,38,None
+22,White,Female,0,36,None
+50,White,Male,0,34,None
+31,White,Female,0,32,None
+52,Asain,Male,0,22,None
+14,White,Female,0,27,None
+26,Asain,Male,0,19,None
+22,Hispanic,Male,0,21,None
+50,African American,Female,0,32,None
+31,White,Male,0,26,None
+52,Hispanic,Female,0,19,None
+14,Hispanic,Male,0,29,None
+39,White,Female,0,34,None
+26,African American,Male,0,26,None
+22,Asain,Female,0,24,None
+50,Asain,Male,0,25,None
+31,African American,Male,0,19,None
+52,Hispanic,Female,0,40,None
+14,White,Male,0,27,None
+26,White,Female,0,36,None
+22,African American,Male,0,30,None
+50,White,Female,0,31,None
+31,White,Male,0,39,None
+52,Hispanic,Female,0,27,None
+14,African American,Male,0,38,None
+39,African American,Male,0,19,None
+26,White,Female,0,38,None
+22,African American,Male,0,32,None
+50,White,Female,0,23,None
+31,Asain,Male,0,30,None
+52,White,Female,0,26,None
+14,White,Male,0,28,None
+26,White,Female,0,39,None
+22,White,Male,0,38,None
+50,White,Male,0,30,None
+31,White,Female,0,28,None
+52,White,Male,0,25,None
+14,White,Female,0,18,None
+39,African American,Male,0,22,None
+26,African American,Female,0,18,None
+22,Hispanic,Male,0,33,None
+50,Hispanic,Female,0,34,None
+31,Asain,Male,0,25,None
+52,White,Male,0,40,None
+14,White,Female,0,33,None
+26,White,Male,0,24,None
+22,White,Female,0,28,None
+50,White,Male,0,19,None
+31,Hispanic,Female,0,22,None
+52,White,Male,0,19,None
+14,African American,Female,0,34,None
+39,White,Male,0,35,None
+26,White,Male,0,23,None
+26,White,Female,0,38,None
+22,White,Male,0,23,None
+50,White,Female,0,35,None
+31,White,Male,0,39,None
+52,White,Female,0,29,None
+14,Hispanic,Male,0,33,None
+26,African American,Female,0,27,None
+22,White,Male,0,40,None
+50,Hispanic,Male,0,39,None
+31,Asain,Female,0,25,None
+52,Hispanic,Male,0,22,None
+14,White,Female,0,30,None
+39,Asain,Male,0,38,None
+26,White,Female,0,39,None
+22,African American,Male,0,35,None
+50,Hispanic,Female,0,40,None
+31,White,Male,0,24,None
+52,White,Male,0,40,None
+14,African American,Female,0,26,None
+26,White,Male,0,32,None
+22,White,Female,0,26,None
+50,Hispanic,Male,0,26,None
+31,White,Female,0,26,None
+52,White,Male,0,29,None
+14,African American,Female,0,32,None
+39,White,Male,0,18,None
+26,White,Male,0,38,None
+22,White,Female,0,35,None
+50,White,Male,0,26,None
+31,White,Female,0,21,None
+52,White,Male,0,24,None
+14,White,Female,0,39,None
+26,African American,Male,0,34,None
+22,African American,Female,0,30,None
+50,Hispanic,Male,0,25,None
+31,Hispanic,Male,0,26,None
+52,Asain,Female,0,27,None
+14,White,Male,0,31,None
+39,White,Female,0,26,None
+26,White,Male,0,29,None
+22,Hispanic,Female,0,21,None
+50,African American,Male,0,37,None
+31,Asain,Female,0,34,None
+52,White,Male,0,33,None
+14,White,Male,0,29,None
+26,Hispanic,Female,0,34,None
+22,White,Male,0,18,None
+50,Hispanic,Female,0,31,None
+31,African American,Male,0,32,None
+52,White,Female,0,25,None
+14,African American,Male,0,25,None
+39,African American,Female,0,34,None
+26,White,Male,0,28,None
+22,Hispanic,Male,0,39,None
+50,Asain,Female,0,39,None
+31,White,Male,0,29,None
+52,White,Female,0,39,None
+14,White,Male,0,37,None
+26,Asain,Female,0,29,None
+22,African American,Male,0,23,None
+50,African American,Female,0,22,None
+31,Asain,Male,0,19,None
+52,White,Male,0,27,None
+14,White,Female,0,19,None
+39,African American,Male,0,21,None
+26,Asain,Female,0,23,None
+22,White,Male,0,24,None
+50,White,Female,0,22,None
+31,White,Male,0,24,None
+52,White,Female,0,37,None
+14,Asain,Male,0,38,None
+26,White,Male,0,30,None
+22,White,Female,0,40,None
+50,White,Male,0,24,None
+31,White,Female,0,36,None
+52,White,Male,0,26,None
+14,White,Female,0,38,None
+39,White,Male,0,24,None
+26,White,Female,0,33,None
+22,African American,Male,0,40,None
+50,African American,Male,0,20,None
+31,Hispanic,Female,0,34,None
+52,Hispanic,Male,0,29,None
+14,Asain,Female,0,20,None
+26,African American,Male,0,20,None
+22,White,Female,0,18,None
+50,Hispanic,Male,0,19,None
+31,White,Female,0,22,None
+52,White,Male,0,18,None
+14,Hispanic,Male,0,21,None
+39,African American,Female,0,19,None
+26,Hispanic,Male,0,18,None
+22,White,Female,0,40,None
+39,White,Male,0,38,None
+26,White,Female,0,21,None
+22,White,Male,0,22,None
+50,Hispanic,Female,0,29,None
+31,White,Male,0,28,None
+52,White,Male,0,31,None
+14,Hispanic,Female,0,18,None
+26,White,Male,0,28,None
+22,African American,Female,0,19,None
+50,Hispanic,Male,0,31,None
+31,White,Female,0,31,None
+52,Hispanic,Male,0,23,None
+14,Hispanic,Female,0,30,None
+39,White,Male,0,18,None
+26,White,Male,0,39,None
+22,African American,Female,0,28,None
+50,African American,Male,0,32,None
+31,African American,Female,0,35,None
+52,White,Male,0,34,None
+14,African American,Female,0,35,None
+26,African American,Male,0,38,None
+22,African American,Female,0,21,None
+50,Hispanic,Male,0,35,None
+31,Asain,Male,0,29,None
+52,African American,Female,0,34,None
+14,White,Male,0,31,None
+39,White,Female,0,21,None
+26,White,Male,0,30,None
+22,Asain,Female,0,37,None
+50,White,Male,0,38,None
+31,African American,Female,0,31,None
+52,Asain,Male,0,30,None
+14,White,Male,0,38,None
+26,White,Female,0,35,None
+22,Asain,Male,0,36,None
+50,White,Female,0,35,None
+31,African American,Male,0,18,None
+52,White,Female,0,18,None
+14,Asain,Male,0,35,None
+39,African American,Female,0,28,None
+26,White,Male,0,18,None
+22,Asain,Male,0,20,None
+50,Hispanic,Female,0,21,None
+31,White,Male,0,23,None
+52,White,Female,0,40,None
+14,Asain,Male,0,24,None
+26,White,Female,0,19,None
+22,White,Male,0,38,None
+50,White,Female,0,37,None
+31,White,Male,0,30,None
+52,White,Male,0,37,None
+14,White,Female,0,37,None
+39,White,Male,0,23,None
+26,White,Female,0,18,None
+22,African American,Male,0,22,None
+50,African American,Female,0,39,None
+31,Hispanic,Male,0,20,None
+52,Hispanic,Female,0,34,None
+14,Asain,Male,0,23,None
+26,White,Male,0,27,None
+22,White,Female,0,25,None
+50,White,Male,0,20,None
+31,Hispanic,Female,0,38,None
+52,Hispanic,Male,0,20,None
+14,Hispanic,Female,0,20,None
+39,White,Male,0,34,None
+26,African American,Female,0,37,None
+22,Hispanic,Male,0,21,None
+50,White,Male,0,33,None
+31,White,Female,0,33,None
+52,White,Male,0,36,None
+14,Hispanic,Female,0,40,None
+26,White,Male,0,37,None
+22,White,Female,0,33,None
+50,Hispanic,Male,0,35,None
+31,White,Female,0,31,None
+52,White,Male,0,39,None
+14,White,Male,0,37,None
+39,African American,Female,0,33,None
+26,White,Male,0,29,None
+22,Hispanic,Female,0,33,None
+50,White,Male,0,28,None
+31,White,Female,0,30,None
+52,African American,Male,0,19,None
+14,White,Female,0,19,None
+26,African American,Male,0,28,None
+22,White,Male,0,32,None
+50,Asain,Female,0,21,None
+31,White,Male,0,25,None
+52,White,Female,0,18,None
+14,Hispanic,Male,0,39,None
+39,Hispanic,Female,0,40,None
+26,White,Male,0,22,None
+22,White,Female,0,33,None
+39,White,Male,0,22,None
+26,White,Male,0,34,None
+22,White,Female,0,31,None
+50,Hispanic,Male,0,35,None
+31,Hispanic,Female,0,39,None
+52,White,Male,0,23,None
+14,White,Female,0,31,None
+26,White,Male,0,23,None
+22,Hispanic,Female,0,21,None
+50,White,Male,0,29,None
+31,White,Male,0,20,None
+52,Hispanic,Female,0,33,None
+14,White,Male,0,37,None
+39,White,Female,0,24,None
+26,Hispanic,Male,0,39,None
+22,Hispanic,Female,0,30,None
+50,Hispanic,Male,0,33,None
+31,Hispanic,Female,0,35,None
+52,White,Male,0,22,None
+14,African American,Male,0,25,None
+26,African American,Female,0,29,None
+22,White,Male,0,29,None
+50,White,Female,0,21,None
+31,White,Male,0,25,None
+52,White,Female,0,28,None
+14,White,Male,0,19,None
+39,White,Female,0,20,None
+26,African American,Male,0,31,None
+22,White,Male,0,23,None
+50,Hispanic,Female,0,39,None
+31,White,Male,0,36,None
+52,White,Female,0,35,None
+14,Hispanic,Male,0,40,None
+26,African American,Female,0,40,None
+22,African American,Male,0,38,None
+50,White,Female,0,20,None
+31,White,Male,0,23,None
+52,African American,Male,0,23,None
+14,White,Female,0,22,None
+39,White,Male,0,25,None
+26,White,Female,0,39,None
+22,White,Male,0,39,None
+50,White,Female,0,29,None
+31,White,Male,0,33,None
+52,White,Female,0,25,None
+14,African American,Male,0,38,None
+26,African American,Male,0,20,None
+22,Hispanic,Female,0,19,None
+50,Hispanic,Male,0,38,None
+31,Asain,Female,0,21,None
+52,African American,Male,0,22,None
+14,Hispanic,Female,0,35,None
+39,White,Male,0,40,None
+26,White,Female,0,39,None
+22,African American,Male,0,34,None
+50,Asain,Male,0,35,None
+31,Asain,Female,0,37,None
+52,Hispanic,Male,0,27,None
+14,Hispanic,Female,0,24,None
+26,African American,Male,0,33,None
+22,White,Female,0,25,None
+50,White,Male,0,37,None
+31,African American,Female,0,24,None
+52,White,Male,0,23,None
+14,African American,Male,0,20,None
+39,White,Female,0,39,None
+26,White,Male,0,33,None
+22,White,Female,0,23,None
+50,Hispanic,Male,0,26,None
+31,White,Female,0,20,None
+52,White,Male,0,20,None
+14,White,Female,0,39,None
+26,African American,Male,0,25,None
+22,African American,Male,0,36,None
+50,White,Female,0,31,None
+31,Hispanic,Male,0,22,None
+52,White,Female,0,34,None
+14,White,Male,0,21,None
+39,White,Female,0,28,None
+26,White,Male,0,31,None
+22,African American,Female,0,30,None
+50,African American,Male,0,21,None
+31,White,Male,0,22,None
+52,African American,Female,0,39,None
+14,White,Male,0,32,None
+26,African American,Female,0,26,None
+22,African American,Male,0,30,None
+50,White,Female,0,37,None
+31,White,Male,0,31,None
+52,White,Female,0,22,None
+14,White,Male,0,37,None
+39,Hispanic,Male,0,25,None
+26,Asain,Female,0,36,None
+22,Hispanic,Male,0,36,None
+39,African American,Female,0,31,None
+26,African American,Male,0,29,None
+22,White,Female,0,23,None
+50,White,Male,0,26,None
+31,African American,Female,0,38,None
+52,African American,Male,0,29,None
+14,Hispanic,Male,0,35,None
+26,Hispanic,Female,0,34,None
+22,Asain,Male,0,23,None
+50,Hispanic,Female,0,32,None
+31,African American,Male,0,25,None
+52,Hispanic,Female,0,24,None
+14,African American,Male,0,35,None
+39,African American,Female,0,31,None
+26,Asain,Male,0,28,None
+22,White,Male,0,31,None
+50,Hispanic,Female,0,39,None
+31,Hispanic,Male,0,39,None
+52,Hispanic,Female,0,35,None
+14,Hispanic,Male,0,30,None
+26,African American,Female,0,26,None
+22,African American,Male,0,28,None
+50,Hispanic,Female,0,25,None
+31,African American,Male,0,20,None
+52,White,Male,0,23,None
+14,African American,Female,0,28,None
+39,African American,Male,0,24,None
+26,African American,Female,0,34,None
+22,African American,Male,0,40,None
+50,Hispanic,Female,0,29,None
+31,Hispanic,Male,0,24,None
+52,African American,Female,0,22,None
+14,African American,Male,0,22,None
+26,Asain,Male,0,26,None
+22,Hispanic,Female,0,35,None
+50,White,Male,0,18,None
+31,African American,Female,0,35,None
+52,African American,Male,0,25,None
+14,Hispanic,Female,0,39,None
+39,African American,Male,0,28,None
+26,Hispanic,Female,0,33,None
+22,African American,Male,0,25,None
+50,Asain,Male,0,22,None
+31,African American,Female,0,35,None
+52,White,Male,0,33,None
+14,White,Female,0,23,None
+26,White,Male,0,26,None
+22,White,Female,0,38,None
+50,White,Male,0,28,None
+31,African American,Female,0,28,None
+52,African American,Male,0,29,None
+14,Hispanic,Male,0,20,None
+39,Hispanic,Female,0,20,None
+26,Asain,Male,0,31,None
+22,African American,Female,0,23,None
+50,Hispanic,Male,0,30,None
+31,African American,Female,0,20,None
+52,White,Male,0,31,None
+14,White,Female,0,35,None
+26,Hispanic,Male,0,27,None
+22,Hispanic,Male,0,31,None
+50,African American,Female,0,24,None
+31,White,Male,0,37,None
+52,African American,Female,0,40,None
+14,African American,Male,0,27,None
+39,Asain,Female,0,34,None
+26,African American,Male,0,27,None
+22,Asain,Female,0,29,None
+50,Hispanic,Male,0,28,None
+31,Hispanic,Male,0,27,None
+52,White,Female,0,30,None
+14,White,Male,0,31,None
+26,White,Female,0,19,None
+22,White,Male,0,34,None
+50,White,Female,0,40,None
+31,White,Male,0,33,None
+52,White,Female,0,29,None
+14,White,Male,0,36,None
+39,Hispanic,Male,0,29,None
+26,White,Female,0,34,None
+22,Asain,Male,0,19,None
+50,White,Female,0,31,None
+31,White,Male,0,28,None
+52,Asain,Female,0,23,None
+14,White,Male,0,24,None
+26,African American,Female,0,35,None
+22,Asain,Male,0,20,None
+50,Hispanic,Male,0,33,None
+31,African American,Female,0,34,None
+52,White,Male,0,39,None
+14,White,Female,0,32,None
+39,White,Male,0,33,None
+26,White,Female,0,35,None
+22,White,Male,0,24,None
+39,White,Female,0,19,None
+26,White,Male,0,22,None
+22,African American,Male,0,35,None
+50,African American,Female,0,30,None
+31,Hispanic,Male,0,33,None
+52,Hispanic,Female,0,20,None
+14,Asain,Male,0,32,None
+26,Asain,Female,0,29,None
+22,White,Male,0,39,None
+50,White,Female,0,36,None
+31,White,Male,0,35,None
+52,White,Male,0,40,None
+14,Hispanic,Female,0,20,None
+39,White,Male,0,27,None
+26,White,Female,0,20,None
+22,White,Male,0,38,None
+50,African American,Female,0,24,None
+31,Hispanic,Male,0,31,None
+52,African American,Female,0,34,None
+14,African American,Male,0,32,None
+26,White,Male,0,30,None
+22,White,Female,0,19,None
+50,White,Male,0,31,None
+31,White,Female,0,20,None
+52,White,Male,0,20,None
+14,White,Female,0,34,None
+39,White,Male,0,23,None
+26,African American,Female,0,25,None
+22,Hispanic,Male,0,24,None
+50,Asain,Male,0,37,None
+31,White,Female,0,40,None
+52,African American,Male,0,34,None
+14,White,Female,0,22,None
+26,Hispanic,Male,0,22,None
+22,White,Female,0,35,None
+50,White,Male,0,21,None
+31,White,Female,0,25,None
+52,Asain,Male,0,38,None
+14,White,Male,0,32,None
+39,Hispanic,Female,0,18,None
+26,Asain,Male,0,38,None
+22,Asain,Female,0,33,None
+50,White,Male,0,19,None
+31,White,Female,0,30,None
+52,White,Male,0,33,None
+14,White,Female,0,28,None
+26,White,Male,0,35,None
+22,White,Male,0,20,None
+50,White,Female,0,33,None
+31,African American,Male,0,29,None
+52,African American,Female,0,38,None
+14,Hispanic,Male,0,26,None
+39,Hispanic,Female,0,28,None
+26,Asain,Male,0,36,None
+22,African American,Female,0,18,None
+50,African American,Male,0,31,None
+31,White,Male,0,27,None
+52,White,Female,0,35,None
+14,White,Male,0,36,None
+26,White,Female,0,19,None
+22,Asain,Male,0,39,None
+50,African American,Female,0,37,None
+31,Asain,Male,0,38,None
+52,White,Female,0,40,None
+14,African American,Male,0,29,None
+39,African American,Male,0,20,None
+26,Hispanic,Female,0,34,None
+22,White,Male,0,18,None
+50,White,Female,0,39,None
+31,Hispanic,Male,0,26,None
+52,White,Female,0,25,None
+14,African American,Male,0,22,None
+26,White,Female,0,32,None
+22,Asain,Male,0,39,None
+50,Hispanic,Male,0,35,None
+31,White,Female,0,22,None
+52,White,Male,0,27,None
+14,White,Female,0,21,None
+39,White,Male,0,30,None
+26,White,Female,0,39,None
+22,Asain,Male,0,33,None
+50,White,Female,0,40,None
+31,White,Male,0,36,None
+52,White,Male,0,28,None
+14,White,Female,0,27,None
+26,Asain,Male,0,25,None
+22,Hispanic,Female,0,37,None
+50,White,Male,0,20,None
+31,White,Female,0,29,None
+52,White,Male,0,19,None
+14,White,Female,0,18,None
+39,White,Male,0,36,None
+26,White,Male,0,19,None
+22,White,Female,0,30,None
+39,White,Male,0,20,None
+26,White,Female,0,24,None
+22,African American,Male,0,19,None
+50,African American,Female,0,29,None
+31,Hispanic,Male,0,40,None
+52,Hispanic,Female,0,19,None
+14,Asain,Male,0,37,None
+26,Hispanic,Male,0,39,None
+22,White,Female,0,21,None
+50,White,Male,0,26,None
+31,African American,Female,0,40,None
+52,African American,Male,0,28,None
+14,African American,Female,0,37,None
+39,Hispanic,Male,0,29,None
+26,White,Female,0,28,None
+22,African American,Male,0,22,None
+50,White,Male,0,37,None
+31,African American,Female,0,23,None
+52,White,Male,0,26,None
+14,Hispanic,Female,0,26,None
+26,Asain,Male,0,31,None
+22,White,Female,0,35,None
+50,White,Male,0,25,None
+31,Asain,Female,0,38,None
+52,Hispanic,Male,0,31,None
+14,White,Male,0,39,None
+39,Hispanic,Female,0,27,None
+26,African American,Male,0,24,None
+22,White,Female,0,40,None
+50,Hispanic,Male,0,25,None
+31,African American,Female,0,19,None
+52,African American,Male,0,34,None
+14,African American,Female,0,31,None
+26,White,Male,0,38,None
+22,White,Male,0,32,None
+50,African American,Female,0,18,None
+31,African American,Male,0,28,None
+52,White,Female,0,26,None
+14,White,Male,0,31,None
+39,White,Female,0,39,None
+26,Hispanic,Male,0,19,None
+22,White,Female,0,34,None
+50,Asain,Male,0,37,None
+31,African American,Male,0,35,None
+52,Asain,Female,0,28,None
+14,Asain,Male,0,25,None
+26,White,Female,0,39,None
+22,White,Male,0,34,None
+50,White,Female,0,22,None
+31,White,Male,0,40,None
+52,Asain,Female,0,35,None
+14,African American,Male,0,26,None
+39,White,Male,0,19,None
+26,Hispanic,Female,0,21,None
+22,White,Male,0,18,None
+50,African American,Female,0,21,None
+31,White,Male,0,29,None
+52,Hispanic,Female,0,27,None
+14,Hispanic,Male,0,28,None
+26,Asain,Female,0,18,None
+22,White,Male,0,23,None
+50,White,Male,0,18,None
+31,African American,Female,0,21,None
+52,White,Male,0,21,None
+14,White,Female,0,33,None
+39,White,Male,0,19,None
+26,White,Female,0,34,None
+22,White,Male,0,19,None
+50,White,Female,0,23,None
+31,White,Male,0,33,None
+52,African American,Male,0,19,None
+14,African American,Female,0,36,None
+26,Hispanic,Male,0,28,None
+22,Hispanic,Female,0,36,None
+50,Asain,Male,0,20,None
+31,White,Female,0,35,None
+52,White,Male,0,23,None
+14,Hispanic,Female,0,33,None
+39,African American,Male,0,20,None
+26,White,Male,0,31,None
+22,White,Female,0,23,None
+50,Asain,Male,0,18,None
+31,White,Female,0,18,None
+52,White,Male,0,33,None
+14,White,Female,0,23,None
+26,White,Male,0,21,None
+22,Asain,Female,0,40,None
+50,White,Male,0,34,None
+31,African American,Male,0,40,None
+52,Hispanic,Female,0,40,None
+14,African American,Male,0,40,None
+39,White,Female,0,34,None
+26,White,Male,0,25,None
+22,White,Female,0,20,None
+39,Asain,Male,0,28,None
+26,White,Female,0,21,None
+22,Hispanic,Male,0,20,None
+50,White,Male,0,40,None
+31,African American,Female,0,23,None
+52,White,Male,0,30,None
+14,White,Female,0,27,None
+26,Asain,Male,0,32,None
+22,White,Female,0,27,None
+50,White,Male,0,29,None
+31,White,Female,0,26,None
+52,White,Male,0,38,None
+14,White,Male,0,27,None
+39,White,Female,0,35,None
+26,White,Male,0,35,None
+22,White,Female,0,38,None
+50,African American,Male,0,31,None
+31,White,Female,0,36,None
+52,White,Male,0,19,None
+14,White,Female,0,20,None
+26,White,Male,0,24,None
+22,White,Male,0,22,None
+50,White,Female,0,35,None
+31,White,Male,0,26,None
+52,Asain,Female,0,18,None
+14,White,Male,0,25,None
+39,White,Female,0,33,None
+26,African American,Male,0,22,None
+22,White,Female,0,30,None
+50,White,Male,0,37,None
+31,White,Male,0,26,None
+52,Asain,Female,0,33,None
+14,White,Male,0,26,None
+26,White,Female,0,38,None
+22,White,Male,0,34,None
+50,Asain,Female,0,19,None
+31,Hispanic,Male,0,38,None
+52,White,Female,0,21,None
+14,White,Male,0,29,None
+39,White,Male,0,20,None
+26,Hispanic,Female,0,39,None
+22,Asain,Male,0,22,None
+50,Hispanic,Female,0,36,None
+31,White,Male,0,20,None
+52,Hispanic,Female,0,29,None
+14,Hispanic,Male,0,32,None
+26,White,Female,0,24,None
+22,Asain,Male,0,39,None
+50,Asain,Male,0,36,None
+31,Asain,Female,0,23,None
+52,Hispanic,Male,0,34,None
+14,White,Female,0,31,None
+39,White,Male,0,24,None
+26,Asain,Female,0,23,None
+22,White,Male,0,36,None
+50,White,Female,0,34,None
+31,White,Male,0,28,None
+52,White,Male,0,19,None
+14,White,Female,0,24,None
+26,White,Male,0,27,None
+22,White,Female,0,23,None
+50,African American,Male,0,18,None
+31,African American,Female,0,35,None
+52,Hispanic,Male,0,21,None
+14,Hispanic,Female,0,25,None
+39,Asain,Male,0,28,None
+26,White,Male,0,35,None
+22,Asain,Female,0,24,None
+50,African American,Male,0,26,None
+31,White,Female,0,33,None
+52,White,Male,0,34,None
+14,White,Female,0,31,None
+26,White,Male,0,24,None
+22,Hispanic,Female,0,23,None
+50,Hispanic,Male,0,39,None
+31,White,Male,0,19,None
+52,White,Female,0,35,None
+14,Asain,Male,0,23,None
+39,African American,Female,0,37,None
+26,African American,Male,0,18,None
+22,White,Female,0,38,None
+50,Asain,Male,0,36,None
+31,Hispanic,Female,0,18,None
+52,Asain,Male,0,35,None
+14,White,Male,0,26,None
+26,White,Female,0,19,None
+22,African American,Male,0,40,None
+50,Asain,Female,0,23,None
+31,White,Male,0,25,None
+52,White,Female,0,18,None
+14,White,Male,0,20,None
+39,White,Female,0,25,None
+26,White,Male,0,24,None
+22,African American,Male,0,35,None
+39,White,Female,0,32,None
+26,Hispanic,Male,0,23,None
+22,Hispanic,Female,0,32,None
+50,White,Male,0,19,None
+31,White,Female,0,40,None
+52,White,Male,0,23,None
+14,Hispanic,Female,0,26,None
+26,White,Male,0,33,None
+22,Asain,Male,0,35,None
+50,African American,Female,0,18,None
+31,Asain,Male,0,38,None
+52,White,Female,0,23,None
+14,Asain,Male,0,25,None
+39,Asain,Female,0,35,None
+26,White,Male,0,35,None
+22,White,Female,0,20,None
+50,Asain,Male,0,26,None
+31,Asain,Male,0,27,None
+52,White,Female,0,30,None
+14,White,Male,0,27,None
+26,African American,Female,0,28,None
+22,African American,Male,0,37,None
+50,Hispanic,Female,0,37,None
+31,Hispanic,Male,0,30,None
+52,Asain,Female,0,18,None
+14,Asain,Male,0,39,None
+39,Asain,Male,0,22,None
+26,Asain,Female,0,40,None
+22,White,Male,0,31,None
+50,White,Female,0,38,None
+31,African American,Male,0,40,None
+52,Hispanic,Female,0,23,None
+14,White,Male,0,39,None
+26,White,Female,0,31,None
+22,White,Male,0,30,None
+50,White,Male,0,20,None
+31,White,Female,0,37,None
+52,White,Male,0,40,None
+14,Asain,Female,0,39,None
+39,Asain,Male,0,28,None
+26,White,Female,0,31,None
+22,African American,Male,0,18,None
+50,Asain,Female,0,34,None
+31,White,Male,0,31,None
+52,Asain,Male,0,39,None
+14,White,Female,0,29,None
+26,Asain,Male,0,27,None
+22,Asain,Female,0,32,None
+50,Asain,Male,0,24,None
+31,Asain,Female,0,32,None
+52,Hispanic,Male,0,28,None
+14,African American,Female,0,35,None
+39,Asain,Male,0,34,None
+26,White,Male,0,23,None
+22,African American,Female,0,30,None
+50,White,Male,0,25,None
+31,White,Female,0,37,None
+52,White,Male,0,37,None
+14,White,Female,0,34,None
+26,Asain,Male,0,32,None
+22,White,Female,0,19,None
+50,White,Male,0,33,None
+31,White,Male,0,33,None
+52,White,Female,0,28,None
+14,White,Male,0,22,None
+39,African American,Female,0,26,None
+26,African American,Male,0,34,None
+22,Hispanic,Female,0,19,None
+50,Hispanic,Male,0,35,None
+31,Asain,Female,0,21,None
+52,White,Male,0,27,None
+14,Asain,Male,0,20,None
+26,Hispanic,Female,0,36,None
+22,Asain,Male,0,36,None
+50,White,Female,0,23,None
+31,Asain,Male,0,19,None
+52,White,Female,0,38,None
+14,African American,Male,0,26,None
+39,White,Female,0,23,None
+26,African American,Male,0,40,None
+22,White,Male,0,21,None
+50,African American,Female,0,34,None
+31,African American,Male,0,34,None
+52,African American,Female,0,37,None
+14,White,Male,0,38,None
+26,Asain,Female,0,33,None
+22,White,Male,0,34,None
+50,White,Female,0,20,None
+31,African American,Male,0,35,None
+52,White,Male,0,33,None
+14,White,Female,0,38,None
+39,White,Male,0,30,None
+26,Asain,Female,0,19,None
+22,African American,Male,0,20,None
+31,White,Female,0,23,None
+52,White,Male,0,27,None
+14,White,Female,0,26,None
+26,White,Male,0,27,None
+22,Asain,Male,0,37,None
+50,White,Female,0,24,None
+31,White,Male,0,37,None
+52,Asain,Female,0,35,None
+14,White,Male,0,19,None
+39,Hispanic,Female,0,40,None
+26,African American,Male,0,18,None
+22,White,Female,0,20,None
+50,White,Male,0,30,None
+31,White,Male,0,37,None
+52,White,Female,0,37,None
+14,White,Male,0,34,None
+26,White,Female,0,32,None
+22,White,Male,0,34,None
+50,African American,Female,0,37,None
+31,African American,Male,0,36,None
+52,Hispanic,Female,0,30,None
+14,Hispanic,Male,0,19,None
+39,Asain,Male,0,32,None
+26,African American,Female,0,40,None
+22,Asain,Male,0,36,None
+50,Hispanic,Female,0,18,None
+31,White,Male,0,25,None
+52,White,Female,0,25,None
+14,White,Male,0,23,None
+26,Asain,Female,0,25,None
+22,White,Male,0,28,None
+50,White,Male,0,25,None
+31,White,Female,0,34,None
+52,African American,Male,0,38,None
+14,White,Female,0,39,None
+39,Hispanic,Male,0,21,None
+26,African American,Female,0,30,None
+22,African American,Male,0,19,None
+50,White,Female,0,38,None
+31,White,Male,0,36,None
+52,White,Male,0,29,None
+14,White,Female,0,24,None
+26,African American,Male,0,28,None
+22,African American,Female,0,34,None
+50,White,Male,0,37,None
+31,White,Female,0,34,None
+52,White,Male,0,24,None
+14,African American,Female,0,38,None
+39,White,Male,0,36,None
+26,Hispanic,Male,0,29,None
+22,White,Female,0,32,None
+50,Asain,Male,0,20,None
+31,White,Female,0,29,None
+52,Hispanic,Male,0,28,None
+14,African American,Female,0,38,None
+26,White,Male,0,19,None
+22,White,Female,0,18,None
+50,White,Male,0,31,None
+31,White,Male,0,35,None
+52,White,Female,0,35,None
+14,White,Male,0,33,None
+39,White,Female,0,34,None
+26,White,Male,0,21,None
+22,White,Female,0,20,None
+50,White,Male,0,40,None
+31,African American,Female,0,22,None
+52,African American,Male,0,26,None
+14,Hispanic,Male,0,31,None
+26,Hispanic,Female,0,31,None
+22,Asain,Male,0,19,None
+50,Hispanic,Female,0,26,None
+31,White,Male,0,22,None
+52,White,Female,0,37,None
+14,White,Male,0,40,None
+39,White,Female,0,20,None
+26,African American,Male,0,32,None
+22,Hispanic,Male,0,23,None
+50,African American,Female,0,24,None
+31,African American,Male,0,28,None
+52,White,Female,0,30,None
+14,White,Male,0,33,None
+26,White,Female,0,18,None
+22,White,Male,0,35,None
+50,White,Female,0,39,None
+31,White,Male,0,31,None
+52,White,Male,0,21,None
+14,Asain,Female,0,23,None
+39,White,Male,0,36,None
+26,White,Female,0,34,None
+22,African American,Male,0,30,None
+39,White,Female,0,27,None
+26,White,Male,0,24,None
+22,Hispanic,Female,0,38,None
+50,White,Male,0,23,None
+31,White,Male,0,37,None
+52,African American,Female,0,40,None
+14,White,Male,0,18,None
+26,White,Female,0,24,None
+22,African American,Male,0,32,None
+50,White,Female,0,27,None
+31,White,Male,0,18,None
+52,White,Female,0,37,None
+14,White,Male,0,39,None
+39,White,Male,0,24,None
+26,African American,Female,0,33,None
+22,White,Male,0,40,None
+50,White,Female,0,31,None
+31,White,Male,0,25,None
+52,White,Female,0,29,None
+14,White,Male,0,38,None
+26,White,Female,0,22,None
+22,White,Male,0,35,None
+50,African American,Male,0,23,None
+31,African American,Female,0,24,None
+52,Hispanic,Male,0,22,None
+14,Hispanic,Female,0,18,None
+39,Asain,Male,0,34,None
+26,White,Female,0,23,None
+22,White,Male,0,32,None
+50,White,Female,0,31,None
+31,White,Male,0,25,None
+52,White,Male,0,26,None
+14,Hispanic,Female,0,34,None
+26,White,Male,0,39,None
+22,White,Female,0,38,None
+50,White,Male,0,18,None
+31,Hispanic,Female,0,24,None
+52,African American,Male,0,34,None
+14,African American,Female,0,24,None
+39,African American,Male,0,39,None
+26,Hispanic,Male,0,22,None
+22,White,Female,0,30,None
+50,White,Male,0,22,None
+31,White,Female,0,37,None
+52,African American,Male,0,20,None
+14,White,Female,0,40,None
+26,White,Male,0,33,None
+22,African American,Female,0,31,None
+50,White,Male,0,38,None
+31,Asain,Male,0,23,None
+52,White,Female,0,30,None
+14,White,Male,0,29,None
+39,White,Female,0,20,None
+26,White,Male,0,34,None
+22,White,Female,0,34,None
+50,White,Male,0,38,None
+31,African American,Female,0,30,None
+52,White,Male,0,21,None
+14,Hispanic,Male,0,34,None
