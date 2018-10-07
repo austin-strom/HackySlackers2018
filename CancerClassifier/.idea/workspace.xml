@@ -15,8 +15,8 @@
       <file leaf-file-name="MainGUI.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Interface/MainGUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="199" column="13" lean-forward="true" selection-start-line="199" selection-start-column="13" selection-end-line="199" selection-end-column="13" />
+            <state relative-caret-position="488">
+              <caret line="214" column="5" lean-forward="true" selection-start-line="214" selection-start-column="5" selection-end-line="214" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -24,11 +24,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InformationPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Interface/InformationPage.java">
+      <file leaf-file-name="BayesDriver.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BayesNew/BayesDriver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="290">
+              <caret line="64" selection-start-line="64" selection-end-line="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataAnalyzer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../School/College/Junior Year/CSII/Lists Application Activity/list_app_activity-1/lists/src/DataAnalyzer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1536">
+              <caret line="17" column="17" selection-start-line="17" selection-end-line="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -36,25 +60,39 @@
       <file leaf-file-name="InformationInput.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Interface/InformationInput.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+            <state relative-caret-position="392">
+              <caret line="200" column="12" selection-start-line="200" selection-start-column="12" selection-end-line="200" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="initializer##0;class#InformationInput#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InformationInput.form" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Interface/InformationInput.form">
-          <provider selected="true" editor-type-id="ui-designer" />
-        </entry>
-      </file>
-      <file leaf-file-name="MainBayes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/naivebayes/experiments/MainBayes.java">
+      <file leaf-file-name="Classification.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BayesNew/Classification.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="197">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Classifier.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BayesNew/Classifier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BayesClassifier.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BayesNew/BayesClassifier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,20 +100,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClassifierBase.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Classifier/ClassifierBase.java">
+      <file leaf-file-name="Example.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/naivebayes/old/experiments/Example.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SQLQueryBuilder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RESTAPI/SQLQueryBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -111,11 +140,15 @@
         <option value="$PROJECT_DIR$/Interface/src/MainGUI.java" />
         <option value="$PROJECT_DIR$/src/Classifier/ClassifierBase.java" />
         <option value="$PROJECT_DIR$/src/RESTAPI/SQLQueryBuilder.java" />
-        <option value="$PROJECT_DIR$/src/Interface/InformationPage.java" />
-        <option value="$PROJECT_DIR$/src/naivebayes/experiments/MainBayes.java" />
-        <option value="$PROJECT_DIR$/src/Interface/InformationInput.java" />
         <option value="$PROJECT_DIR$/src/Interface/InformationInput.form" />
         <option value="$PROJECT_DIR$/src/Interface/MainGUI.java" />
+        <option value="$PROJECT_DIR$/src/naivebayes/experiments/MainBayes.java" />
+        <option value="$PROJECT_DIR$/src/naivebayes/old/experiments/MainBayes.java" />
+        <option value="$PROJECT_DIR$/src/BayesNew/BayesClassifier.java" />
+        <option value="$PROJECT_DIR$/src/Interface/InformationPage.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/BayesNew/BayesDriver.java" />
+        <option value="$PROJECT_DIR$/src/Interface/InformationInput.java" />
       </list>
     </option>
   </component>
@@ -149,7 +182,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -177,6 +210,12 @@
               <item name="CancerClassifier" type="b2602c69:ProjectViewProjectNode" />
               <item name="CancerClassifier" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="BayesNew" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CancerClassifier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CancerClassifier" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Interface" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -194,8 +233,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -209,7 +248,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../School/College/Junior Year/CSII/Lists Application Activity/commons-csv-1.5-bin/commons-csv-1.5/commons-csv-1.5.jar!/" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.jscs" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
@@ -218,18 +257,18 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propGUI" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Owner\Desktop\Hackathons\HackySlackers2018\CancerClassifier\src\BayesNew" />
       <recent name="C:\Users\Owner\Desktop\Hackathons\HackySlackers2018\CancerClassifier\src\Interface" />
       <recent name="C:\Users\Owner\Desktop\School\College\Junior Year\CancerClassifier\Interface" />
       <recent name="C:\Users\Owner\Desktop\School\College\Junior Year\CancerClassifier\MainClassifier\src" />
       <recent name="C:\Users\Owner\Desktop\School\College\Junior Year\CancerClassifier" />
-      <recent name="C:\Users\Owner\Desktop\School\College\Junior Year\CancerClassifier\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -244,7 +283,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainGUI">
+  <component name="RunManager" selected="Application.BayesDriver">
+    <configuration name="BayesDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BayesNew.BayesDriver" />
+      <module name="CancerClassifier" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BayesNew.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="MainDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainDriver" />
       <module name="CancerClassifier" />
@@ -299,9 +349,11 @@
     <list>
       <item itemvalue="Application.MainDriver" />
       <item itemvalue="Application.MainGUI" />
+      <item itemvalue="Application.BayesDriver" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BayesDriver" />
         <item itemvalue="Application.MainGUI" />
         <item itemvalue="Application.MainDriver" />
       </list>
@@ -321,11 +373,12 @@
       <workItem from="1538850086676" duration="6633000" />
       <workItem from="1538857021996" duration="7381000" />
       <workItem from="1538897257308" duration="2945000" />
+      <workItem from="1538901571110" duration="4863000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21661000" />
+    <option name="totallyTimeSpent" value="26524000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -340,14 +393,13 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17270789" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17430703" />
       <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32570806" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -359,6 +411,7 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32570806" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -368,6 +421,59 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Interface/MainGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4158">
+          <caret line="199" column="13" lean-forward="true" selection-start-line="199" selection-start-column="13" selection-end-line="199" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interface/InformationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interface/InformationInput.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/naivebayes/old/experiments/MainBayes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classifier/ClassifierBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RESTAPI/SQLQueryBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interface/InformationInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="initializer##0;class#InformationInput#0" expanded="true" />
+            <element signature="initializer##0;class#InformationInput#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Interface/MainGUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4048">
@@ -424,13 +530,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/naivebayes/experiments/MainBayes.java">
+    <entry file="file://$PROJECT_DIR$/src/Interface/InformationInput.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/naivebayes/old/experiments/MainBayes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/naivebayes/old/experiments/CategoricalAttribute.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/naivebayes/old/experiments/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BayesNew/IFeatureProbability.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/naivebayes/old/experiments/NaiveBayesClassifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/naivebayes/old/experiments/ContinuousAttribute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/naivebayes/old/experiments/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../School/College/Junior Year/CSII/Lists Application Activity/list_app_activity-1/lists/src/DataAnalyzer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1536">
+          <caret line="17" column="17" selection-start-line="17" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interface/InformationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -441,20 +613,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Interface/InformationInput.form">
-      <provider selected="true" editor-type-id="ui-designer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Interface/InformationPage.java">
+    <entry file="file://$PROJECT_DIR$/src/BayesNew/Classifier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="197">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BayesNew/BayesClassifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BayesNew/Classification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BayesNew/BayesDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Interface/MainGUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="199" column="13" lean-forward="true" selection-start-line="199" selection-start-column="13" selection-end-line="199" selection-end-column="13" />
+        <state relative-caret-position="488">
+          <caret line="214" column="5" lean-forward="true" selection-start-line="214" selection-start-column="5" selection-end-line="214" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -463,10 +659,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Interface/InformationInput.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        <state relative-caret-position="392">
+          <caret line="200" column="12" selection-start-line="200" selection-start-column="12" selection-end-line="200" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="initializer##0;class#InformationInput#0" expanded="true" />
           </folding>
         </state>
       </provider>
