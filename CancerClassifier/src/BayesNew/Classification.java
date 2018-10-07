@@ -14,7 +14,7 @@ import java.util.Collection;
  * @param <K>
  *            The category class.
  */
-public class Classification<T, K> implements Serializable {
+public class  Classification<T, K> implements Serializable {
 
     /**
      * Generated Serial Version UID (generated for v1.0.7).
