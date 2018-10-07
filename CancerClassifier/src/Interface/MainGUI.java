@@ -88,6 +88,7 @@ public class MainGUI extends JFrame{
         head = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
         head.setBorder(BorderFactory.createEmptyBorder());
         head.addActionListener(handler);
+        head.setName("head");
         frame.getContentPane().add(head);
         i++;
 
@@ -97,18 +98,21 @@ public class MainGUI extends JFrame{
         leftShoulder = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
         leftShoulder.setBorder(BorderFactory.createEmptyBorder());
         leftShoulder.addActionListener(handler);
+        leftShoulder.setName("left shoulder");
         frame.getContentPane().add(leftShoulder);
         i++;
 
         chest = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
         chest.setBorder(BorderFactory.createEmptyBorder());
         chest.addActionListener(handler);
+        chest.setName("chest");
         frame.getContentPane().add(chest);
         i++;
 
         rightShoulder = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
         rightShoulder.setBorder(BorderFactory.createEmptyBorder());
         rightShoulder.addActionListener(handler);
+        rightShoulder.setName("right shoulder");
         frame.getContentPane().add(rightShoulder);
         i++;
 
@@ -119,6 +123,7 @@ public class MainGUI extends JFrame{
         lowerAbdomen = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
         lowerAbdomen.setBorder(BorderFactory.createEmptyBorder());
         lowerAbdomen.addActionListener(handler);
+        lowerAbdomen.setName("lower abdomen");
         frame.getContentPane().add(lowerAbdomen);
         i++;
 
@@ -131,6 +136,7 @@ public class MainGUI extends JFrame{
         pelvis = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
         pelvis.setBorder(BorderFactory.createEmptyBorder());
         pelvis.addActionListener(handler);
+        pelvis.setName("pelvis");
         frame.getContentPane().add(pelvis);
         i++;
 
@@ -143,6 +149,7 @@ public class MainGUI extends JFrame{
         legs = new JButton(new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource())));
         legs.setBorder(BorderFactory.createEmptyBorder());
         legs.addActionListener(handler);
+        legs.setName("legs");
         frame.getContentPane().add(legs);
         i++;
 
@@ -155,6 +162,7 @@ public class MainGUI extends JFrame{
         feet = new JButton((new ImageIcon(Toolkit.getDefaultToolkit().createImage(imgs[i].getSource()))));
         feet.setBorder(BorderFactory.createEmptyBorder());
         feet.addActionListener(handler);
+        feet.setName("feet");
         frame.getContentPane().add(feet);
         i++;
 

@@ -1,2412 +1,2406 @@
-Probability of Developing Cancer,,,
-By Cancer Site,,,
-All Ages  All Races  Female,,,
-2013-2015 ,,,
-,,,
 Cancer Site,Cancer Free Age,Probability of Developing Cancer (%) by Age,Risk
-All Sites,Age 0,Age <br/>5,0.108
-All Sites,Age 0,Age <br/>10,0.174
-All Sites,Age 0,Age <br/>15,0.247
-All Sites,Age 0,Age <br/>20,0.36
-All Sites,Age 0,Age <br/>25,0.551
-All Sites,Age 0,Age <br/>30,0.886
-All Sites,Age 0,Age <br/>35,1.45
-All Sites,Age 0,Age <br/>40,2.327
-All Sites,Age 0,Age <br/>45,3.669
-All Sites,Age 0,Age <br/>50,5.573
-All Sites,Age 0,Age <br/>55,8.094
-All Sites,Age 0,Age <br/>60,11.199
-All Sites,Age 0,Age <br/>65,14.988
-All Sites,Age 0,Age <br/>70,19.5
-All Sites,Age 0,Age <br/>75,24.314
-All Sites,Age 0,Age <br/>80,28.983
-All Sites,Age 0,Age <br/>85,32.952
-All Sites,Age 0,Age <br/>90,35.724
-All Sites,Age 0,Age <br/>95,37.109
-All Sites,Age 0,Age <br/>95+,37.73
-All Sites,Age 5,Age <br/>5,
-All Sites,Age 5,Age <br/>10,0.068
-All Sites,Age 5,Age <br/>15,0.141
-All Sites,Age 5,Age <br/>20,0.255
-All Sites,Age 5,Age <br/>25,0.448
-All Sites,Age 5,Age <br/>30,0.786
-All Sites,Age 5,Age <br/>35,1.357
-All Sites,Age 5,Age <br/>40,2.243
-All Sites,Age 5,Age <br/>45,3.598
-All Sites,Age 5,Age <br/>50,5.522
-All Sites,Age 5,Age <br/>55,8.069
-All Sites,Age 5,Age <br/>60,11.206
-All Sites,Age 5,Age <br/>65,15.033
-All Sites,Age 5,Age <br/>70,19.591
-All Sites,Age 5,Age <br/>75,24.455
-All Sites,Age 5,Age <br/>80,29.172
-All Sites,Age 5,Age <br/>85,33.182
-All Sites,Age 5,Age <br/>90,35.982
-All Sites,Age 5,Age <br/>95,37.382
-All Sites,Age 5,Age <br/>95+,38.009
-All Sites,Age 10,Age <br/>5,
-All Sites,Age 10,Age <br/>10,
-All Sites,Age 10,Age <br/>15,0.073
-All Sites,Age 10,Age <br/>20,0.188
-All Sites,Age 10,Age <br/>25,0.381
-All Sites,Age 10,Age <br/>30,0.719
-All Sites,Age 10,Age <br/>35,1.291
-All Sites,Age 10,Age <br/>40,2.178
-All Sites,Age 10,Age <br/>45,3.534
-All Sites,Age 10,Age <br/>50,5.461
-All Sites,Age 10,Age <br/>55,8.01
-All Sites,Age 10,Age <br/>60,11.151
-All Sites,Age 10,Age <br/>65,14.982
-All Sites,Age 10,Age <br/>70,19.546
-All Sites,Age 10,Age <br/>75,24.415
-All Sites,Age 10,Age <br/>80,29.137
-All Sites,Age 10,Age <br/>85,33.152
-All Sites,Age 10,Age <br/>90,35.955
-All Sites,Age 10,Age <br/>95,37.356
-All Sites,Age 10,Age <br/>95+,37.984
-All Sites,Age 15,Age <br/>5,
-All Sites,Age 15,Age <br/>10,
-All Sites,Age 15,Age <br/>15,
-All Sites,Age 15,Age <br/>20,0.115
-All Sites,Age 15,Age <br/>25,0.308
-All Sites,Age 15,Age <br/>30,0.647
-All Sites,Age 15,Age <br/>35,1.219
-All Sites,Age 15,Age <br/>40,2.107
-All Sites,Age 15,Age <br/>45,3.465
-All Sites,Age 15,Age <br/>50,5.394
-All Sites,Age 15,Age <br/>55,7.947
-All Sites,Age 15,Age <br/>60,11.092
-All Sites,Age 15,Age <br/>65,14.928
-All Sites,Age 15,Age <br/>70,19.497
-All Sites,Age 15,Age <br/>75,24.372
-All Sites,Age 15,Age <br/>80,29.101
-All Sites,Age 15,Age <br/>85,33.12
-All Sites,Age 15,Age <br/>90,35.927
-All Sites,Age 15,Age <br/>95,37.33
-All Sites,Age 15,Age <br/>95+,37.959
-All Sites,Age 20,Age <br/>5,
-All Sites,Age 20,Age <br/>10,
-All Sites,Age 20,Age <br/>15,
-All Sites,Age 20,Age <br/>20,
-All Sites,Age 20,Age <br/>25,0.194
-All Sites,Age 20,Age <br/>30,0.533
-All Sites,Age 20,Age <br/>35,1.107
-All Sites,Age 20,Age <br/>40,1.997
-All Sites,Age 20,Age <br/>45,3.358
-All Sites,Age 20,Age <br/>50,5.291
-All Sites,Age 20,Age <br/>55,7.85
-All Sites,Age 20,Age <br/>60,11.002
-All Sites,Age 20,Age <br/>65,14.847
-All Sites,Age 20,Age <br/>70,19.427
-All Sites,Age 20,Age <br/>75,24.313
-All Sites,Age 20,Age <br/>80,29.052
-All Sites,Age 20,Age <br/>85,33.081
-All Sites,Age 20,Age <br/>90,35.894
-All Sites,Age 20,Age <br/>95,37.301
-All Sites,Age 20,Age <br/>95+,37.931
-All Sites,Age 25,Age <br/>5,
-All Sites,Age 25,Age <br/>10,
-All Sites,Age 25,Age <br/>15,
-All Sites,Age 25,Age <br/>20,
-All Sites,Age 25,Age <br/>25,
-All Sites,Age 25,Age <br/>30,0.341
-All Sites,Age 25,Age <br/>35,0.916
-All Sites,Age 25,Age <br/>40,1.81
-All Sites,Age 25,Age <br/>45,3.176
-All Sites,Age 25,Age <br/>50,5.117
-All Sites,Age 25,Age <br/>55,7.686
-All Sites,Age 25,Age <br/>60,10.849
-All Sites,Age 25,Age <br/>65,14.709
-All Sites,Age 25,Age <br/>70,19.306
-All Sites,Age 25,Age <br/>75,24.211
-All Sites,Age 25,Age <br/>80,28.969
-All Sites,Age 25,Age <br/>85,33.013
-All Sites,Age 25,Age <br/>90,35.837
-All Sites,Age 25,Age <br/>95,37.248
-All Sites,Age 25,Age <br/>95+,37.881
-All Sites,Age 30,Age <br/>5,
-All Sites,Age 30,Age <br/>10,
-All Sites,Age 30,Age <br/>15,
-All Sites,Age 30,Age <br/>20,
-All Sites,Age 30,Age <br/>25,
-All Sites,Age 30,Age <br/>30,
-All Sites,Age 30,Age <br/>35,0.579
-All Sites,Age 30,Age <br/>40,1.477
-All Sites,Age 30,Age <br/>45,2.852
-All Sites,Age 30,Age <br/>50,4.804
-All Sites,Age 30,Age <br/>55,7.387
-All Sites,Age 30,Age <br/>60,10.57
-All Sites,Age 30,Age <br/>65,14.452
-All Sites,Age 30,Age <br/>70,19.076
-All Sites,Age 30,Age <br/>75,24.009
-All Sites,Age 30,Age <br/>80,28.794
-All Sites,Age 30,Age <br/>85,32.862
-All Sites,Age 30,Age <br/>90,35.703
-All Sites,Age 30,Age <br/>95,37.123
-All Sites,Age 30,Age <br/>95+,37.759
-All Sites,Age 35,Age <br/>5,
-All Sites,Age 35,Age <br/>10,
-All Sites,Age 35,Age <br/>15,
-All Sites,Age 35,Age <br/>20,
-All Sites,Age 35,Age <br/>25,
-All Sites,Age 35,Age <br/>30,
-All Sites,Age 35,Age <br/>35,
-All Sites,Age 35,Age <br/>40,0.907
-All Sites,Age 35,Age <br/>45,2.293
-All Sites,Age 35,Age <br/>50,4.263
-All Sites,Age 35,Age <br/>55,6.869
-All Sites,Age 35,Age <br/>60,10.079
-All Sites,Age 35,Age <br/>65,13.996
-All Sites,Age 35,Age <br/>70,18.661
-All Sites,Age 35,Age <br/>75,23.638
-All Sites,Age 35,Age <br/>80,28.465
-All Sites,Age 35,Age <br/>85,32.569
-All Sites,Age 35,Age <br/>90,35.434
-All Sites,Age 35,Age <br/>95,36.867
-All Sites,Age 35,Age <br/>95+,37.509
-All Sites,Age 40,Age <br/>5,
-All Sites,Age 40,Age <br/>10,
-All Sites,Age 40,Age <br/>15,
-All Sites,Age 40,Age <br/>20,
-All Sites,Age 40,Age <br/>25,
-All Sites,Age 40,Age <br/>30,
-All Sites,Age 40,Age <br/>35,
-All Sites,Age 40,Age <br/>40,
-All Sites,Age 40,Age <br/>45,1.405
-All Sites,Age 40,Age <br/>50,3.4
-All Sites,Age 40,Age <br/>55,6.04
-All Sites,Age 40,Age <br/>60,9.293
-All Sites,Age 40,Age <br/>65,13.26
-All Sites,Age 40,Age <br/>70,17.986
-All Sites,Age 40,Age <br/>75,23.028
-All Sites,Age 40,Age <br/>80,27.918
-All Sites,Age 40,Age <br/>85,32.076
-All Sites,Age 40,Age <br/>90,34.979
-All Sites,Age 40,Age <br/>95,36.43
-All Sites,Age 40,Age <br/>95+,37.08
-All Sites,Age 45,Age <br/>5,
-All Sites,Age 45,Age <br/>10,
-All Sites,Age 45,Age <br/>15,
-All Sites,Age 45,Age <br/>20,
-All Sites,Age 45,Age <br/>25,
-All Sites,Age 45,Age <br/>30,
-All Sites,Age 45,Age <br/>35,
-All Sites,Age 45,Age <br/>40,
-All Sites,Age 45,Age <br/>45,
-All Sites,Age 45,Age <br/>50,2.034
-All Sites,Age 45,Age <br/>55,4.726
-All Sites,Age 45,Age <br/>60,8.043
-All Sites,Age 45,Age <br/>65,12.088
-All Sites,Age 45,Age <br/>70,16.907
-All Sites,Age 45,Age <br/>75,22.048
-All Sites,Age 45,Age <br/>80,27.035
-All Sites,Age 45,Age <br/>85,31.274
-All Sites,Age 45,Age <br/>90,34.234
-All Sites,Age 45,Age <br/>95,35.714
-All Sites,Age 45,Age <br/>95+,36.377
-All Sites,Age 50,Age <br/>5,
-All Sites,Age 50,Age <br/>10,
-All Sites,Age 50,Age <br/>15,
-All Sites,Age 50,Age <br/>20,
-All Sites,Age 50,Age <br/>25,
-All Sites,Age 50,Age <br/>30,
-All Sites,Age 50,Age <br/>35,
-All Sites,Age 50,Age <br/>40,
-All Sites,Age 50,Age <br/>45,
-All Sites,Age 50,Age <br/>50,
-All Sites,Age 50,Age <br/>55,2.77
-All Sites,Age 50,Age <br/>60,6.182
-All Sites,Age 50,Age <br/>65,10.345
-All Sites,Age 50,Age <br/>70,15.303
-All Sites,Age 50,Age <br/>75,20.592
-All Sites,Age 50,Age <br/>80,25.723
-All Sites,Age 50,Age <br/>85,30.084
-All Sites,Age 50,Age <br/>90,33.13
-All Sites,Age 50,Age <br/>95,34.652
-All Sites,Age 50,Age <br/>95+,35.334
-All Sites,Age 55,Age <br/>5,
-All Sites,Age 55,Age <br/>10,
-All Sites,Age 55,Age <br/>15,
-All Sites,Age 55,Age <br/>20,
-All Sites,Age 55,Age <br/>25,
-All Sites,Age 55,Age <br/>30,
-All Sites,Age 55,Age <br/>35,
-All Sites,Age 55,Age <br/>40,
-All Sites,Age 55,Age <br/>45,
-All Sites,Age 55,Age <br/>50,
-All Sites,Age 55,Age <br/>55,
-All Sites,Age 55,Age <br/>60,3.551
-All Sites,Age 55,Age <br/>65,7.883
-All Sites,Age 55,Age <br/>70,13.042
-All Sites,Age 55,Age <br/>75,18.547
-All Sites,Age 55,Age <br/>80,23.886
-All Sites,Age 55,Age <br/>85,28.426
-All Sites,Age 55,Age <br/>90,31.595
-All Sites,Age 55,Age <br/>95,33.179
-All Sites,Age 55,Age <br/>95+,33.889
-All Sites,Age 60,Age <br/>5,
-All Sites,Age 60,Age <br/>10,
-All Sites,Age 60,Age <br/>15,
-All Sites,Age 60,Age <br/>20,
-All Sites,Age 60,Age <br/>25,
-All Sites,Age 60,Age <br/>30,
-All Sites,Age 60,Age <br/>35,
-All Sites,Age 60,Age <br/>40,
-All Sites,Age 60,Age <br/>45,
-All Sites,Age 60,Age <br/>50,
-All Sites,Age 60,Age <br/>55,
-All Sites,Age 60,Age <br/>60,
-All Sites,Age 60,Age <br/>65,4.567
-All Sites,Age 60,Age <br/>70,10.006
-All Sites,Age 60,Age <br/>75,15.809
-All Sites,Age 60,Age <br/>80,21.437
-All Sites,Age 60,Age <br/>85,26.222
-All Sites,Age 60,Age <br/>90,29.563
-All Sites,Age 60,Age <br/>95,31.233
-All Sites,Age 60,Age <br/>95+,31.982
-All Sites,Age 65,Age <br/>5,
-All Sites,Age 65,Age <br/>10,
-All Sites,Age 65,Age <br/>15,
-All Sites,Age 65,Age <br/>20,
-All Sites,Age 65,Age <br/>25,
-All Sites,Age 65,Age <br/>30,
-All Sites,Age 65,Age <br/>35,
-All Sites,Age 65,Age <br/>40,
-All Sites,Age 65,Age <br/>45,
-All Sites,Age 65,Age <br/>50,
-All Sites,Age 65,Age <br/>55,
-All Sites,Age 65,Age <br/>60,
-All Sites,Age 65,Age <br/>65,
-All Sites,Age 65,Age <br/>70,5.836
-All Sites,Age 65,Age <br/>75,12.063
-All Sites,Age 65,Age <br/>80,18.102
-All Sites,Age 65,Age <br/>85,23.236
-All Sites,Age 65,Age <br/>90,26.821
-All Sites,Age 65,Age <br/>95,28.613
-All Sites,Age 65,Age <br/>95+,29.416
-All Sites,Age 70,Age <br/>5,
-All Sites,Age 70,Age <br/>10,
-All Sites,Age 70,Age <br/>15,
-All Sites,Age 70,Age <br/>20,
-All Sites,Age 70,Age <br/>25,
-All Sites,Age 70,Age <br/>30,
-All Sites,Age 70,Age <br/>35,
-All Sites,Age 70,Age <br/>40,
-All Sites,Age 70,Age <br/>45,
-All Sites,Age 70,Age <br/>50,
-All Sites,Age 70,Age <br/>55,
-All Sites,Age 70,Age <br/>60,
-All Sites,Age 70,Age <br/>65,
-All Sites,Age 70,Age <br/>70,
-All Sites,Age 70,Age <br/>75,6.86
-All Sites,Age 70,Age <br/>80,13.514
-All Sites,Age 70,Age <br/>85,19.17
-All Sites,Age 70,Age <br/>90,23.119
-All Sites,Age 70,Age <br/>95,25.094
-All Sites,Age 70,Age <br/>95+,25.978
-All Sites,Age 75,Age <br/>5,
-All Sites,Age 75,Age <br/>10,
-All Sites,Age 75,Age <br/>15,
-All Sites,Age 75,Age <br/>20,
-All Sites,Age 75,Age <br/>25,
-All Sites,Age 75,Age <br/>30,
-All Sites,Age 75,Age <br/>35,
-All Sites,Age 75,Age <br/>40,
-All Sites,Age 75,Age <br/>45,
-All Sites,Age 75,Age <br/>50,
-All Sites,Age 75,Age <br/>55,
-All Sites,Age 75,Age <br/>60,
-All Sites,Age 75,Age <br/>65,
-All Sites,Age 75,Age <br/>70,
-All Sites,Age 75,Age <br/>75,
-All Sites,Age 75,Age <br/>80,7.609
-All Sites,Age 75,Age <br/>85,14.077
-All Sites,Age 75,Age <br/>90,18.594
-All Sites,Age 75,Age <br/>95,20.852
-All Sites,Age 75,Age <br/>95+,21.863
-All Sites,Age 80,Age <br/>5,
-All Sites,Age 80,Age <br/>10,
-All Sites,Age 80,Age <br/>15,
-All Sites,Age 80,Age <br/>20,
-All Sites,Age 80,Age <br/>25,
-All Sites,Age 80,Age <br/>30,
-All Sites,Age 80,Age <br/>35,
-All Sites,Age 80,Age <br/>40,
-All Sites,Age 80,Age <br/>45,
-All Sites,Age 80,Age <br/>50,
-All Sites,Age 80,Age <br/>55,
-All Sites,Age 80,Age <br/>60,
-All Sites,Age 80,Age <br/>65,
-All Sites,Age 80,Age <br/>70,
-All Sites,Age 80,Age <br/>75,
-All Sites,Age 80,Age <br/>80,
-All Sites,Age 80,Age <br/>85,7.853
-All Sites,Age 80,Age <br/>90,13.336
-All Sites,Age 80,Age <br/>95,16.077
-All Sites,Age 80,Age <br/>95+,17.305
-All Sites,Age 85,Age <br/>5,
-All Sites,Age 85,Age <br/>10,
-All Sites,Age 85,Age <br/>15,
-All Sites,Age 85,Age <br/>20,
-All Sites,Age 85,Age <br/>25,
-All Sites,Age 85,Age <br/>30,
-All Sites,Age 85,Age <br/>35,
-All Sites,Age 85,Age <br/>40,
-All Sites,Age 85,Age <br/>45,
-All Sites,Age 85,Age <br/>50,
-All Sites,Age 85,Age <br/>55,
-All Sites,Age 85,Age <br/>60,
-All Sites,Age 85,Age <br/>65,
-All Sites,Age 85,Age <br/>70,
-All Sites,Age 85,Age <br/>75,
-All Sites,Age 85,Age <br/>80,
-All Sites,Age 85,Age <br/>85,
-All Sites,Age 85,Age <br/>90,7.397
-All Sites,Age 85,Age <br/>95,11.095
-All Sites,Age 85,Age <br/>95+,12.752
-All Sites,Age 90,Age <br/>5,
-All Sites,Age 90,Age <br/>10,
-All Sites,Age 90,Age <br/>15,
-All Sites,Age 90,Age <br/>20,
-All Sites,Age 90,Age <br/>25,
-All Sites,Age 90,Age <br/>30,
-All Sites,Age 90,Age <br/>35,
-All Sites,Age 90,Age <br/>40,
-All Sites,Age 90,Age <br/>45,
-All Sites,Age 90,Age <br/>50,
-All Sites,Age 90,Age <br/>55,
-All Sites,Age 90,Age <br/>60,
-All Sites,Age 90,Age <br/>65,
-All Sites,Age 90,Age <br/>70,
-All Sites,Age 90,Age <br/>75,
-All Sites,Age 90,Age <br/>80,
-All Sites,Age 90,Age <br/>85,
-All Sites,Age 90,Age <br/>90,
-All Sites,Age 90,Age <br/>95,6.043
-All Sites,Age 90,Age <br/>95+,8.75
-All Sites,Age 95,Age <br/>5,
-All Sites,Age 95,Age <br/>10,
-All Sites,Age 95,Age <br/>15,
-All Sites,Age 95,Age <br/>20,
-All Sites,Age 95,Age <br/>25,
-All Sites,Age 95,Age <br/>30,
-All Sites,Age 95,Age <br/>35,
-All Sites,Age 95,Age <br/>40,
-All Sites,Age 95,Age <br/>45,
-All Sites,Age 95,Age <br/>50,
-All Sites,Age 95,Age <br/>55,
-All Sites,Age 95,Age <br/>60,
-All Sites,Age 95,Age <br/>65,
-All Sites,Age 95,Age <br/>70,
-All Sites,Age 95,Age <br/>75,
-All Sites,Age 95,Age <br/>80,
-All Sites,Age 95,Age <br/>85,
-All Sites,Age 95,Age <br/>90,
-All Sites,Age 95,Age <br/>95,
-All Sites,Age 95,Age <br/>95+,6.015
-Colon and Rectum,Age 0,Age <br/>5,0
-Colon and Rectum,Age 0,Age <br/>10,0.001
-Colon and Rectum,Age 0,Age <br/>15,0.003
-Colon and Rectum,Age 0,Age <br/>20,0.008
-Colon and Rectum,Age 0,Age <br/>25,0.016
-Colon and Rectum,Age 0,Age <br/>30,0.031
-Colon and Rectum,Age 0,Age <br/>35,0.06
-Colon and Rectum,Age 0,Age <br/>40,0.109
-Colon and Rectum,Age 0,Age <br/>45,0.196
-Colon and Rectum,Age 0,Age <br/>50,0.342
-Colon and Rectum,Age 0,Age <br/>55,0.577
-Colon and Rectum,Age 0,Age <br/>60,0.843
-Colon and Rectum,Age 0,Age <br/>65,1.168
-Colon and Rectum,Age 0,Age <br/>70,1.58
-Colon and Rectum,Age 0,Age <br/>75,2.067
-Colon and Rectum,Age 0,Age <br/>80,2.634
-Colon and Rectum,Age 0,Age <br/>85,3.224
-Colon and Rectum,Age 0,Age <br/>90,3.7
-Colon and Rectum,Age 0,Age <br/>95,3.952
-Colon and Rectum,Age 0,Age <br/>95+,4.06
-Colon and Rectum,Age 5,Age <br/>5,
-Colon and Rectum,Age 5,Age <br/>10,0.001
-Colon and Rectum,Age 5,Age <br/>15,0.003
-Colon and Rectum,Age 5,Age <br/>20,0.008
-Colon and Rectum,Age 5,Age <br/>25,0.016
-Colon and Rectum,Age 5,Age <br/>30,0.031
-Colon and Rectum,Age 5,Age <br/>35,0.06
-Colon and Rectum,Age 5,Age <br/>40,0.11
-Colon and Rectum,Age 5,Age <br/>45,0.198
-Colon and Rectum,Age 5,Age <br/>50,0.345
-Colon and Rectum,Age 5,Age <br/>55,0.582
-Colon and Rectum,Age 5,Age <br/>60,0.851
-Colon and Rectum,Age 5,Age <br/>65,1.178
-Colon and Rectum,Age 5,Age <br/>70,1.595
-Colon and Rectum,Age 5,Age <br/>75,2.086
-Colon and Rectum,Age 5,Age <br/>80,2.659
-Colon and Rectum,Age 5,Age <br/>85,3.254
-Colon and Rectum,Age 5,Age <br/>90,3.734
-Colon and Rectum,Age 5,Age <br/>95,3.989
-Colon and Rectum,Age 5,Age <br/>95+,4.097
-Colon and Rectum,Age 10,Age <br/>5,
-Colon and Rectum,Age 10,Age <br/>10,
-Colon and Rectum,Age 10,Age <br/>15,0.002
-Colon and Rectum,Age 10,Age <br/>20,0.007
-Colon and Rectum,Age 10,Age <br/>25,0.015
-Colon and Rectum,Age 10,Age <br/>30,0.03
-Colon and Rectum,Age 10,Age <br/>35,0.059
-Colon and Rectum,Age 10,Age <br/>40,0.109
-Colon and Rectum,Age 10,Age <br/>45,0.197
-Colon and Rectum,Age 10,Age <br/>50,0.345
-Colon and Rectum,Age 10,Age <br/>55,0.582
-Colon and Rectum,Age 10,Age <br/>60,0.851
-Colon and Rectum,Age 10,Age <br/>65,1.179
-Colon and Rectum,Age 10,Age <br/>70,1.595
-Colon and Rectum,Age 10,Age <br/>75,2.087
-Colon and Rectum,Age 10,Age <br/>80,2.659
-Colon and Rectum,Age 10,Age <br/>85,3.255
-Colon and Rectum,Age 10,Age <br/>90,3.736
-Colon and Rectum,Age 10,Age <br/>95,3.99
-Colon and Rectum,Age 10,Age <br/>95+,4.099
-Colon and Rectum,Age 15,Age <br/>5,
-Colon and Rectum,Age 15,Age <br/>10,
-Colon and Rectum,Age 15,Age <br/>15,
-Colon and Rectum,Age 15,Age <br/>20,0.005
-Colon and Rectum,Age 15,Age <br/>25,0.013
-Colon and Rectum,Age 15,Age <br/>30,0.028
-Colon and Rectum,Age 15,Age <br/>35,0.057
-Colon and Rectum,Age 15,Age <br/>40,0.107
-Colon and Rectum,Age 15,Age <br/>45,0.195
-Colon and Rectum,Age 15,Age <br/>50,0.343
-Colon and Rectum,Age 15,Age <br/>55,0.58
-Colon and Rectum,Age 15,Age <br/>60,0.849
-Colon and Rectum,Age 15,Age <br/>65,1.177
-Colon and Rectum,Age 15,Age <br/>70,1.594
-Colon and Rectum,Age 15,Age <br/>75,2.086
-Colon and Rectum,Age 15,Age <br/>80,2.659
-Colon and Rectum,Age 15,Age <br/>85,3.255
-Colon and Rectum,Age 15,Age <br/>90,3.736
-Colon and Rectum,Age 15,Age <br/>95,3.99
-Colon and Rectum,Age 15,Age <br/>95+,4.099
-Colon and Rectum,Age 20,Age <br/>5,
-Colon and Rectum,Age 20,Age <br/>10,
-Colon and Rectum,Age 20,Age <br/>15,
-Colon and Rectum,Age 20,Age <br/>20,
-Colon and Rectum,Age 20,Age <br/>25,0.008
-Colon and Rectum,Age 20,Age <br/>30,0.023
-Colon and Rectum,Age 20,Age <br/>35,0.052
-Colon and Rectum,Age 20,Age <br/>40,0.102
-Colon and Rectum,Age 20,Age <br/>45,0.19
-Colon and Rectum,Age 20,Age <br/>50,0.338
-Colon and Rectum,Age 20,Age <br/>55,0.575
-Colon and Rectum,Age 20,Age <br/>60,0.845
-Colon and Rectum,Age 20,Age <br/>65,1.173
-Colon and Rectum,Age 20,Age <br/>70,1.591
-Colon and Rectum,Age 20,Age <br/>75,2.083
-Colon and Rectum,Age 20,Age <br/>80,2.657
-Colon and Rectum,Age 20,Age <br/>85,3.254
-Colon and Rectum,Age 20,Age <br/>90,3.736
-Colon and Rectum,Age 20,Age <br/>95,3.991
-Colon and Rectum,Age 20,Age <br/>95+,4.1
-Colon and Rectum,Age 25,Age <br/>5,
-Colon and Rectum,Age 25,Age <br/>10,
-Colon and Rectum,Age 25,Age <br/>15,
-Colon and Rectum,Age 25,Age <br/>20,
-Colon and Rectum,Age 25,Age <br/>25,
-Colon and Rectum,Age 25,Age <br/>30,0.015
-Colon and Rectum,Age 25,Age <br/>35,0.044
-Colon and Rectum,Age 25,Age <br/>40,0.094
-Colon and Rectum,Age 25,Age <br/>45,0.182
-Colon and Rectum,Age 25,Age <br/>50,0.331
-Colon and Rectum,Age 25,Age <br/>55,0.569
-Colon and Rectum,Age 25,Age <br/>60,0.839
-Colon and Rectum,Age 25,Age <br/>65,1.168
-Colon and Rectum,Age 25,Age <br/>70,1.586
-Colon and Rectum,Age 25,Age <br/>75,2.08
-Colon and Rectum,Age 25,Age <br/>80,2.655
-Colon and Rectum,Age 25,Age <br/>85,3.253
-Colon and Rectum,Age 25,Age <br/>90,3.736
-Colon and Rectum,Age 25,Age <br/>95,3.991
-Colon and Rectum,Age 25,Age <br/>95+,4.101
-Colon and Rectum,Age 30,Age <br/>5,
-Colon and Rectum,Age 30,Age <br/>10,
-Colon and Rectum,Age 30,Age <br/>15,
-Colon and Rectum,Age 30,Age <br/>20,
-Colon and Rectum,Age 30,Age <br/>25,
-Colon and Rectum,Age 30,Age <br/>30,
-Colon and Rectum,Age 30,Age <br/>35,0.029
-Colon and Rectum,Age 30,Age <br/>40,0.079
-Colon and Rectum,Age 30,Age <br/>45,0.168
-Colon and Rectum,Age 30,Age <br/>50,0.317
-Colon and Rectum,Age 30,Age <br/>55,0.555
-Colon and Rectum,Age 30,Age <br/>60,0.826
-Colon and Rectum,Age 30,Age <br/>65,1.156
-Colon and Rectum,Age 30,Age <br/>70,1.576
-Colon and Rectum,Age 30,Age <br/>75,2.071
-Colon and Rectum,Age 30,Age <br/>80,2.648
-Colon and Rectum,Age 30,Age <br/>85,3.247
-Colon and Rectum,Age 30,Age <br/>90,3.731
-Colon and Rectum,Age 30,Age <br/>95,3.987
-Colon and Rectum,Age 30,Age <br/>95+,4.097
-Colon and Rectum,Age 35,Age <br/>5,
-Colon and Rectum,Age 35,Age <br/>10,
-Colon and Rectum,Age 35,Age <br/>15,
-Colon and Rectum,Age 35,Age <br/>20,
-Colon and Rectum,Age 35,Age <br/>25,
-Colon and Rectum,Age 35,Age <br/>30,
-Colon and Rectum,Age 35,Age <br/>35,
-Colon and Rectum,Age 35,Age <br/>40,0.05
-Colon and Rectum,Age 35,Age <br/>45,0.139
-Colon and Rectum,Age 35,Age <br/>50,0.288
-Colon and Rectum,Age 35,Age <br/>55,0.528
-Colon and Rectum,Age 35,Age <br/>60,0.8
-Colon and Rectum,Age 35,Age <br/>65,1.131
-Colon and Rectum,Age 35,Age <br/>70,1.552
-Colon and Rectum,Age 35,Age <br/>75,2.049
-Colon and Rectum,Age 35,Age <br/>80,2.628
-Colon and Rectum,Age 35,Age <br/>85,3.23
-Colon and Rectum,Age 35,Age <br/>90,3.716
-Colon and Rectum,Age 35,Age <br/>95,3.973
-Colon and Rectum,Age 35,Age <br/>95+,4.083
-Colon and Rectum,Age 40,Age <br/>5,
-Colon and Rectum,Age 40,Age <br/>10,
-Colon and Rectum,Age 40,Age <br/>15,
-Colon and Rectum,Age 40,Age <br/>20,
-Colon and Rectum,Age 40,Age <br/>25,
-Colon and Rectum,Age 40,Age <br/>30,
-Colon and Rectum,Age 40,Age <br/>35,
-Colon and Rectum,Age 40,Age <br/>40,
-Colon and Rectum,Age 40,Age <br/>45,0.089
-Colon and Rectum,Age 40,Age <br/>50,0.24
-Colon and Rectum,Age 40,Age <br/>55,0.48
-Colon and Rectum,Age 40,Age <br/>60,0.754
-Colon and Rectum,Age 40,Age <br/>65,1.087
-Colon and Rectum,Age 40,Age <br/>70,1.51
-Colon and Rectum,Age 40,Age <br/>75,2.01
-Colon and Rectum,Age 40,Age <br/>80,2.592
-Colon and Rectum,Age 40,Age <br/>85,3.197
-Colon and Rectum,Age 40,Age <br/>90,3.686
-Colon and Rectum,Age 40,Age <br/>95,3.944
-Colon and Rectum,Age 40,Age <br/>95+,4.055
-Colon and Rectum,Age 45,Age <br/>5,
-Colon and Rectum,Age 45,Age <br/>10,
-Colon and Rectum,Age 45,Age <br/>15,
-Colon and Rectum,Age 45,Age <br/>20,
-Colon and Rectum,Age 45,Age <br/>25,
-Colon and Rectum,Age 45,Age <br/>30,
-Colon and Rectum,Age 45,Age <br/>35,
-Colon and Rectum,Age 45,Age <br/>40,
-Colon and Rectum,Age 45,Age <br/>45,
-Colon and Rectum,Age 45,Age <br/>50,0.151
-Colon and Rectum,Age 45,Age <br/>55,0.394
-Colon and Rectum,Age 45,Age <br/>60,0.67
-Colon and Rectum,Age 45,Age <br/>65,1.006
-Colon and Rectum,Age 45,Age <br/>70,1.433
-Colon and Rectum,Age 45,Age <br/>75,1.936
-Colon and Rectum,Age 45,Age <br/>80,2.523
-Colon and Rectum,Age 45,Age <br/>85,3.133
-Colon and Rectum,Age 45,Age <br/>90,3.625
-Colon and Rectum,Age 45,Age <br/>95,3.886
-Colon and Rectum,Age 45,Age <br/>95+,3.998
-Colon and Rectum,Age 50,Age <br/>5,
-Colon and Rectum,Age 50,Age <br/>10,
-Colon and Rectum,Age 50,Age <br/>15,
-Colon and Rectum,Age 50,Age <br/>20,
-Colon and Rectum,Age 50,Age <br/>25,
-Colon and Rectum,Age 50,Age <br/>30,
-Colon and Rectum,Age 50,Age <br/>35,
-Colon and Rectum,Age 50,Age <br/>40,
-Colon and Rectum,Age 50,Age <br/>45,
-Colon and Rectum,Age 50,Age <br/>50,
-Colon and Rectum,Age 50,Age <br/>55,0.246
-Colon and Rectum,Age 50,Age <br/>60,0.525
-Colon and Rectum,Age 50,Age <br/>65,0.865
-Colon and Rectum,Age 50,Age <br/>70,1.298
-Colon and Rectum,Age 50,Age <br/>75,1.807
-Colon and Rectum,Age 50,Age <br/>80,2.402
-Colon and Rectum,Age 50,Age <br/>85,3.019
-Colon and Rectum,Age 50,Age <br/>90,3.518
-Colon and Rectum,Age 50,Age <br/>95,3.782
-Colon and Rectum,Age 50,Age <br/>95+,3.895
-Colon and Rectum,Age 55,Age <br/>5,
-Colon and Rectum,Age 55,Age <br/>10,
-Colon and Rectum,Age 55,Age <br/>15,
-Colon and Rectum,Age 55,Age <br/>20,
-Colon and Rectum,Age 55,Age <br/>25,
-Colon and Rectum,Age 55,Age <br/>30,
-Colon and Rectum,Age 55,Age <br/>35,
-Colon and Rectum,Age 55,Age <br/>40,
-Colon and Rectum,Age 55,Age <br/>45,
-Colon and Rectum,Age 55,Age <br/>50,
-Colon and Rectum,Age 55,Age <br/>55,
-Colon and Rectum,Age 55,Age <br/>60,0.285
-Colon and Rectum,Age 55,Age <br/>65,0.632
-Colon and Rectum,Age 55,Age <br/>70,1.073
-Colon and Rectum,Age 55,Age <br/>75,1.593
-Colon and Rectum,Age 55,Age <br/>80,2.199
-Colon and Rectum,Age 55,Age <br/>85,2.829
-Colon and Rectum,Age 55,Age <br/>90,3.338
-Colon and Rectum,Age 55,Age <br/>95,3.607
-Colon and Rectum,Age 55,Age <br/>95+,3.722
-Colon and Rectum,Age 60,Age <br/>5,
-Colon and Rectum,Age 60,Age <br/>10,
-Colon and Rectum,Age 60,Age <br/>15,
-Colon and Rectum,Age 60,Age <br/>20,
-Colon and Rectum,Age 60,Age <br/>25,
-Colon and Rectum,Age 60,Age <br/>30,
-Colon and Rectum,Age 60,Age <br/>35,
-Colon and Rectum,Age 60,Age <br/>40,
-Colon and Rectum,Age 60,Age <br/>45,
-Colon and Rectum,Age 60,Age <br/>50,
-Colon and Rectum,Age 60,Age <br/>55,
-Colon and Rectum,Age 60,Age <br/>60,
-Colon and Rectum,Age 60,Age <br/>65,0.357
-Colon and Rectum,Age 60,Age <br/>70,0.811
-Colon and Rectum,Age 60,Age <br/>75,1.345
-Colon and Rectum,Age 60,Age <br/>80,1.969
-Colon and Rectum,Age 60,Age <br/>85,2.617
-Colon and Rectum,Age 60,Age <br/>90,3.14
-Colon and Rectum,Age 60,Age <br/>95,3.417
-Colon and Rectum,Age 60,Age <br/>95+,3.536
-Colon and Rectum,Age 65,Age <br/>5,
-Colon and Rectum,Age 65,Age <br/>10,
-Colon and Rectum,Age 65,Age <br/>15,
-Colon and Rectum,Age 65,Age <br/>20,
-Colon and Rectum,Age 65,Age <br/>25,
-Colon and Rectum,Age 65,Age <br/>30,
-Colon and Rectum,Age 65,Age <br/>35,
-Colon and Rectum,Age 65,Age <br/>40,
-Colon and Rectum,Age 65,Age <br/>45,
-Colon and Rectum,Age 65,Age <br/>50,
-Colon and Rectum,Age 65,Age <br/>55,
-Colon and Rectum,Age 65,Age <br/>60,
-Colon and Rectum,Age 65,Age <br/>65,
-Colon and Rectum,Age 65,Age <br/>70,0.472
-Colon and Rectum,Age 65,Age <br/>75,1.029
-Colon and Rectum,Age 65,Age <br/>80,1.678
-Colon and Rectum,Age 65,Age <br/>85,2.353
-Colon and Rectum,Age 65,Age <br/>90,2.898
-Colon and Rectum,Age 65,Age <br/>95,3.186
-Colon and Rectum,Age 65,Age <br/>95+,3.31
-Colon and Rectum,Age 70,Age <br/>5,
-Colon and Rectum,Age 70,Age <br/>10,
-Colon and Rectum,Age 70,Age <br/>15,
-Colon and Rectum,Age 70,Age <br/>20,
-Colon and Rectum,Age 70,Age <br/>25,
-Colon and Rectum,Age 70,Age <br/>30,
-Colon and Rectum,Age 70,Age <br/>35,
-Colon and Rectum,Age 70,Age <br/>40,
-Colon and Rectum,Age 70,Age <br/>45,
-Colon and Rectum,Age 70,Age <br/>50,
-Colon and Rectum,Age 70,Age <br/>55,
-Colon and Rectum,Age 70,Age <br/>60,
-Colon and Rectum,Age 70,Age <br/>65,
-Colon and Rectum,Age 70,Age <br/>70,
-Colon and Rectum,Age 70,Age <br/>75,0.591
-Colon and Rectum,Age 70,Age <br/>80,1.28
-Colon and Rectum,Age 70,Age <br/>85,1.997
-Colon and Rectum,Age 70,Age <br/>90,2.575
-Colon and Rectum,Age 70,Age <br/>95,2.881
-Colon and Rectum,Age 70,Age <br/>95+,3.013
-Colon and Rectum,Age 75,Age <br/>5,
-Colon and Rectum,Age 75,Age <br/>10,
-Colon and Rectum,Age 75,Age <br/>15,
-Colon and Rectum,Age 75,Age <br/>20,
-Colon and Rectum,Age 75,Age <br/>25,
-Colon and Rectum,Age 75,Age <br/>30,
-Colon and Rectum,Age 75,Age <br/>35,
-Colon and Rectum,Age 75,Age <br/>40,
-Colon and Rectum,Age 75,Age <br/>45,
-Colon and Rectum,Age 75,Age <br/>50,
-Colon and Rectum,Age 75,Age <br/>55,
-Colon and Rectum,Age 75,Age <br/>60,
-Colon and Rectum,Age 75,Age <br/>65,
-Colon and Rectum,Age 75,Age <br/>70,
-Colon and Rectum,Age 75,Age <br/>75,
-Colon and Rectum,Age 75,Age <br/>80,0.758
-Colon and Rectum,Age 75,Age <br/>85,1.545
-Colon and Rectum,Age 75,Age <br/>90,2.182
-Colon and Rectum,Age 75,Age <br/>95,2.518
-Colon and Rectum,Age 75,Age <br/>95+,2.663
-Colon and Rectum,Age 80,Age <br/>5,
-Colon and Rectum,Age 80,Age <br/>10,
-Colon and Rectum,Age 80,Age <br/>15,
-Colon and Rectum,Age 80,Age <br/>20,
-Colon and Rectum,Age 80,Age <br/>25,
-Colon and Rectum,Age 80,Age <br/>30,
-Colon and Rectum,Age 80,Age <br/>35,
-Colon and Rectum,Age 80,Age <br/>40,
-Colon and Rectum,Age 80,Age <br/>45,
-Colon and Rectum,Age 80,Age <br/>50,
-Colon and Rectum,Age 80,Age <br/>55,
-Colon and Rectum,Age 80,Age <br/>60,
-Colon and Rectum,Age 80,Age <br/>65,
-Colon and Rectum,Age 80,Age <br/>70,
-Colon and Rectum,Age 80,Age <br/>75,
-Colon and Rectum,Age 80,Age <br/>80,
-Colon and Rectum,Age 80,Age <br/>85,0.921
-Colon and Rectum,Age 80,Age <br/>90,1.665
-Colon and Rectum,Age 80,Age <br/>95,2.058
-Colon and Rectum,Age 80,Age <br/>95+,2.227
-Colon and Rectum,Age 85,Age <br/>5,
-Colon and Rectum,Age 85,Age <br/>10,
-Colon and Rectum,Age 85,Age <br/>15,
-Colon and Rectum,Age 85,Age <br/>20,
-Colon and Rectum,Age 85,Age <br/>25,
-Colon and Rectum,Age 85,Age <br/>30,
-Colon and Rectum,Age 85,Age <br/>35,
-Colon and Rectum,Age 85,Age <br/>40,
-Colon and Rectum,Age 85,Age <br/>45,
-Colon and Rectum,Age 85,Age <br/>50,
-Colon and Rectum,Age 85,Age <br/>55,
-Colon and Rectum,Age 85,Age <br/>60,
-Colon and Rectum,Age 85,Age <br/>65,
-Colon and Rectum,Age 85,Age <br/>70,
-Colon and Rectum,Age 85,Age <br/>75,
-Colon and Rectum,Age 85,Age <br/>80,
-Colon and Rectum,Age 85,Age <br/>85,
-Colon and Rectum,Age 85,Age <br/>90,0.971
-Colon and Rectum,Age 85,Age <br/>95,1.485
-Colon and Rectum,Age 85,Age <br/>95+,1.705
-Colon and Rectum,Age 90,Age <br/>5,
-Colon and Rectum,Age 90,Age <br/>10,
-Colon and Rectum,Age 90,Age <br/>15,
-Colon and Rectum,Age 90,Age <br/>20,
-Colon and Rectum,Age 90,Age <br/>25,
-Colon and Rectum,Age 90,Age <br/>30,
-Colon and Rectum,Age 90,Age <br/>35,
-Colon and Rectum,Age 90,Age <br/>40,
-Colon and Rectum,Age 90,Age <br/>45,
-Colon and Rectum,Age 90,Age <br/>50,
-Colon and Rectum,Age 90,Age <br/>55,
-Colon and Rectum,Age 90,Age <br/>60,
-Colon and Rectum,Age 90,Age <br/>65,
-Colon and Rectum,Age 90,Age <br/>70,
-Colon and Rectum,Age 90,Age <br/>75,
-Colon and Rectum,Age 90,Age <br/>80,
-Colon and Rectum,Age 90,Age <br/>85,
-Colon and Rectum,Age 90,Age <br/>90,
-Colon and Rectum,Age 90,Age <br/>95,0.82
-Colon and Rectum,Age 90,Age <br/>95+,1.171
-Colon and Rectum,Age 95,Age <br/>5,
-Colon and Rectum,Age 95,Age <br/>10,
-Colon and Rectum,Age 95,Age <br/>15,
-Colon and Rectum,Age 95,Age <br/>20,
-Colon and Rectum,Age 95,Age <br/>25,
-Colon and Rectum,Age 95,Age <br/>30,
-Colon and Rectum,Age 95,Age <br/>35,
-Colon and Rectum,Age 95,Age <br/>40,
-Colon and Rectum,Age 95,Age <br/>45,
-Colon and Rectum,Age 95,Age <br/>50,
-Colon and Rectum,Age 95,Age <br/>55,
-Colon and Rectum,Age 95,Age <br/>60,
-Colon and Rectum,Age 95,Age <br/>65,
-Colon and Rectum,Age 95,Age <br/>70,
-Colon and Rectum,Age 95,Age <br/>75,
-Colon and Rectum,Age 95,Age <br/>80,
-Colon and Rectum,Age 95,Age <br/>85,
-Colon and Rectum,Age 95,Age <br/>90,
-Colon and Rectum,Age 95,Age <br/>95,
-Colon and Rectum,Age 95,Age <br/>95+,0.77
-Lung and Bronchus,Age 0,Age <br/>5,0
-Lung and Bronchus,Age 0,Age <br/>10,0.001
-Lung and Bronchus,Age 0,Age <br/>15,0.001
-Lung and Bronchus,Age 0,Age <br/>20,0.002
-Lung and Bronchus,Age 0,Age <br/>25,0.003
-Lung and Bronchus,Age 0,Age <br/>30,0.006
-Lung and Bronchus,Age 0,Age <br/>35,0.013
-Lung and Bronchus,Age 0,Age <br/>40,0.027
-Lung and Bronchus,Age 0,Age <br/>45,0.061
-Lung and Bronchus,Age 0,Age <br/>50,0.149
-Lung and Bronchus,Age 0,Age <br/>55,0.347
-Lung and Bronchus,Age 0,Age <br/>60,0.685
-Lung and Bronchus,Age 0,Age <br/>65,1.186
-Lung and Bronchus,Age 0,Age <br/>70,1.951
-Lung and Bronchus,Age 0,Age <br/>75,2.981
-Lung and Bronchus,Age 0,Age <br/>80,4.069
-Lung and Bronchus,Age 0,Age <br/>85,4.985
-Lung and Bronchus,Age 0,Age <br/>90,5.554
-Lung and Bronchus,Age 0,Age <br/>95,5.784
-Lung and Bronchus,Age 0,Age <br/>95+,5.871
-Lung and Bronchus,Age 5,Age <br/>5,
-Lung and Bronchus,Age 5,Age <br/>10,0
-Lung and Bronchus,Age 5,Age <br/>15,0.001
-Lung and Bronchus,Age 5,Age <br/>20,0.001
-Lung and Bronchus,Age 5,Age <br/>25,0.003
-Lung and Bronchus,Age 5,Age <br/>30,0.006
-Lung and Bronchus,Age 5,Age <br/>35,0.012
-Lung and Bronchus,Age 5,Age <br/>40,0.027
-Lung and Bronchus,Age 5,Age <br/>45,0.061
-Lung and Bronchus,Age 5,Age <br/>50,0.149
-Lung and Bronchus,Age 5,Age <br/>55,0.349
-Lung and Bronchus,Age 5,Age <br/>60,0.691
-Lung and Bronchus,Age 5,Age <br/>65,1.196
-Lung and Bronchus,Age 5,Age <br/>70,1.969
-Lung and Bronchus,Age 5,Age <br/>75,3.009
-Lung and Bronchus,Age 5,Age <br/>80,4.106
-Lung and Bronchus,Age 5,Age <br/>85,5.031
-Lung and Bronchus,Age 5,Age <br/>90,5.605
-Lung and Bronchus,Age 5,Age <br/>95,5.837
-Lung and Bronchus,Age 5,Age <br/>95+,5.925
-Lung and Bronchus,Age 10,Age <br/>5,
-Lung and Bronchus,Age 10,Age <br/>10,
-Lung and Bronchus,Age 10,Age <br/>15,0
-Lung and Bronchus,Age 10,Age <br/>20,0.001
-Lung and Bronchus,Age 10,Age <br/>25,0.003
-Lung and Bronchus,Age 10,Age <br/>30,0.006
-Lung and Bronchus,Age 10,Age <br/>35,0.012
-Lung and Bronchus,Age 10,Age <br/>40,0.026
-Lung and Bronchus,Age 10,Age <br/>45,0.061
-Lung and Bronchus,Age 10,Age <br/>50,0.149
-Lung and Bronchus,Age 10,Age <br/>55,0.349
-Lung and Bronchus,Age 10,Age <br/>60,0.691
-Lung and Bronchus,Age 10,Age <br/>65,1.197
-Lung and Bronchus,Age 10,Age <br/>70,1.97
-Lung and Bronchus,Age 10,Age <br/>75,3.01
-Lung and Bronchus,Age 10,Age <br/>80,4.108
-Lung and Bronchus,Age 10,Age <br/>85,5.033
-Lung and Bronchus,Age 10,Age <br/>90,5.608
-Lung and Bronchus,Age 10,Age <br/>95,5.84
-Lung and Bronchus,Age 10,Age <br/>95+,5.928
-Lung and Bronchus,Age 15,Age <br/>5,
-Lung and Bronchus,Age 15,Age <br/>10,
-Lung and Bronchus,Age 15,Age <br/>15,
-Lung and Bronchus,Age 15,Age <br/>20,0.001
-Lung and Bronchus,Age 15,Age <br/>25,0.002
-Lung and Bronchus,Age 15,Age <br/>30,0.005
-Lung and Bronchus,Age 15,Age <br/>35,0.012
-Lung and Bronchus,Age 15,Age <br/>40,0.026
-Lung and Bronchus,Age 15,Age <br/>45,0.061
-Lung and Bronchus,Age 15,Age <br/>50,0.149
-Lung and Bronchus,Age 15,Age <br/>55,0.349
-Lung and Bronchus,Age 15,Age <br/>60,0.691
-Lung and Bronchus,Age 15,Age <br/>65,1.197
-Lung and Bronchus,Age 15,Age <br/>70,1.97
-Lung and Bronchus,Age 15,Age <br/>75,3.012
-Lung and Bronchus,Age 15,Age <br/>80,4.111
-Lung and Bronchus,Age 15,Age <br/>85,5.036
-Lung and Bronchus,Age 15,Age <br/>90,5.611
-Lung and Bronchus,Age 15,Age <br/>95,5.843
-Lung and Bronchus,Age 15,Age <br/>95+,5.931
-Lung and Bronchus,Age 20,Age <br/>5,
-Lung and Bronchus,Age 20,Age <br/>10,
-Lung and Bronchus,Age 20,Age <br/>15,
-Lung and Bronchus,Age 20,Age <br/>20,
-Lung and Bronchus,Age 20,Age <br/>25,0.002
-Lung and Bronchus,Age 20,Age <br/>30,0.005
-Lung and Bronchus,Age 20,Age <br/>35,0.011
-Lung and Bronchus,Age 20,Age <br/>40,0.025
-Lung and Bronchus,Age 20,Age <br/>45,0.06
-Lung and Bronchus,Age 20,Age <br/>50,0.149
-Lung and Bronchus,Age 20,Age <br/>55,0.349
-Lung and Bronchus,Age 20,Age <br/>60,0.692
-Lung and Bronchus,Age 20,Age <br/>65,1.198
-Lung and Bronchus,Age 20,Age <br/>70,1.972
-Lung and Bronchus,Age 20,Age <br/>75,3.015
-Lung and Bronchus,Age 20,Age <br/>80,4.115
-Lung and Bronchus,Age 20,Age <br/>85,5.042
-Lung and Bronchus,Age 20,Age <br/>90,5.617
-Lung and Bronchus,Age 20,Age <br/>95,5.85
-Lung and Bronchus,Age 20,Age <br/>95+,5.938
-Lung and Bronchus,Age 25,Age <br/>5,
-Lung and Bronchus,Age 25,Age <br/>10,
-Lung and Bronchus,Age 25,Age <br/>15,
-Lung and Bronchus,Age 25,Age <br/>20,
-Lung and Bronchus,Age 25,Age <br/>25,
-Lung and Bronchus,Age 25,Age <br/>30,0.003
-Lung and Bronchus,Age 25,Age <br/>35,0.01
-Lung and Bronchus,Age 25,Age <br/>40,0.024
-Lung and Bronchus,Age 25,Age <br/>45,0.059
-Lung and Bronchus,Age 25,Age <br/>50,0.147
-Lung and Bronchus,Age 25,Age <br/>55,0.348
-Lung and Bronchus,Age 25,Age <br/>60,0.691
-Lung and Bronchus,Age 25,Age <br/>65,1.199
-Lung and Bronchus,Age 25,Age <br/>70,1.975
-Lung and Bronchus,Age 25,Age <br/>75,3.019
-Lung and Bronchus,Age 25,Age <br/>80,4.122
-Lung and Bronchus,Age 25,Age <br/>85,5.051
-Lung and Bronchus,Age 25,Age <br/>90,5.627
-Lung and Bronchus,Age 25,Age <br/>95,5.861
-Lung and Bronchus,Age 25,Age <br/>95+,5.949
-Lung and Bronchus,Age 30,Age <br/>5,
-Lung and Bronchus,Age 30,Age <br/>10,
-Lung and Bronchus,Age 30,Age <br/>15,
-Lung and Bronchus,Age 30,Age <br/>20,
-Lung and Bronchus,Age 30,Age <br/>25,
-Lung and Bronchus,Age 30,Age <br/>30,
-Lung and Bronchus,Age 30,Age <br/>35,0.007
-Lung and Bronchus,Age 30,Age <br/>40,0.021
-Lung and Bronchus,Age 30,Age <br/>45,0.056
-Lung and Bronchus,Age 30,Age <br/>50,0.144
-Lung and Bronchus,Age 30,Age <br/>55,0.346
-Lung and Bronchus,Age 30,Age <br/>60,0.69
-Lung and Bronchus,Age 30,Age <br/>65,1.199
-Lung and Bronchus,Age 30,Age <br/>70,1.977
-Lung and Bronchus,Age 30,Age <br/>75,3.024
-Lung and Bronchus,Age 30,Age <br/>80,4.13
-Lung and Bronchus,Age 30,Age <br/>85,5.061
-Lung and Bronchus,Age 30,Age <br/>90,5.639
-Lung and Bronchus,Age 30,Age <br/>95,5.874
-Lung and Bronchus,Age 30,Age <br/>95+,5.962
-Lung and Bronchus,Age 35,Age <br/>5,
-Lung and Bronchus,Age 35,Age <br/>10,
-Lung and Bronchus,Age 35,Age <br/>15,
-Lung and Bronchus,Age 35,Age <br/>20,
-Lung and Bronchus,Age 35,Age <br/>25,
-Lung and Bronchus,Age 35,Age <br/>30,
-Lung and Bronchus,Age 35,Age <br/>35,
-Lung and Bronchus,Age 35,Age <br/>40,0.014
-Lung and Bronchus,Age 35,Age <br/>45,0.049
-Lung and Bronchus,Age 35,Age <br/>50,0.139
-Lung and Bronchus,Age 35,Age <br/>55,0.341
-Lung and Bronchus,Age 35,Age <br/>60,0.686
-Lung and Bronchus,Age 35,Age <br/>65,1.197
-Lung and Bronchus,Age 35,Age <br/>70,1.978
-Lung and Bronchus,Age 35,Age <br/>75,3.029
-Lung and Bronchus,Age 35,Age <br/>80,4.139
-Lung and Bronchus,Age 35,Age <br/>85,5.073
-Lung and Bronchus,Age 35,Age <br/>90,5.653
-Lung and Bronchus,Age 35,Age <br/>95,5.888
-Lung and Bronchus,Age 35,Age <br/>95+,5.977
-Lung and Bronchus,Age 40,Age <br/>5,
-Lung and Bronchus,Age 40,Age <br/>10,
-Lung and Bronchus,Age 40,Age <br/>15,
-Lung and Bronchus,Age 40,Age <br/>20,
-Lung and Bronchus,Age 40,Age <br/>25,
-Lung and Bronchus,Age 40,Age <br/>30,
-Lung and Bronchus,Age 40,Age <br/>35,
-Lung and Bronchus,Age 40,Age <br/>40,
-Lung and Bronchus,Age 40,Age <br/>45,0.035
-Lung and Bronchus,Age 40,Age <br/>50,0.125
-Lung and Bronchus,Age 40,Age <br/>55,0.328
-Lung and Bronchus,Age 40,Age <br/>60,0.675
-Lung and Bronchus,Age 40,Age <br/>65,1.188
-Lung and Bronchus,Age 40,Age <br/>70,1.973
-Lung and Bronchus,Age 40,Age <br/>75,3.03
-Lung and Bronchus,Age 40,Age <br/>80,4.145
-Lung and Bronchus,Age 40,Age <br/>85,5.084
-Lung and Bronchus,Age 40,Age <br/>90,5.668
-Lung and Bronchus,Age 40,Age <br/>95,5.904
-Lung and Bronchus,Age 40,Age <br/>95+,5.993
-Lung and Bronchus,Age 45,Age <br/>5,
-Lung and Bronchus,Age 45,Age <br/>10,
-Lung and Bronchus,Age 45,Age <br/>15,
-Lung and Bronchus,Age 45,Age <br/>20,
-Lung and Bronchus,Age 45,Age <br/>25,
-Lung and Bronchus,Age 45,Age <br/>30,
-Lung and Bronchus,Age 45,Age <br/>35,
-Lung and Bronchus,Age 45,Age <br/>40,
-Lung and Bronchus,Age 45,Age <br/>45,
-Lung and Bronchus,Age 45,Age <br/>50,0.09
-Lung and Bronchus,Age 45,Age <br/>55,0.295
-Lung and Bronchus,Age 45,Age <br/>60,0.645
-Lung and Bronchus,Age 45,Age <br/>65,1.162
-Lung and Bronchus,Age 45,Age <br/>70,1.953
-Lung and Bronchus,Age 45,Age <br/>75,3.017
-Lung and Bronchus,Age 45,Age <br/>80,4.141
-Lung and Bronchus,Age 45,Age <br/>85,5.087
-Lung and Bronchus,Age 45,Age <br/>90,5.675
-Lung and Bronchus,Age 45,Age <br/>95,5.913
-Lung and Bronchus,Age 45,Age <br/>95+,6.002
-Lung and Bronchus,Age 50,Age <br/>5,
-Lung and Bronchus,Age 50,Age <br/>10,
-Lung and Bronchus,Age 50,Age <br/>15,
-Lung and Bronchus,Age 50,Age <br/>20,
-Lung and Bronchus,Age 50,Age <br/>25,
-Lung and Bronchus,Age 50,Age <br/>30,
-Lung and Bronchus,Age 50,Age <br/>35,
-Lung and Bronchus,Age 50,Age <br/>40,
-Lung and Bronchus,Age 50,Age <br/>45,
-Lung and Bronchus,Age 50,Age <br/>50,
-Lung and Bronchus,Age 50,Age <br/>55,0.207
-Lung and Bronchus,Age 50,Age <br/>60,0.561
-Lung and Bronchus,Age 50,Age <br/>65,1.084
-Lung and Bronchus,Age 50,Age <br/>70,1.885
-Lung and Bronchus,Age 50,Age <br/>75,2.962
-Lung and Bronchus,Age 50,Age <br/>80,4.099
-Lung and Bronchus,Age 50,Age <br/>85,5.057
-Lung and Bronchus,Age 50,Age <br/>90,5.651
-Lung and Bronchus,Age 50,Age <br/>95,5.892
-Lung and Bronchus,Age 50,Age <br/>95+,5.983
-Lung and Bronchus,Age 55,Age <br/>5,
-Lung and Bronchus,Age 55,Age <br/>10,
-Lung and Bronchus,Age 55,Age <br/>15,
-Lung and Bronchus,Age 55,Age <br/>20,
-Lung and Bronchus,Age 55,Age <br/>25,
-Lung and Bronchus,Age 55,Age <br/>30,
-Lung and Bronchus,Age 55,Age <br/>35,
-Lung and Bronchus,Age 55,Age <br/>40,
-Lung and Bronchus,Age 55,Age <br/>45,
-Lung and Bronchus,Age 55,Age <br/>50,
-Lung and Bronchus,Age 55,Age <br/>55,
-Lung and Bronchus,Age 55,Age <br/>60,0.361
-Lung and Bronchus,Age 55,Age <br/>65,0.894
-Lung and Bronchus,Age 55,Age <br/>70,1.709
-Lung and Bronchus,Age 55,Age <br/>75,2.807
-Lung and Bronchus,Age 55,Age <br/>80,3.966
-Lung and Bronchus,Age 55,Age <br/>85,4.941
-Lung and Bronchus,Age 55,Age <br/>90,5.547
-Lung and Bronchus,Age 55,Age <br/>95,5.793
-Lung and Bronchus,Age 55,Age <br/>95+,5.885
-Lung and Bronchus,Age 60,Age <br/>5,
-Lung and Bronchus,Age 60,Age <br/>10,
-Lung and Bronchus,Age 60,Age <br/>15,
-Lung and Bronchus,Age 60,Age <br/>20,
-Lung and Bronchus,Age 60,Age <br/>25,
-Lung and Bronchus,Age 60,Age <br/>30,
-Lung and Bronchus,Age 60,Age <br/>35,
-Lung and Bronchus,Age 60,Age <br/>40,
-Lung and Bronchus,Age 60,Age <br/>45,
-Lung and Bronchus,Age 60,Age <br/>50,
-Lung and Bronchus,Age 60,Age <br/>55,
-Lung and Bronchus,Age 60,Age <br/>60,
-Lung and Bronchus,Age 60,Age <br/>65,0.548
-Lung and Bronchus,Age 60,Age <br/>70,1.386
-Lung and Bronchus,Age 60,Age <br/>75,2.515
-Lung and Bronchus,Age 60,Age <br/>80,3.706
-Lung and Bronchus,Age 60,Age <br/>85,4.709
-Lung and Bronchus,Age 60,Age <br/>90,5.332
-Lung and Bronchus,Age 60,Age <br/>95,5.584
-Lung and Bronchus,Age 60,Age <br/>95+,5.679
-Lung and Bronchus,Age 65,Age <br/>5,
-Lung and Bronchus,Age 65,Age <br/>10,
-Lung and Bronchus,Age 65,Age <br/>15,
-Lung and Bronchus,Age 65,Age <br/>20,
-Lung and Bronchus,Age 65,Age <br/>25,
-Lung and Bronchus,Age 65,Age <br/>30,
-Lung and Bronchus,Age 65,Age <br/>35,
-Lung and Bronchus,Age 65,Age <br/>40,
-Lung and Bronchus,Age 65,Age <br/>45,
-Lung and Bronchus,Age 65,Age <br/>50,
-Lung and Bronchus,Age 65,Age <br/>55,
-Lung and Bronchus,Age 65,Age <br/>60,
-Lung and Bronchus,Age 65,Age <br/>65,
-Lung and Bronchus,Age 65,Age <br/>70,0.872
-Lung and Bronchus,Age 65,Age <br/>75,2.047
-Lung and Bronchus,Age 65,Age <br/>80,3.286
-Lung and Bronchus,Age 65,Age <br/>85,4.33
-Lung and Bronchus,Age 65,Age <br/>90,4.978
-Lung and Bronchus,Age 65,Age <br/>95,5.24
-Lung and Bronchus,Age 65,Age <br/>95+,5.339
-Lung and Bronchus,Age 70,Age <br/>5,
-Lung and Bronchus,Age 70,Age <br/>10,
-Lung and Bronchus,Age 70,Age <br/>15,
-Lung and Bronchus,Age 70,Age <br/>20,
-Lung and Bronchus,Age 70,Age <br/>25,
-Lung and Bronchus,Age 70,Age <br/>30,
-Lung and Bronchus,Age 70,Age <br/>35,
-Lung and Bronchus,Age 70,Age <br/>40,
-Lung and Bronchus,Age 70,Age <br/>45,
-Lung and Bronchus,Age 70,Age <br/>50,
-Lung and Bronchus,Age 70,Age <br/>55,
-Lung and Bronchus,Age 70,Age <br/>60,
-Lung and Bronchus,Age 70,Age <br/>65,
-Lung and Bronchus,Age 70,Age <br/>70,
-Lung and Bronchus,Age 70,Age <br/>75,1.247
-Lung and Bronchus,Age 70,Age <br/>80,2.563
-Lung and Bronchus,Age 70,Age <br/>85,3.671
-Lung and Bronchus,Age 70,Age <br/>90,4.359
-Lung and Bronchus,Age 70,Age <br/>95,4.638
-Lung and Bronchus,Age 70,Age <br/>95+,4.742
-Lung and Bronchus,Age 75,Age <br/>5,
-Lung and Bronchus,Age 75,Age <br/>10,
-Lung and Bronchus,Age 75,Age <br/>15,
-Lung and Bronchus,Age 75,Age <br/>20,
-Lung and Bronchus,Age 75,Age <br/>25,
-Lung and Bronchus,Age 75,Age <br/>30,
-Lung and Bronchus,Age 75,Age <br/>35,
-Lung and Bronchus,Age 75,Age <br/>40,
-Lung and Bronchus,Age 75,Age <br/>45,
-Lung and Bronchus,Age 75,Age <br/>50,
-Lung and Bronchus,Age 75,Age <br/>55,
-Lung and Bronchus,Age 75,Age <br/>60,
-Lung and Bronchus,Age 75,Age <br/>65,
-Lung and Bronchus,Age 75,Age <br/>70,
-Lung and Bronchus,Age 75,Age <br/>75,
-Lung and Bronchus,Age 75,Age <br/>80,1.448
-Lung and Bronchus,Age 75,Age <br/>85,2.666
-Lung and Bronchus,Age 75,Age <br/>90,3.423
-Lung and Bronchus,Age 75,Age <br/>95,3.73
-Lung and Bronchus,Age 75,Age <br/>95+,3.845
-Lung and Bronchus,Age 80,Age <br/>5,
-Lung and Bronchus,Age 80,Age <br/>10,
-Lung and Bronchus,Age 80,Age <br/>15,
-Lung and Bronchus,Age 80,Age <br/>20,
-Lung and Bronchus,Age 80,Age <br/>25,
-Lung and Bronchus,Age 80,Age <br/>30,
-Lung and Bronchus,Age 80,Age <br/>35,
-Lung and Bronchus,Age 80,Age <br/>40,
-Lung and Bronchus,Age 80,Age <br/>45,
-Lung and Bronchus,Age 80,Age <br/>50,
-Lung and Bronchus,Age 80,Age <br/>55,
-Lung and Bronchus,Age 80,Age <br/>60,
-Lung and Bronchus,Age 80,Age <br/>65,
-Lung and Bronchus,Age 80,Age <br/>70,
-Lung and Bronchus,Age 80,Age <br/>75,
-Lung and Bronchus,Age 80,Age <br/>80,
-Lung and Bronchus,Age 80,Age <br/>85,1.424
-Lung and Bronchus,Age 80,Age <br/>90,2.308
-Lung and Bronchus,Age 80,Age <br/>95,2.666
-Lung and Bronchus,Age 80,Age <br/>95+,2.801
-Lung and Bronchus,Age 85,Age <br/>5,
-Lung and Bronchus,Age 85,Age <br/>10,
-Lung and Bronchus,Age 85,Age <br/>15,
-Lung and Bronchus,Age 85,Age <br/>20,
-Lung and Bronchus,Age 85,Age <br/>25,
-Lung and Bronchus,Age 85,Age <br/>30,
-Lung and Bronchus,Age 85,Age <br/>35,
-Lung and Bronchus,Age 85,Age <br/>40,
-Lung and Bronchus,Age 85,Age <br/>45,
-Lung and Bronchus,Age 85,Age <br/>50,
-Lung and Bronchus,Age 85,Age <br/>55,
-Lung and Bronchus,Age 85,Age <br/>60,
-Lung and Bronchus,Age 85,Age <br/>65,
-Lung and Bronchus,Age 85,Age <br/>70,
-Lung and Bronchus,Age 85,Age <br/>75,
-Lung and Bronchus,Age 85,Age <br/>80,
-Lung and Bronchus,Age 85,Age <br/>85,
-Lung and Bronchus,Age 85,Age <br/>90,1.151
-Lung and Bronchus,Age 85,Age <br/>95,1.617
-Lung and Bronchus,Age 85,Age <br/>95+,1.793
-Lung and Bronchus,Age 90,Age <br/>5,
-Lung and Bronchus,Age 90,Age <br/>10,
-Lung and Bronchus,Age 90,Age <br/>15,
-Lung and Bronchus,Age 90,Age <br/>20,
-Lung and Bronchus,Age 90,Age <br/>25,
-Lung and Bronchus,Age 90,Age <br/>30,
-Lung and Bronchus,Age 90,Age <br/>35,
-Lung and Bronchus,Age 90,Age <br/>40,
-Lung and Bronchus,Age 90,Age <br/>45,
-Lung and Bronchus,Age 90,Age <br/>50,
-Lung and Bronchus,Age 90,Age <br/>55,
-Lung and Bronchus,Age 90,Age <br/>60,
-Lung and Bronchus,Age 90,Age <br/>65,
-Lung and Bronchus,Age 90,Age <br/>70,
-Lung and Bronchus,Age 90,Age <br/>75,
-Lung and Bronchus,Age 90,Age <br/>80,
-Lung and Bronchus,Age 90,Age <br/>85,
-Lung and Bronchus,Age 90,Age <br/>90,
-Lung and Bronchus,Age 90,Age <br/>95,0.74
-Lung and Bronchus,Age 90,Age <br/>95+,1.019
-Lung and Bronchus,Age 95,Age <br/>5,
-Lung and Bronchus,Age 95,Age <br/>10,
-Lung and Bronchus,Age 95,Age <br/>15,
-Lung and Bronchus,Age 95,Age <br/>20,
-Lung and Bronchus,Age 95,Age <br/>25,
-Lung and Bronchus,Age 95,Age <br/>30,
-Lung and Bronchus,Age 95,Age <br/>35,
-Lung and Bronchus,Age 95,Age <br/>40,
-Lung and Bronchus,Age 95,Age <br/>45,
-Lung and Bronchus,Age 95,Age <br/>50,
-Lung and Bronchus,Age 95,Age <br/>55,
-Lung and Bronchus,Age 95,Age <br/>60,
-Lung and Bronchus,Age 95,Age <br/>65,
-Lung and Bronchus,Age 95,Age <br/>70,
-Lung and Bronchus,Age 95,Age <br/>75,
-Lung and Bronchus,Age 95,Age <br/>80,
-Lung and Bronchus,Age 95,Age <br/>85,
-Lung and Bronchus,Age 95,Age <br/>90,
-Lung and Bronchus,Age 95,Age <br/>95,
-Lung and Bronchus,Age 95,Age <br/>95+,0.609
-Ovary,Age 0,Age <br/>5,0.001
-Ovary,Age 0,Age <br/>10,0.002
-Ovary,Age 0,Age <br/>15,0.006
-Ovary,Age 0,Age <br/>20,0.013
-Ovary,Age 0,Age <br/>25,0.022
-Ovary,Age 0,Age <br/>30,0.035
-Ovary,Age 0,Age <br/>35,0.052
-Ovary,Age 0,Age <br/>40,0.076
-Ovary,Age 0,Age <br/>45,0.119
-Ovary,Age 0,Age <br/>50,0.184
-Ovary,Age 0,Age <br/>55,0.277
-Ovary,Age 0,Age <br/>60,0.388
-Ovary,Age 0,Age <br/>65,0.518
-Ovary,Age 0,Age <br/>70,0.666
-Ovary,Age 0,Age <br/>75,0.821
-Ovary,Age 0,Age <br/>80,0.974
-Ovary,Age 0,Age <br/>85,1.11
-Ovary,Age 0,Age <br/>90,1.205
-Ovary,Age 0,Age <br/>95,1.249
-Ovary,Age 0,Age <br/>95+,1.268
-Ovary,Age 5,Age <br/>5,
-Ovary,Age 5,Age <br/>10,0.001
-Ovary,Age 5,Age <br/>15,0.005
-Ovary,Age 5,Age <br/>20,0.013
-Ovary,Age 5,Age <br/>25,0.022
-Ovary,Age 5,Age <br/>30,0.035
-Ovary,Age 5,Age <br/>35,0.051
-Ovary,Age 5,Age <br/>40,0.076
-Ovary,Age 5,Age <br/>45,0.119
-Ovary,Age 5,Age <br/>50,0.186
-Ovary,Age 5,Age <br/>55,0.279
-Ovary,Age 5,Age <br/>60,0.391
-Ovary,Age 5,Age <br/>65,0.522
-Ovary,Age 5,Age <br/>70,0.671
-Ovary,Age 5,Age <br/>75,0.828
-Ovary,Age 5,Age <br/>80,0.983
-Ovary,Age 5,Age <br/>85,1.12
-Ovary,Age 5,Age <br/>90,1.216
-Ovary,Age 5,Age <br/>95,1.26
-Ovary,Age 5,Age <br/>95+,1.279
-Ovary,Age 10,Age <br/>5,
-Ovary,Age 10,Age <br/>10,
-Ovary,Age 10,Age <br/>15,0.004
-Ovary,Age 10,Age <br/>20,0.011
-Ovary,Age 10,Age <br/>25,0.021
-Ovary,Age 10,Age <br/>30,0.033
-Ovary,Age 10,Age <br/>35,0.05
-Ovary,Age 10,Age <br/>40,0.074
-Ovary,Age 10,Age <br/>45,0.118
-Ovary,Age 10,Age <br/>50,0.184
-Ovary,Age 10,Age <br/>55,0.278
-Ovary,Age 10,Age <br/>60,0.39
-Ovary,Age 10,Age <br/>65,0.521
-Ovary,Age 10,Age <br/>70,0.67
-Ovary,Age 10,Age <br/>75,0.827
-Ovary,Age 10,Age <br/>80,0.982
-Ovary,Age 10,Age <br/>85,1.119
-Ovary,Age 10,Age <br/>90,1.215
-Ovary,Age 10,Age <br/>95,1.259
-Ovary,Age 10,Age <br/>95+,1.278
-Ovary,Age 15,Age <br/>5,
-Ovary,Age 15,Age <br/>10,
-Ovary,Age 15,Age <br/>15,
-Ovary,Age 15,Age <br/>20,0.007
-Ovary,Age 15,Age <br/>25,0.017
-Ovary,Age 15,Age <br/>30,0.029
-Ovary,Age 15,Age <br/>35,0.046
-Ovary,Age 15,Age <br/>40,0.07
-Ovary,Age 15,Age <br/>45,0.114
-Ovary,Age 15,Age <br/>50,0.18
-Ovary,Age 15,Age <br/>55,0.274
-Ovary,Age 15,Age <br/>60,0.386
-Ovary,Age 15,Age <br/>65,0.517
-Ovary,Age 15,Age <br/>70,0.667
-Ovary,Age 15,Age <br/>75,0.824
-Ovary,Age 15,Age <br/>80,0.979
-Ovary,Age 15,Age <br/>85,1.116
-Ovary,Age 15,Age <br/>90,1.212
-Ovary,Age 15,Age <br/>95,1.256
-Ovary,Age 15,Age <br/>95+,1.275
-Ovary,Age 20,Age <br/>5,
-Ovary,Age 20,Age <br/>10,
-Ovary,Age 20,Age <br/>15,
-Ovary,Age 20,Age <br/>20,
-Ovary,Age 20,Age <br/>25,0.009
-Ovary,Age 20,Age <br/>30,0.022
-Ovary,Age 20,Age <br/>35,0.039
-Ovary,Age 20,Age <br/>40,0.063
-Ovary,Age 20,Age <br/>45,0.107
-Ovary,Age 20,Age <br/>50,0.173
-Ovary,Age 20,Age <br/>55,0.267
-Ovary,Age 20,Age <br/>60,0.379
-Ovary,Age 20,Age <br/>65,0.511
-Ovary,Age 20,Age <br/>70,0.66
-Ovary,Age 20,Age <br/>75,0.818
-Ovary,Age 20,Age <br/>80,0.973
-Ovary,Age 20,Age <br/>85,1.11
-Ovary,Age 20,Age <br/>90,1.207
-Ovary,Age 20,Age <br/>95,1.251
-Ovary,Age 20,Age <br/>95+,1.269
-Ovary,Age 25,Age <br/>5,
-Ovary,Age 25,Age <br/>10,
-Ovary,Age 25,Age <br/>15,
-Ovary,Age 25,Age <br/>20,
-Ovary,Age 25,Age <br/>25,
-Ovary,Age 25,Age <br/>30,0.013
-Ovary,Age 25,Age <br/>35,0.03
-Ovary,Age 25,Age <br/>40,0.054
-Ovary,Age 25,Age <br/>45,0.098
-Ovary,Age 25,Age <br/>50,0.164
-Ovary,Age 25,Age <br/>55,0.258
-Ovary,Age 25,Age <br/>60,0.37
-Ovary,Age 25,Age <br/>65,0.502
-Ovary,Age 25,Age <br/>70,0.652
-Ovary,Age 25,Age <br/>75,0.81
-Ovary,Age 25,Age <br/>80,0.965
-Ovary,Age 25,Age <br/>85,1.103
-Ovary,Age 25,Age <br/>90,1.2
-Ovary,Age 25,Age <br/>95,1.244
-Ovary,Age 25,Age <br/>95+,1.263
-Ovary,Age 30,Age <br/>5,
-Ovary,Age 30,Age <br/>10,
-Ovary,Age 30,Age <br/>15,
-Ovary,Age 30,Age <br/>20,
-Ovary,Age 30,Age <br/>25,
-Ovary,Age 30,Age <br/>30,
-Ovary,Age 30,Age <br/>35,0.017
-Ovary,Age 30,Age <br/>40,0.041
-Ovary,Age 30,Age <br/>45,0.085
-Ovary,Age 30,Age <br/>50,0.152
-Ovary,Age 30,Age <br/>55,0.246
-Ovary,Age 30,Age <br/>60,0.359
-Ovary,Age 30,Age <br/>65,0.491
-Ovary,Age 30,Age <br/>70,0.642
-Ovary,Age 30,Age <br/>75,0.8
-Ovary,Age 30,Age <br/>80,0.956
-Ovary,Age 30,Age <br/>85,1.094
-Ovary,Age 30,Age <br/>90,1.19
-Ovary,Age 30,Age <br/>95,1.235
-Ovary,Age 30,Age <br/>95+,1.254
-Ovary,Age 35,Age <br/>5,
-Ovary,Age 35,Age <br/>10,
-Ovary,Age 35,Age <br/>15,
-Ovary,Age 35,Age <br/>20,
-Ovary,Age 35,Age <br/>25,
-Ovary,Age 35,Age <br/>30,
-Ovary,Age 35,Age <br/>35,
-Ovary,Age 35,Age <br/>40,0.025
-Ovary,Age 35,Age <br/>45,0.068
-Ovary,Age 35,Age <br/>50,0.136
-Ovary,Age 35,Age <br/>55,0.23
-Ovary,Age 35,Age <br/>60,0.343
-Ovary,Age 35,Age <br/>65,0.476
-Ovary,Age 35,Age <br/>70,0.627
-Ovary,Age 35,Age <br/>75,0.786
-Ovary,Age 35,Age <br/>80,0.942
-Ovary,Age 35,Age <br/>85,1.081
-Ovary,Age 35,Age <br/>90,1.178
-Ovary,Age 35,Age <br/>95,1.222
-Ovary,Age 35,Age <br/>95+,1.241
-Ovary,Age 40,Age <br/>5,
-Ovary,Age 40,Age <br/>10,
-Ovary,Age 40,Age <br/>15,
-Ovary,Age 40,Age <br/>20,
-Ovary,Age 40,Age <br/>25,
-Ovary,Age 40,Age <br/>30,
-Ovary,Age 40,Age <br/>35,
-Ovary,Age 40,Age <br/>40,
-Ovary,Age 40,Age <br/>45,0.044
-Ovary,Age 40,Age <br/>50,0.112
-Ovary,Age 40,Age <br/>55,0.206
-Ovary,Age 40,Age <br/>60,0.32
-Ovary,Age 40,Age <br/>65,0.454
-Ovary,Age 40,Age <br/>70,0.606
-Ovary,Age 40,Age <br/>75,0.765
-Ovary,Age 40,Age <br/>80,0.922
-Ovary,Age 40,Age <br/>85,1.062
-Ovary,Age 40,Age <br/>90,1.159
-Ovary,Age 40,Age <br/>95,1.204
-Ovary,Age 40,Age <br/>95+,1.223
-Ovary,Age 45,Age <br/>5,
-Ovary,Age 45,Age <br/>10,
-Ovary,Age 45,Age <br/>15,
-Ovary,Age 45,Age <br/>20,
-Ovary,Age 45,Age <br/>25,
-Ovary,Age 45,Age <br/>30,
-Ovary,Age 45,Age <br/>35,
-Ovary,Age 45,Age <br/>40,
-Ovary,Age 45,Age <br/>45,
-Ovary,Age 45,Age <br/>50,0.068
-Ovary,Age 45,Age <br/>55,0.164
-Ovary,Age 45,Age <br/>60,0.278
-Ovary,Age 45,Age <br/>65,0.413
-Ovary,Age 45,Age <br/>70,0.566
-Ovary,Age 45,Age <br/>75,0.727
-Ovary,Age 45,Age <br/>80,0.885
-Ovary,Age 45,Age <br/>85,1.025
-Ovary,Age 45,Age <br/>90,1.124
-Ovary,Age 45,Age <br/>95,1.169
-Ovary,Age 45,Age <br/>95+,1.188
-Ovary,Age 50,Age <br/>5,
-Ovary,Age 50,Age <br/>10,
-Ovary,Age 50,Age <br/>15,
-Ovary,Age 50,Age <br/>20,
-Ovary,Age 50,Age <br/>25,
-Ovary,Age 50,Age <br/>30,
-Ovary,Age 50,Age <br/>35,
-Ovary,Age 50,Age <br/>40,
-Ovary,Age 50,Age <br/>45,
-Ovary,Age 50,Age <br/>50,
-Ovary,Age 50,Age <br/>55,0.097
-Ovary,Age 50,Age <br/>60,0.213
-Ovary,Age 50,Age <br/>65,0.349
-Ovary,Age 50,Age <br/>70,0.504
-Ovary,Age 50,Age <br/>75,0.666
-Ovary,Age 50,Age <br/>80,0.827
-Ovary,Age 50,Age <br/>85,0.969
-Ovary,Age 50,Age <br/>90,1.068
-Ovary,Age 50,Age <br/>95,1.114
-Ovary,Age 50,Age <br/>95+,1.133
-Ovary,Age 55,Age <br/>5,
-Ovary,Age 55,Age <br/>10,
-Ovary,Age 55,Age <br/>15,
-Ovary,Age 55,Age <br/>20,
-Ovary,Age 55,Age <br/>25,
-Ovary,Age 55,Age <br/>30,
-Ovary,Age 55,Age <br/>35,
-Ovary,Age 55,Age <br/>40,
-Ovary,Age 55,Age <br/>45,
-Ovary,Age 55,Age <br/>50,
-Ovary,Age 55,Age <br/>55,
-Ovary,Age 55,Age <br/>60,0.118
-Ovary,Age 55,Age <br/>65,0.257
-Ovary,Age 55,Age <br/>70,0.415
-Ovary,Age 55,Age <br/>75,0.58
-Ovary,Age 55,Age <br/>80,0.744
-Ovary,Age 55,Age <br/>85,0.888
-Ovary,Age 55,Age <br/>90,0.99
-Ovary,Age 55,Age <br/>95,1.036
-Ovary,Age 55,Age <br/>95+,1.056
-Ovary,Age 60,Age <br/>5,
-Ovary,Age 60,Age <br/>10,
-Ovary,Age 60,Age <br/>15,
-Ovary,Age 60,Age <br/>20,
-Ovary,Age 60,Age <br/>25,
-Ovary,Age 60,Age <br/>30,
-Ovary,Age 60,Age <br/>35,
-Ovary,Age 60,Age <br/>40,
-Ovary,Age 60,Age <br/>45,
-Ovary,Age 60,Age <br/>50,
-Ovary,Age 60,Age <br/>55,
-Ovary,Age 60,Age <br/>60,
-Ovary,Age 60,Age <br/>65,0.143
-Ovary,Age 60,Age <br/>70,0.305
-Ovary,Age 60,Age <br/>75,0.475
-Ovary,Age 60,Age <br/>80,0.642
-Ovary,Age 60,Age <br/>85,0.791
-Ovary,Age 60,Age <br/>90,0.895
-Ovary,Age 60,Age <br/>95,0.943
-Ovary,Age 60,Age <br/>95+,0.963
-Ovary,Age 65,Age <br/>5,
-Ovary,Age 65,Age <br/>10,
-Ovary,Age 65,Age <br/>15,
-Ovary,Age 65,Age <br/>20,
-Ovary,Age 65,Age <br/>25,
-Ovary,Age 65,Age <br/>30,
-Ovary,Age 65,Age <br/>35,
-Ovary,Age 65,Age <br/>40,
-Ovary,Age 65,Age <br/>45,
-Ovary,Age 65,Age <br/>50,
-Ovary,Age 65,Age <br/>55,
-Ovary,Age 65,Age <br/>60,
-Ovary,Age 65,Age <br/>65,
-Ovary,Age 65,Age <br/>70,0.168
-Ovary,Age 65,Age <br/>75,0.345
-Ovary,Age 65,Age <br/>80,0.519
-Ovary,Age 65,Age <br/>85,0.674
-Ovary,Age 65,Age <br/>90,0.782
-Ovary,Age 65,Age <br/>95,0.831
-Ovary,Age 65,Age <br/>95+,0.853
-Ovary,Age 70,Age <br/>5,
-Ovary,Age 70,Age <br/>10,
-Ovary,Age 70,Age <br/>15,
-Ovary,Age 70,Age <br/>20,
-Ovary,Age 70,Age <br/>25,
-Ovary,Age 70,Age <br/>30,
-Ovary,Age 70,Age <br/>35,
-Ovary,Age 70,Age <br/>40,
-Ovary,Age 70,Age <br/>45,
-Ovary,Age 70,Age <br/>50,
-Ovary,Age 70,Age <br/>55,
-Ovary,Age 70,Age <br/>60,
-Ovary,Age 70,Age <br/>65,
-Ovary,Age 70,Age <br/>70,
-Ovary,Age 70,Age <br/>75,0.187
-Ovary,Age 70,Age <br/>80,0.372
-Ovary,Age 70,Age <br/>85,0.535
-Ovary,Age 70,Age <br/>90,0.65
-Ovary,Age 70,Age <br/>95,0.702
-Ovary,Age 70,Age <br/>95+,0.725
-Ovary,Age 75,Age <br/>5,
-Ovary,Age 75,Age <br/>10,
-Ovary,Age 75,Age <br/>15,
-Ovary,Age 75,Age <br/>20,
-Ovary,Age 75,Age <br/>25,
-Ovary,Age 75,Age <br/>30,
-Ovary,Age 75,Age <br/>35,
-Ovary,Age 75,Age <br/>40,
-Ovary,Age 75,Age <br/>45,
-Ovary,Age 75,Age <br/>50,
-Ovary,Age 75,Age <br/>55,
-Ovary,Age 75,Age <br/>60,
-Ovary,Age 75,Age <br/>65,
-Ovary,Age 75,Age <br/>70,
-Ovary,Age 75,Age <br/>75,
-Ovary,Age 75,Age <br/>80,0.202
-Ovary,Age 75,Age <br/>85,0.381
-Ovary,Age 75,Age <br/>90,0.507
-Ovary,Age 75,Age <br/>95,0.564
-Ovary,Age 75,Age <br/>95+,0.589
-Ovary,Age 80,Age <br/>5,
-Ovary,Age 80,Age <br/>10,
-Ovary,Age 80,Age <br/>15,
-Ovary,Age 80,Age <br/>20,
-Ovary,Age 80,Age <br/>25,
-Ovary,Age 80,Age <br/>30,
-Ovary,Age 80,Age <br/>35,
-Ovary,Age 80,Age <br/>40,
-Ovary,Age 80,Age <br/>45,
-Ovary,Age 80,Age <br/>50,
-Ovary,Age 80,Age <br/>55,
-Ovary,Age 80,Age <br/>60,
-Ovary,Age 80,Age <br/>65,
-Ovary,Age 80,Age <br/>70,
-Ovary,Age 80,Age <br/>75,
-Ovary,Age 80,Age <br/>80,
-Ovary,Age 80,Age <br/>85,0.209
-Ovary,Age 80,Age <br/>90,0.355
-Ovary,Age 80,Age <br/>95,0.421
-Ovary,Age 80,Age <br/>95+,0.45
-Ovary,Age 85,Age <br/>5,
-Ovary,Age 85,Age <br/>10,
-Ovary,Age 85,Age <br/>15,
-Ovary,Age 85,Age <br/>20,
-Ovary,Age 85,Age <br/>25,
-Ovary,Age 85,Age <br/>30,
-Ovary,Age 85,Age <br/>35,
-Ovary,Age 85,Age <br/>40,
-Ovary,Age 85,Age <br/>45,
-Ovary,Age 85,Age <br/>50,
-Ovary,Age 85,Age <br/>55,
-Ovary,Age 85,Age <br/>60,
-Ovary,Age 85,Age <br/>65,
-Ovary,Age 85,Age <br/>70,
-Ovary,Age 85,Age <br/>75,
-Ovary,Age 85,Age <br/>80,
-Ovary,Age 85,Age <br/>85,
-Ovary,Age 85,Age <br/>90,0.189
-Ovary,Age 85,Age <br/>95,0.276
-Ovary,Age 85,Age <br/>95+,0.313
-Ovary,Age 90,Age <br/>5,
-Ovary,Age 90,Age <br/>10,
-Ovary,Age 90,Age <br/>15,
-Ovary,Age 90,Age <br/>20,
-Ovary,Age 90,Age <br/>25,
-Ovary,Age 90,Age <br/>30,
-Ovary,Age 90,Age <br/>35,
-Ovary,Age 90,Age <br/>40,
-Ovary,Age 90,Age <br/>45,
-Ovary,Age 90,Age <br/>50,
-Ovary,Age 90,Age <br/>55,
-Ovary,Age 90,Age <br/>60,
-Ovary,Age 90,Age <br/>65,
-Ovary,Age 90,Age <br/>70,
-Ovary,Age 90,Age <br/>75,
-Ovary,Age 90,Age <br/>80,
-Ovary,Age 90,Age <br/>85,
-Ovary,Age 90,Age <br/>90,
-Ovary,Age 90,Age <br/>95,0.138
-Ovary,Age 90,Age <br/>95+,0.196
-Ovary,Age 95,Age <br/>5,
-Ovary,Age 95,Age <br/>10,
-Ovary,Age 95,Age <br/>15,
-Ovary,Age 95,Age <br/>20,
-Ovary,Age 95,Age <br/>25,
-Ovary,Age 95,Age <br/>30,
-Ovary,Age 95,Age <br/>35,
-Ovary,Age 95,Age <br/>40,
-Ovary,Age 95,Age <br/>45,
-Ovary,Age 95,Age <br/>50,
-Ovary,Age 95,Age <br/>55,
-Ovary,Age 95,Age <br/>60,
-Ovary,Age 95,Age <br/>65,
-Ovary,Age 95,Age <br/>70,
-Ovary,Age 95,Age <br/>75,
-Ovary,Age 95,Age <br/>80,
-Ovary,Age 95,Age <br/>85,
-Ovary,Age 95,Age <br/>90,
-Ovary,Age 95,Age <br/>95,
-Ovary,Age 95,Age <br/>95+,0.128
-Brain and Other Nervous System,Age 0,Age <br/>5,0.02
-Brain and Other Nervous System,Age 0,Age <br/>10,0.037
-Brain and Other Nervous System,Age 0,Age <br/>15,0.049
-Brain and Other Nervous System,Age 0,Age <br/>20,0.06
-Brain and Other Nervous System,Age 0,Age <br/>25,0.07
-Brain and Other Nervous System,Age 0,Age <br/>30,0.082
-Brain and Other Nervous System,Age 0,Age <br/>35,0.095
-Brain and Other Nervous System,Age 0,Age <br/>40,0.11
-Brain and Other Nervous System,Age 0,Age <br/>45,0.127
-Brain and Other Nervous System,Age 0,Age <br/>50,0.149
-Brain and Other Nervous System,Age 0,Age <br/>55,0.179
-Brain and Other Nervous System,Age 0,Age <br/>60,0.217
-Brain and Other Nervous System,Age 0,Age <br/>65,0.26
-Brain and Other Nervous System,Age 0,Age <br/>70,0.315
-Brain and Other Nervous System,Age 0,Age <br/>75,0.377
-Brain and Other Nervous System,Age 0,Age <br/>80,0.436
-Brain and Other Nervous System,Age 0,Age <br/>85,0.489
-Brain and Other Nervous System,Age 0,Age <br/>90,0.524
-Brain and Other Nervous System,Age 0,Age <br/>95,0.541
-Brain and Other Nervous System,Age 0,Age <br/>95+,0.548
-Brain and Other Nervous System,Age 5,Age <br/>5,
-Brain and Other Nervous System,Age 5,Age <br/>10,0.018
-Brain and Other Nervous System,Age 5,Age <br/>15,0.03
-Brain and Other Nervous System,Age 5,Age <br/>20,0.041
-Brain and Other Nervous System,Age 5,Age <br/>25,0.051
-Brain and Other Nervous System,Age 5,Age <br/>30,0.063
-Brain and Other Nervous System,Age 5,Age <br/>35,0.076
-Brain and Other Nervous System,Age 5,Age <br/>40,0.091
-Brain and Other Nervous System,Age 5,Age <br/>45,0.108
-Brain and Other Nervous System,Age 5,Age <br/>50,0.131
-Brain and Other Nervous System,Age 5,Age <br/>55,0.161
-Brain and Other Nervous System,Age 5,Age <br/>60,0.199
-Brain and Other Nervous System,Age 5,Age <br/>65,0.243
-Brain and Other Nervous System,Age 5,Age <br/>70,0.299
-Brain and Other Nervous System,Age 5,Age <br/>75,0.361
-Brain and Other Nervous System,Age 5,Age <br/>80,0.42
-Brain and Other Nervous System,Age 5,Age <br/>85,0.474
-Brain and Other Nervous System,Age 5,Age <br/>90,0.51
-Brain and Other Nervous System,Age 5,Age <br/>95,0.526
-Brain and Other Nervous System,Age 5,Age <br/>95+,0.534
-Brain and Other Nervous System,Age 10,Age <br/>5,
-Brain and Other Nervous System,Age 10,Age <br/>10,
-Brain and Other Nervous System,Age 10,Age <br/>15,0.013
-Brain and Other Nervous System,Age 10,Age <br/>20,0.023
-Brain and Other Nervous System,Age 10,Age <br/>25,0.033
-Brain and Other Nervous System,Age 10,Age <br/>30,0.045
-Brain and Other Nervous System,Age 10,Age <br/>35,0.059
-Brain and Other Nervous System,Age 10,Age <br/>40,0.074
-Brain and Other Nervous System,Age 10,Age <br/>45,0.091
-Brain and Other Nervous System,Age 10,Age <br/>50,0.113
-Brain and Other Nervous System,Age 10,Age <br/>55,0.143
-Brain and Other Nervous System,Age 10,Age <br/>60,0.182
-Brain and Other Nervous System,Age 10,Age <br/>65,0.226
-Brain and Other Nervous System,Age 10,Age <br/>70,0.281
-Brain and Other Nervous System,Age 10,Age <br/>75,0.343
-Brain and Other Nervous System,Age 10,Age <br/>80,0.403
-Brain and Other Nervous System,Age 10,Age <br/>85,0.457
-Brain and Other Nervous System,Age 10,Age <br/>90,0.493
-Brain and Other Nervous System,Age 10,Age <br/>95,0.509
-Brain and Other Nervous System,Age 10,Age <br/>95+,0.517
-Brain and Other Nervous System,Age 15,Age <br/>5,
-Brain and Other Nervous System,Age 15,Age <br/>10,
-Brain and Other Nervous System,Age 15,Age <br/>15,
-Brain and Other Nervous System,Age 15,Age <br/>20,0.011
-Brain and Other Nervous System,Age 15,Age <br/>25,0.021
-Brain and Other Nervous System,Age 15,Age <br/>30,0.033
-Brain and Other Nervous System,Age 15,Age <br/>35,0.046
-Brain and Other Nervous System,Age 15,Age <br/>40,0.061
-Brain and Other Nervous System,Age 15,Age <br/>45,0.078
-Brain and Other Nervous System,Age 15,Age <br/>50,0.101
-Brain and Other Nervous System,Age 15,Age <br/>55,0.131
-Brain and Other Nervous System,Age 15,Age <br/>60,0.169
-Brain and Other Nervous System,Age 15,Age <br/>65,0.213
-Brain and Other Nervous System,Age 15,Age <br/>70,0.269
-Brain and Other Nervous System,Age 15,Age <br/>75,0.331
-Brain and Other Nervous System,Age 15,Age <br/>80,0.391
-Brain and Other Nervous System,Age 15,Age <br/>85,0.445
-Brain and Other Nervous System,Age 15,Age <br/>90,0.48
-Brain and Other Nervous System,Age 15,Age <br/>95,0.497
-Brain and Other Nervous System,Age 15,Age <br/>95+,0.505
-Brain and Other Nervous System,Age 20,Age <br/>5,
-Brain and Other Nervous System,Age 20,Age <br/>10,
-Brain and Other Nervous System,Age 20,Age <br/>15,
-Brain and Other Nervous System,Age 20,Age <br/>20,
-Brain and Other Nervous System,Age 20,Age <br/>25,0.01
-Brain and Other Nervous System,Age 20,Age <br/>30,0.022
-Brain and Other Nervous System,Age 20,Age <br/>35,0.035
-Brain and Other Nervous System,Age 20,Age <br/>40,0.05
-Brain and Other Nervous System,Age 20,Age <br/>45,0.067
-Brain and Other Nervous System,Age 20,Age <br/>50,0.09
-Brain and Other Nervous System,Age 20,Age <br/>55,0.12
-Brain and Other Nervous System,Age 20,Age <br/>60,0.158
-Brain and Other Nervous System,Age 20,Age <br/>65,0.203
-Brain and Other Nervous System,Age 20,Age <br/>70,0.258
-Brain and Other Nervous System,Age 20,Age <br/>75,0.32
-Brain and Other Nervous System,Age 20,Age <br/>80,0.38
-Brain and Other Nervous System,Age 20,Age <br/>85,0.434
-Brain and Other Nervous System,Age 20,Age <br/>90,0.47
-Brain and Other Nervous System,Age 20,Age <br/>95,0.486
-Brain and Other Nervous System,Age 20,Age <br/>95+,0.494
-Brain and Other Nervous System,Age 25,Age <br/>5,
-Brain and Other Nervous System,Age 25,Age <br/>10,
-Brain and Other Nervous System,Age 25,Age <br/>15,
-Brain and Other Nervous System,Age 25,Age <br/>20,
-Brain and Other Nervous System,Age 25,Age <br/>25,
-Brain and Other Nervous System,Age 25,Age <br/>30,0.012
-Brain and Other Nervous System,Age 25,Age <br/>35,0.025
-Brain and Other Nervous System,Age 25,Age <br/>40,0.04
-Brain and Other Nervous System,Age 25,Age <br/>45,0.057
-Brain and Other Nervous System,Age 25,Age <br/>50,0.08
-Brain and Other Nervous System,Age 25,Age <br/>55,0.111
-Brain and Other Nervous System,Age 25,Age <br/>60,0.149
-Brain and Other Nervous System,Age 25,Age <br/>65,0.193
-Brain and Other Nervous System,Age 25,Age <br/>70,0.249
-Brain and Other Nervous System,Age 25,Age <br/>75,0.311
-Brain and Other Nervous System,Age 25,Age <br/>80,0.371
-Brain and Other Nervous System,Age 25,Age <br/>85,0.425
-Brain and Other Nervous System,Age 25,Age <br/>90,0.461
-Brain and Other Nervous System,Age 25,Age <br/>95,0.478
-Brain and Other Nervous System,Age 25,Age <br/>95+,0.485
-Brain and Other Nervous System,Age 30,Age <br/>5,
-Brain and Other Nervous System,Age 30,Age <br/>10,
-Brain and Other Nervous System,Age 30,Age <br/>15,
-Brain and Other Nervous System,Age 30,Age <br/>20,
-Brain and Other Nervous System,Age 30,Age <br/>25,
-Brain and Other Nervous System,Age 30,Age <br/>30,
-Brain and Other Nervous System,Age 30,Age <br/>35,0.014
-Brain and Other Nervous System,Age 30,Age <br/>40,0.029
-Brain and Other Nervous System,Age 30,Age <br/>45,0.046
-Brain and Other Nervous System,Age 30,Age <br/>50,0.068
-Brain and Other Nervous System,Age 30,Age <br/>55,0.099
-Brain and Other Nervous System,Age 30,Age <br/>60,0.137
-Brain and Other Nervous System,Age 30,Age <br/>65,0.182
-Brain and Other Nervous System,Age 30,Age <br/>70,0.238
-Brain and Other Nervous System,Age 30,Age <br/>75,0.3
-Brain and Other Nervous System,Age 30,Age <br/>80,0.36
-Brain and Other Nervous System,Age 30,Age <br/>85,0.415
-Brain and Other Nervous System,Age 30,Age <br/>90,0.45
-Brain and Other Nervous System,Age 30,Age <br/>95,0.467
-Brain and Other Nervous System,Age 30,Age <br/>95+,0.475
-Brain and Other Nervous System,Age 35,Age <br/>5,
-Brain and Other Nervous System,Age 35,Age <br/>10,
-Brain and Other Nervous System,Age 35,Age <br/>15,
-Brain and Other Nervous System,Age 35,Age <br/>20,
-Brain and Other Nervous System,Age 35,Age <br/>25,
-Brain and Other Nervous System,Age 35,Age <br/>30,
-Brain and Other Nervous System,Age 35,Age <br/>35,
-Brain and Other Nervous System,Age 35,Age <br/>40,0.015
-Brain and Other Nervous System,Age 35,Age <br/>45,0.032
-Brain and Other Nervous System,Age 35,Age <br/>50,0.055
-Brain and Other Nervous System,Age 35,Age <br/>55,0.086
-Brain and Other Nervous System,Age 35,Age <br/>60,0.124
-Brain and Other Nervous System,Age 35,Age <br/>65,0.169
-Brain and Other Nervous System,Age 35,Age <br/>70,0.225
-Brain and Other Nervous System,Age 35,Age <br/>75,0.288
-Brain and Other Nervous System,Age 35,Age <br/>80,0.348
-Brain and Other Nervous System,Age 35,Age <br/>85,0.403
-Brain and Other Nervous System,Age 35,Age <br/>90,0.439
-Brain and Other Nervous System,Age 35,Age <br/>95,0.455
-Brain and Other Nervous System,Age 35,Age <br/>95+,0.463
-Brain and Other Nervous System,Age 40,Age <br/>5,
-Brain and Other Nervous System,Age 40,Age <br/>10,
-Brain and Other Nervous System,Age 40,Age <br/>15,
-Brain and Other Nervous System,Age 40,Age <br/>20,
-Brain and Other Nervous System,Age 40,Age <br/>25,
-Brain and Other Nervous System,Age 40,Age <br/>30,
-Brain and Other Nervous System,Age 40,Age <br/>35,
-Brain and Other Nervous System,Age 40,Age <br/>40,
-Brain and Other Nervous System,Age 40,Age <br/>45,0.017
-Brain and Other Nervous System,Age 40,Age <br/>50,0.04
-Brain and Other Nervous System,Age 40,Age <br/>55,0.071
-Brain and Other Nervous System,Age 40,Age <br/>60,0.11
-Brain and Other Nervous System,Age 40,Age <br/>65,0.155
-Brain and Other Nervous System,Age 40,Age <br/>70,0.211
-Brain and Other Nervous System,Age 40,Age <br/>75,0.274
-Brain and Other Nervous System,Age 40,Age <br/>80,0.335
-Brain and Other Nervous System,Age 40,Age <br/>85,0.389
-Brain and Other Nervous System,Age 40,Age <br/>90,0.426
-Brain and Other Nervous System,Age 40,Age <br/>95,0.442
-Brain and Other Nervous System,Age 40,Age <br/>95+,0.45
-Brain and Other Nervous System,Age 45,Age <br/>5,
-Brain and Other Nervous System,Age 45,Age <br/>10,
-Brain and Other Nervous System,Age 45,Age <br/>15,
-Brain and Other Nervous System,Age 45,Age <br/>20,
-Brain and Other Nervous System,Age 45,Age <br/>25,
-Brain and Other Nervous System,Age 45,Age <br/>30,
-Brain and Other Nervous System,Age 45,Age <br/>35,
-Brain and Other Nervous System,Age 45,Age <br/>40,
-Brain and Other Nervous System,Age 45,Age <br/>45,
-Brain and Other Nervous System,Age 45,Age <br/>50,0.023
-Brain and Other Nervous System,Age 45,Age <br/>55,0.054
-Brain and Other Nervous System,Age 45,Age <br/>60,0.093
-Brain and Other Nervous System,Age 45,Age <br/>65,0.138
-Brain and Other Nervous System,Age 45,Age <br/>70,0.195
-Brain and Other Nervous System,Age 45,Age <br/>75,0.259
-Brain and Other Nervous System,Age 45,Age <br/>80,0.32
-Brain and Other Nervous System,Age 45,Age <br/>85,0.375
-Brain and Other Nervous System,Age 45,Age <br/>90,0.411
-Brain and Other Nervous System,Age 45,Age <br/>95,0.428
-Brain and Other Nervous System,Age 45,Age <br/>95+,0.436
-Brain and Other Nervous System,Age 50,Age <br/>5,
-Brain and Other Nervous System,Age 50,Age <br/>10,
-Brain and Other Nervous System,Age 50,Age <br/>15,
-Brain and Other Nervous System,Age 50,Age <br/>20,
-Brain and Other Nervous System,Age 50,Age <br/>25,
-Brain and Other Nervous System,Age 50,Age <br/>30,
-Brain and Other Nervous System,Age 50,Age <br/>35,
-Brain and Other Nervous System,Age 50,Age <br/>40,
-Brain and Other Nervous System,Age 50,Age <br/>45,
-Brain and Other Nervous System,Age 50,Age <br/>50,
-Brain and Other Nervous System,Age 50,Age <br/>55,0.032
-Brain and Other Nervous System,Age 50,Age <br/>60,0.071
-Brain and Other Nervous System,Age 50,Age <br/>65,0.117
-Brain and Other Nervous System,Age 50,Age <br/>70,0.174
-Brain and Other Nervous System,Age 50,Age <br/>75,0.238
-Brain and Other Nervous System,Age 50,Age <br/>80,0.3
-Brain and Other Nervous System,Age 50,Age <br/>85,0.356
-Brain and Other Nervous System,Age 50,Age <br/>90,0.393
-Brain and Other Nervous System,Age 50,Age <br/>95,0.41
-Brain and Other Nervous System,Age 50,Age <br/>95+,0.418
-Brain and Other Nervous System,Age 55,Age <br/>5,
-Brain and Other Nervous System,Age 55,Age <br/>10,
-Brain and Other Nervous System,Age 55,Age <br/>15,
-Brain and Other Nervous System,Age 55,Age <br/>20,
-Brain and Other Nervous System,Age 55,Age <br/>25,
-Brain and Other Nervous System,Age 55,Age <br/>30,
-Brain and Other Nervous System,Age 55,Age <br/>35,
-Brain and Other Nervous System,Age 55,Age <br/>40,
-Brain and Other Nervous System,Age 55,Age <br/>45,
-Brain and Other Nervous System,Age 55,Age <br/>50,
-Brain and Other Nervous System,Age 55,Age <br/>55,
-Brain and Other Nervous System,Age 55,Age <br/>60,0.04
-Brain and Other Nervous System,Age 55,Age <br/>65,0.087
-Brain and Other Nervous System,Age 55,Age <br/>70,0.145
-Brain and Other Nervous System,Age 55,Age <br/>75,0.211
-Brain and Other Nervous System,Age 55,Age <br/>80,0.274
-Brain and Other Nervous System,Age 55,Age <br/>85,0.33
-Brain and Other Nervous System,Age 55,Age <br/>90,0.368
-Brain and Other Nervous System,Age 55,Age <br/>95,0.385
-Brain and Other Nervous System,Age 55,Age <br/>95+,0.393
-Brain and Other Nervous System,Age 60,Age <br/>5,
-Brain and Other Nervous System,Age 60,Age <br/>10,
-Brain and Other Nervous System,Age 60,Age <br/>15,
-Brain and Other Nervous System,Age 60,Age <br/>20,
-Brain and Other Nervous System,Age 60,Age <br/>25,
-Brain and Other Nervous System,Age 60,Age <br/>30,
-Brain and Other Nervous System,Age 60,Age <br/>35,
-Brain and Other Nervous System,Age 60,Age <br/>40,
-Brain and Other Nervous System,Age 60,Age <br/>45,
-Brain and Other Nervous System,Age 60,Age <br/>50,
-Brain and Other Nervous System,Age 60,Age <br/>55,
-Brain and Other Nervous System,Age 60,Age <br/>60,
-Brain and Other Nervous System,Age 60,Age <br/>65,0.048
-Brain and Other Nervous System,Age 60,Age <br/>70,0.108
-Brain and Other Nervous System,Age 60,Age <br/>75,0.175
-Brain and Other Nervous System,Age 60,Age <br/>80,0.24
-Brain and Other Nervous System,Age 60,Age <br/>85,0.298
-Brain and Other Nervous System,Age 60,Age <br/>90,0.337
-Brain and Other Nervous System,Age 60,Age <br/>95,0.354
-Brain and Other Nervous System,Age 60,Age <br/>95+,0.363
-Brain and Other Nervous System,Age 65,Age <br/>5,
-Brain and Other Nervous System,Age 65,Age <br/>10,
-Brain and Other Nervous System,Age 65,Age <br/>15,
-Brain and Other Nervous System,Age 65,Age <br/>20,
-Brain and Other Nervous System,Age 65,Age <br/>25,
-Brain and Other Nervous System,Age 65,Age <br/>30,
-Brain and Other Nervous System,Age 65,Age <br/>35,
-Brain and Other Nervous System,Age 65,Age <br/>40,
-Brain and Other Nervous System,Age 65,Age <br/>45,
-Brain and Other Nervous System,Age 65,Age <br/>50,
-Brain and Other Nervous System,Age 65,Age <br/>55,
-Brain and Other Nervous System,Age 65,Age <br/>60,
-Brain and Other Nervous System,Age 65,Age <br/>65,
-Brain and Other Nervous System,Age 65,Age <br/>70,0.062
-Brain and Other Nervous System,Age 65,Age <br/>75,0.132
-Brain and Other Nervous System,Age 65,Age <br/>80,0.199
-Brain and Other Nervous System,Age 65,Age <br/>85,0.26
-Brain and Other Nervous System,Age 65,Age <br/>90,0.3
-Brain and Other Nervous System,Age 65,Age <br/>95,0.318
-Brain and Other Nervous System,Age 65,Age <br/>95+,0.327
-Brain and Other Nervous System,Age 70,Age <br/>5,
-Brain and Other Nervous System,Age 70,Age <br/>10,
-Brain and Other Nervous System,Age 70,Age <br/>15,
-Brain and Other Nervous System,Age 70,Age <br/>20,
-Brain and Other Nervous System,Age 70,Age <br/>25,
-Brain and Other Nervous System,Age 70,Age <br/>30,
-Brain and Other Nervous System,Age 70,Age <br/>35,
-Brain and Other Nervous System,Age 70,Age <br/>40,
-Brain and Other Nervous System,Age 70,Age <br/>45,
-Brain and Other Nervous System,Age 70,Age <br/>50,
-Brain and Other Nervous System,Age 70,Age <br/>55,
-Brain and Other Nervous System,Age 70,Age <br/>60,
-Brain and Other Nervous System,Age 70,Age <br/>65,
-Brain and Other Nervous System,Age 70,Age <br/>70,
-Brain and Other Nervous System,Age 70,Age <br/>75,0.074
-Brain and Other Nervous System,Age 70,Age <br/>80,0.145
-Brain and Other Nervous System,Age 70,Age <br/>85,0.209
-Brain and Other Nervous System,Age 70,Age <br/>90,0.251
-Brain and Other Nervous System,Age 70,Age <br/>95,0.271
-Brain and Other Nervous System,Age 70,Age <br/>95+,0.28
-Brain and Other Nervous System,Age 75,Age <br/>5,
-Brain and Other Nervous System,Age 75,Age <br/>10,
-Brain and Other Nervous System,Age 75,Age <br/>15,
-Brain and Other Nervous System,Age 75,Age <br/>20,
-Brain and Other Nervous System,Age 75,Age <br/>25,
-Brain and Other Nervous System,Age 75,Age <br/>30,
-Brain and Other Nervous System,Age 75,Age <br/>35,
-Brain and Other Nervous System,Age 75,Age <br/>40,
-Brain and Other Nervous System,Age 75,Age <br/>45,
-Brain and Other Nervous System,Age 75,Age <br/>50,
-Brain and Other Nervous System,Age 75,Age <br/>55,
-Brain and Other Nervous System,Age 75,Age <br/>60,
-Brain and Other Nervous System,Age 75,Age <br/>65,
-Brain and Other Nervous System,Age 75,Age <br/>70,
-Brain and Other Nervous System,Age 75,Age <br/>75,
-Brain and Other Nervous System,Age 75,Age <br/>80,0.078
-Brain and Other Nervous System,Age 75,Age <br/>85,0.148
-Brain and Other Nervous System,Age 75,Age <br/>90,0.195
-Brain and Other Nervous System,Age 75,Age <br/>95,0.216
-Brain and Other Nervous System,Age 75,Age <br/>95+,0.226
-Brain and Other Nervous System,Age 80,Age <br/>5,
-Brain and Other Nervous System,Age 80,Age <br/>10,
-Brain and Other Nervous System,Age 80,Age <br/>15,
-Brain and Other Nervous System,Age 80,Age <br/>20,
-Brain and Other Nervous System,Age 80,Age <br/>25,
-Brain and Other Nervous System,Age 80,Age <br/>30,
-Brain and Other Nervous System,Age 80,Age <br/>35,
-Brain and Other Nervous System,Age 80,Age <br/>40,
-Brain and Other Nervous System,Age 80,Age <br/>45,
-Brain and Other Nervous System,Age 80,Age <br/>50,
-Brain and Other Nervous System,Age 80,Age <br/>55,
-Brain and Other Nervous System,Age 80,Age <br/>60,
-Brain and Other Nervous System,Age 80,Age <br/>65,
-Brain and Other Nervous System,Age 80,Age <br/>70,
-Brain and Other Nervous System,Age 80,Age <br/>75,
-Brain and Other Nervous System,Age 80,Age <br/>80,
-Brain and Other Nervous System,Age 80,Age <br/>85,0.081
-Brain and Other Nervous System,Age 80,Age <br/>90,0.136
-Brain and Other Nervous System,Age 80,Age <br/>95,0.16
-Brain and Other Nervous System,Age 80,Age <br/>95+,0.172
-Brain and Other Nervous System,Age 85,Age <br/>5,
-Brain and Other Nervous System,Age 85,Age <br/>10,
-Brain and Other Nervous System,Age 85,Age <br/>15,
-Brain and Other Nervous System,Age 85,Age <br/>20,
-Brain and Other Nervous System,Age 85,Age <br/>25,
-Brain and Other Nervous System,Age 85,Age <br/>30,
-Brain and Other Nervous System,Age 85,Age <br/>35,
-Brain and Other Nervous System,Age 85,Age <br/>40,
-Brain and Other Nervous System,Age 85,Age <br/>45,
-Brain and Other Nervous System,Age 85,Age <br/>50,
-Brain and Other Nervous System,Age 85,Age <br/>55,
-Brain and Other Nervous System,Age 85,Age <br/>60,
-Brain and Other Nervous System,Age 85,Age <br/>65,
-Brain and Other Nervous System,Age 85,Age <br/>70,
-Brain and Other Nervous System,Age 85,Age <br/>75,
-Brain and Other Nervous System,Age 85,Age <br/>80,
-Brain and Other Nervous System,Age 85,Age <br/>85,
-Brain and Other Nervous System,Age 85,Age <br/>90,0.07
-Brain and Other Nervous System,Age 85,Age <br/>95,0.103
-Brain and Other Nervous System,Age 85,Age <br/>95+,0.118
-Brain and Other Nervous System,Age 90,Age <br/>5,
-Brain and Other Nervous System,Age 90,Age <br/>10,
-Brain and Other Nervous System,Age 90,Age <br/>15,
-Brain and Other Nervous System,Age 90,Age <br/>20,
-Brain and Other Nervous System,Age 90,Age <br/>25,
-Brain and Other Nervous System,Age 90,Age <br/>30,
-Brain and Other Nervous System,Age 90,Age <br/>35,
-Brain and Other Nervous System,Age 90,Age <br/>40,
-Brain and Other Nervous System,Age 90,Age <br/>45,
-Brain and Other Nervous System,Age 90,Age <br/>50,
-Brain and Other Nervous System,Age 90,Age <br/>55,
-Brain and Other Nervous System,Age 90,Age <br/>60,
-Brain and Other Nervous System,Age 90,Age <br/>65,
-Brain and Other Nervous System,Age 90,Age <br/>70,
-Brain and Other Nervous System,Age 90,Age <br/>75,
-Brain and Other Nervous System,Age 90,Age <br/>80,
-Brain and Other Nervous System,Age 90,Age <br/>85,
-Brain and Other Nervous System,Age 90,Age <br/>90,
-Brain and Other Nervous System,Age 90,Age <br/>95,0.051
-Brain and Other Nervous System,Age 90,Age <br/>95+,0.075
-Brain and Other Nervous System,Age 95,Age <br/>5,
-Brain and Other Nervous System,Age 95,Age <br/>10,
-Brain and Other Nervous System,Age 95,Age <br/>15,
-Brain and Other Nervous System,Age 95,Age <br/>20,
-Brain and Other Nervous System,Age 95,Age <br/>25,
-Brain and Other Nervous System,Age 95,Age <br/>30,
-Brain and Other Nervous System,Age 95,Age <br/>35,
-Brain and Other Nervous System,Age 95,Age <br/>40,
-Brain and Other Nervous System,Age 95,Age <br/>45,
-Brain and Other Nervous System,Age 95,Age <br/>50,
-Brain and Other Nervous System,Age 95,Age <br/>55,
-Brain and Other Nervous System,Age 95,Age <br/>60,
-Brain and Other Nervous System,Age 95,Age <br/>65,
-Brain and Other Nervous System,Age 95,Age <br/>70,
-Brain and Other Nervous System,Age 95,Age <br/>75,
-Brain and Other Nervous System,Age 95,Age <br/>80,
-Brain and Other Nervous System,Age 95,Age <br/>85,
-Brain and Other Nervous System,Age 95,Age <br/>90,
-Brain and Other Nervous System,Age 95,Age <br/>95,
-Brain and Other Nervous System,Age 95,Age <br/>95+,0.053
-Female Breast,Age 0,Age <br/>5,0
-Female Breast,Age 0,Age <br/>10,0
-Female Breast,Age 0,Age <br/>15,0
-Female Breast,Age 0,Age <br/>20,0.002
-Female Breast,Age 0,Age <br/>25,0.014
-Female Breast,Age 0,Age <br/>30,0.066
-Female Breast,Age 0,Age <br/>35,0.208
-Female Breast,Age 0,Age <br/>40,0.518
-Female Breast,Age 0,Age <br/>45,1.105
-Female Breast,Age 0,Age <br/>50,1.964
-Female Breast,Age 0,Age <br/>55,2.989
-Female Breast,Age 0,Age <br/>60,4.152
-Female Breast,Age 0,Age <br/>65,5.566
-Female Breast,Age 0,Age <br/>70,7.213
-Female Breast,Age 0,Age <br/>75,8.863
-Female Breast,Age 0,Age <br/>80,10.283
-Female Breast,Age 0,Age <br/>85,11.342
-Female Breast,Age 0,Age <br/>90,12.008
-Female Breast,Age 0,Age <br/>95,12.309
-Female Breast,Age 0,Age <br/>95+,12.439
-Female Breast,Age 5,Age <br/>5,
-Female Breast,Age 5,Age <br/>10,0
-Female Breast,Age 5,Age <br/>15,0
-Female Breast,Age 5,Age <br/>20,0.002
-Female Breast,Age 5,Age <br/>25,0.014
-Female Breast,Age 5,Age <br/>30,0.066
-Female Breast,Age 5,Age <br/>35,0.209
-Female Breast,Age 5,Age <br/>40,0.523
-Female Breast,Age 5,Age <br/>45,1.116
-Female Breast,Age 5,Age <br/>50,1.982
-Female Breast,Age 5,Age <br/>55,3.017
-Female Breast,Age 5,Age <br/>60,4.191
-Female Breast,Age 5,Age <br/>65,5.618
-Female Breast,Age 5,Age <br/>70,7.279
-Female Breast,Age 5,Age <br/>75,8.946
-Female Breast,Age 5,Age <br/>80,10.378
-Female Breast,Age 5,Age <br/>85,11.447
-Female Breast,Age 5,Age <br/>90,12.119
-Female Breast,Age 5,Age <br/>95,12.423
-Female Breast,Age 5,Age <br/>95+,12.555
-Female Breast,Age 10,Age <br/>5,
-Female Breast,Age 10,Age <br/>10,
-Female Breast,Age 10,Age <br/>15,0
-Female Breast,Age 10,Age <br/>20,0.002
-Female Breast,Age 10,Age <br/>25,0.014
-Female Breast,Age 10,Age <br/>30,0.066
-Female Breast,Age 10,Age <br/>35,0.21
-Female Breast,Age 10,Age <br/>40,0.523
-Female Breast,Age 10,Age <br/>45,1.116
-Female Breast,Age 10,Age <br/>50,1.983
-Female Breast,Age 10,Age <br/>55,3.019
-Female Breast,Age 10,Age <br/>60,4.193
-Female Breast,Age 10,Age <br/>65,5.621
-Female Breast,Age 10,Age <br/>70,7.283
-Female Breast,Age 10,Age <br/>75,8.95
-Female Breast,Age 10,Age <br/>80,10.384
-Female Breast,Age 10,Age <br/>85,11.454
-Female Breast,Age 10,Age <br/>90,12.126
-Female Breast,Age 10,Age <br/>95,12.43
-Female Breast,Age 10,Age <br/>95+,12.562
-Female Breast,Age 15,Age <br/>5,
-Female Breast,Age 15,Age <br/>10,
-Female Breast,Age 15,Age <br/>15,
-Female Breast,Age 15,Age <br/>20,0.001
-Female Breast,Age 15,Age <br/>25,0.014
-Female Breast,Age 15,Age <br/>30,0.066
-Female Breast,Age 15,Age <br/>35,0.21
-Female Breast,Age 15,Age <br/>40,0.524
-Female Breast,Age 15,Age <br/>45,1.117
-Female Breast,Age 15,Age <br/>50,1.984
-Female Breast,Age 15,Age <br/>55,3.02
-Female Breast,Age 15,Age <br/>60,4.196
-Female Breast,Age 15,Age <br/>65,5.624
-Female Breast,Age 15,Age <br/>70,7.288
-Female Breast,Age 15,Age <br/>75,8.956
-Female Breast,Age 15,Age <br/>80,10.39
-Female Breast,Age 15,Age <br/>85,11.461
-Female Breast,Age 15,Age <br/>90,12.134
-Female Breast,Age 15,Age <br/>95,12.438
-Female Breast,Age 15,Age <br/>95+,12.57
-Female Breast,Age 20,Age <br/>5,
-Female Breast,Age 20,Age <br/>10,
-Female Breast,Age 20,Age <br/>15,
-Female Breast,Age 20,Age <br/>20,
-Female Breast,Age 20,Age <br/>25,0.012
-Female Breast,Age 20,Age <br/>30,0.065
-Female Breast,Age 20,Age <br/>35,0.208
-Female Breast,Age 20,Age <br/>40,0.523
-Female Breast,Age 20,Age <br/>45,1.117
-Female Breast,Age 20,Age <br/>50,1.985
-Female Breast,Age 20,Age <br/>55,3.023
-Female Breast,Age 20,Age <br/>60,4.2
-Female Breast,Age 20,Age <br/>65,5.63
-Female Breast,Age 20,Age <br/>70,7.296
-Female Breast,Age 20,Age <br/>75,8.966
-Female Breast,Age 20,Age <br/>80,10.402
-Female Breast,Age 20,Age <br/>85,11.474
-Female Breast,Age 20,Age <br/>90,12.148
-Female Breast,Age 20,Age <br/>95,12.453
-Female Breast,Age 20,Age <br/>95+,12.584
-Female Breast,Age 25,Age <br/>5,
-Female Breast,Age 25,Age <br/>10,
-Female Breast,Age 25,Age <br/>15,
-Female Breast,Age 25,Age <br/>20,
-Female Breast,Age 25,Age <br/>25,
-Female Breast,Age 25,Age <br/>30,0.053
-Female Breast,Age 25,Age <br/>35,0.197
-Female Breast,Age 25,Age <br/>40,0.512
-Female Breast,Age 25,Age <br/>45,1.107
-Female Breast,Age 25,Age <br/>50,1.977
-Female Breast,Age 25,Age <br/>55,3.017
-Female Breast,Age 25,Age <br/>60,4.197
-Female Breast,Age 25,Age <br/>65,5.63
-Female Breast,Age 25,Age <br/>70,7.299
-Female Breast,Age 25,Age <br/>75,8.973
-Female Breast,Age 25,Age <br/>80,10.412
-Female Breast,Age 25,Age <br/>85,11.487
-Female Breast,Age 25,Age <br/>90,12.162
-Female Breast,Age 25,Age <br/>95,12.467
-Female Breast,Age 25,Age <br/>95+,12.599
-Female Breast,Age 30,Age <br/>5,
-Female Breast,Age 30,Age <br/>10,
-Female Breast,Age 30,Age <br/>15,
-Female Breast,Age 30,Age <br/>20,
-Female Breast,Age 30,Age <br/>25,
-Female Breast,Age 30,Age <br/>30,
-Female Breast,Age 30,Age <br/>35,0.144
-Female Breast,Age 30,Age <br/>40,0.46
-Female Breast,Age 30,Age <br/>45,1.057
-Female Breast,Age 30,Age <br/>50,1.931
-Female Breast,Age 30,Age <br/>55,2.974
-Female Breast,Age 30,Age <br/>60,4.157
-Female Breast,Age 30,Age <br/>65,5.595
-Female Breast,Age 30,Age <br/>70,7.27
-Female Breast,Age 30,Age <br/>75,8.949
-Female Breast,Age 30,Age <br/>80,10.393
-Female Breast,Age 30,Age <br/>85,11.47
-Female Breast,Age 30,Age <br/>90,12.148
-Female Breast,Age 30,Age <br/>95,12.454
-Female Breast,Age 30,Age <br/>95+,12.586
-Female Breast,Age 35,Age <br/>5,
-Female Breast,Age 35,Age <br/>10,
-Female Breast,Age 35,Age <br/>15,
-Female Breast,Age 35,Age <br/>20,
-Female Breast,Age 35,Age <br/>25,
-Female Breast,Age 35,Age <br/>30,
-Female Breast,Age 35,Age <br/>35,
-Female Breast,Age 35,Age <br/>40,0.318
-Female Breast,Age 35,Age <br/>45,0.918
-Female Breast,Age 35,Age <br/>50,1.795
-Female Breast,Age 35,Age <br/>55,2.843
-Female Breast,Age 35,Age <br/>60,4.032
-Female Breast,Age 35,Age <br/>65,5.478
-Female Breast,Age 35,Age <br/>70,7.16
-Female Breast,Age 35,Age <br/>75,8.848
-Female Breast,Age 35,Age <br/>80,10.299
-Female Breast,Age 35,Age <br/>85,11.382
-Female Breast,Age 35,Age <br/>90,12.062
-Female Breast,Age 35,Age <br/>95,12.37
-Female Breast,Age 35,Age <br/>95+,12.503
-Female Breast,Age 40,Age <br/>5,
-Female Breast,Age 40,Age <br/>10,
-Female Breast,Age 40,Age <br/>15,
-Female Breast,Age 40,Age <br/>20,
-Female Breast,Age 40,Age <br/>25,
-Female Breast,Age 40,Age <br/>30,
-Female Breast,Age 40,Age <br/>35,
-Female Breast,Age 40,Age <br/>40,
-Female Breast,Age 40,Age <br/>45,0.605
-Female Breast,Age 40,Age <br/>50,1.489
-Female Breast,Age 40,Age <br/>55,2.546
-Female Breast,Age 40,Age <br/>60,3.744
-Female Breast,Age 40,Age <br/>65,5.2
-Female Breast,Age 40,Age <br/>70,6.897
-Female Breast,Age 40,Age <br/>75,8.597
-Female Breast,Age 40,Age <br/>80,10.059
-Female Breast,Age 40,Age <br/>85,11.151
-Female Breast,Age 40,Age <br/>90,11.837
-Female Breast,Age 40,Age <br/>95,12.147
-Female Breast,Age 40,Age <br/>95+,12.281
-Female Breast,Age 45,Age <br/>5,
-Female Breast,Age 45,Age <br/>10,
-Female Breast,Age 45,Age <br/>15,
-Female Breast,Age 45,Age <br/>20,
-Female Breast,Age 45,Age <br/>25,
-Female Breast,Age 45,Age <br/>30,
-Female Breast,Age 45,Age <br/>35,
-Female Breast,Age 45,Age <br/>40,
-Female Breast,Age 45,Age <br/>45,
-Female Breast,Age 45,Age <br/>50,0.896
-Female Breast,Age 45,Age <br/>55,1.966
-Female Breast,Age 45,Age <br/>60,3.18
-Female Breast,Age 45,Age <br/>65,4.655
-Female Breast,Age 45,Age <br/>70,6.373
-Female Breast,Age 45,Age <br/>75,8.096
-Female Breast,Age 45,Age <br/>80,9.577
-Female Breast,Age 45,Age <br/>85,10.682
-Female Breast,Age 45,Age <br/>90,11.377
-Female Breast,Age 45,Age <br/>95,11.691
-Female Breast,Age 45,Age <br/>95+,11.827
-Female Breast,Age 50,Age <br/>5,
-Female Breast,Age 50,Age <br/>10,
-Female Breast,Age 50,Age <br/>15,
-Female Breast,Age 50,Age <br/>20,
-Female Breast,Age 50,Age <br/>25,
-Female Breast,Age 50,Age <br/>30,
-Female Breast,Age 50,Age <br/>35,
-Female Breast,Age 50,Age <br/>40,
-Female Breast,Age 50,Age <br/>45,
-Female Breast,Age 50,Age <br/>50,
-Female Breast,Age 50,Age <br/>55,1.091
-Female Breast,Age 50,Age <br/>60,2.329
-Female Breast,Age 50,Age <br/>65,3.833
-Female Breast,Age 50,Age <br/>70,5.585
-Female Breast,Age 50,Age <br/>75,7.342
-Female Breast,Age 50,Age <br/>80,8.852
-Female Breast,Age 50,Age <br/>85,9.979
-Female Breast,Age 50,Age <br/>90,10.688
-Female Breast,Age 50,Age <br/>95,11.008
-Female Breast,Age 50,Age <br/>95+,11.147
-Female Breast,Age 55,Age <br/>5,
-Female Breast,Age 55,Age <br/>10,
-Female Breast,Age 55,Age <br/>15,
-Female Breast,Age 55,Age <br/>20,
-Female Breast,Age 55,Age <br/>25,
-Female Breast,Age 55,Age <br/>30,
-Female Breast,Age 55,Age <br/>35,
-Female Breast,Age 55,Age <br/>40,
-Female Breast,Age 55,Age <br/>45,
-Female Breast,Age 55,Age <br/>50,
-Female Breast,Age 55,Age <br/>55,
-Female Breast,Age 55,Age <br/>60,1.272
-Female Breast,Age 55,Age <br/>65,2.819
-Female Breast,Age 55,Age <br/>70,4.619
-Female Breast,Age 55,Age <br/>75,6.425
-Female Breast,Age 55,Age <br/>80,7.977
-Female Breast,Age 55,Age <br/>85,9.136
-Female Breast,Age 55,Age <br/>90,9.865
-Female Breast,Age 55,Age <br/>95,10.194
-Female Breast,Age 55,Age <br/>95+,10.336
-Female Breast,Age 60,Age <br/>5,
-Female Breast,Age 60,Age <br/>10,
-Female Breast,Age 60,Age <br/>15,
-Female Breast,Age 60,Age <br/>20,
-Female Breast,Age 60,Age <br/>25,
-Female Breast,Age 60,Age <br/>30,
-Female Breast,Age 60,Age <br/>35,
-Female Breast,Age 60,Age <br/>40,
-Female Breast,Age 60,Age <br/>45,
-Female Breast,Age 60,Age <br/>50,
-Female Breast,Age 60,Age <br/>55,
-Female Breast,Age 60,Age <br/>60,
-Female Breast,Age 60,Age <br/>65,1.605
-Female Breast,Age 60,Age <br/>70,3.474
-Female Breast,Age 60,Age <br/>75,5.348
-Female Breast,Age 60,Age <br/>80,6.959
-Female Breast,Age 60,Age <br/>85,8.162
-Female Breast,Age 60,Age <br/>90,8.917
-Female Breast,Age 60,Age <br/>95,9.259
-Female Breast,Age 60,Age <br/>95+,9.407
-Female Breast,Age 65,Age <br/>5,
-Female Breast,Age 65,Age <br/>10,
-Female Breast,Age 65,Age <br/>15,
-Female Breast,Age 65,Age <br/>20,
-Female Breast,Age 65,Age <br/>25,
-Female Breast,Age 65,Age <br/>30,
-Female Breast,Age 65,Age <br/>35,
-Female Breast,Age 65,Age <br/>40,
-Female Breast,Age 65,Age <br/>45,
-Female Breast,Age 65,Age <br/>50,
-Female Breast,Age 65,Age <br/>55,
-Female Breast,Age 65,Age <br/>60,
-Female Breast,Age 65,Age <br/>65,
-Female Breast,Age 65,Age <br/>70,1.968
-Female Breast,Age 65,Age <br/>75,3.941
-Female Breast,Age 65,Age <br/>80,5.638
-Female Breast,Age 65,Age <br/>85,6.904
-Female Breast,Age 65,Age <br/>90,7.7
-Female Breast,Age 65,Age <br/>95,8.06
-Female Breast,Age 65,Age <br/>95+,8.215
-Female Breast,Age 70,Age <br/>5,
-Female Breast,Age 70,Age <br/>10,
-Female Breast,Age 70,Age <br/>15,
-Female Breast,Age 70,Age <br/>20,
-Female Breast,Age 70,Age <br/>25,
-Female Breast,Age 70,Age <br/>30,
-Female Breast,Age 70,Age <br/>35,
-Female Breast,Age 70,Age <br/>40,
-Female Breast,Age 70,Age <br/>45,
-Female Breast,Age 70,Age <br/>50,
-Female Breast,Age 70,Age <br/>55,
-Female Breast,Age 70,Age <br/>60,
-Female Breast,Age 70,Age <br/>65,
-Female Breast,Age 70,Age <br/>70,
-Female Breast,Age 70,Age <br/>75,2.125
-Female Breast,Age 70,Age <br/>80,3.951
-Female Breast,Age 70,Age <br/>85,5.315
-Female Breast,Age 70,Age <br/>90,6.172
-Female Breast,Age 70,Age <br/>95,6.56
-Female Breast,Age 70,Age <br/>95+,6.727
-Female Breast,Age 75,Age <br/>5,
-Female Breast,Age 75,Age <br/>10,
-Female Breast,Age 75,Age <br/>15,
-Female Breast,Age 75,Age <br/>20,
-Female Breast,Age 75,Age <br/>25,
-Female Breast,Age 75,Age <br/>30,
-Female Breast,Age 75,Age <br/>35,
-Female Breast,Age 75,Age <br/>40,
-Female Breast,Age 75,Age <br/>45,
-Female Breast,Age 75,Age <br/>50,
-Female Breast,Age 75,Age <br/>55,
-Female Breast,Age 75,Age <br/>60,
-Female Breast,Age 75,Age <br/>65,
-Female Breast,Age 75,Age <br/>70,
-Female Breast,Age 75,Age <br/>75,
-Female Breast,Age 75,Age <br/>80,2.038
-Female Breast,Age 75,Age <br/>85,3.56
-Female Breast,Age 75,Age <br/>90,4.516
-Female Breast,Age 75,Age <br/>95,4.948
-Female Breast,Age 75,Age <br/>95+,5.135
-Female Breast,Age 80,Age <br/>5,
-Female Breast,Age 80,Age <br/>10,
-Female Breast,Age 80,Age <br/>15,
-Female Breast,Age 80,Age <br/>20,
-Female Breast,Age 80,Age <br/>25,
-Female Breast,Age 80,Age <br/>30,
-Female Breast,Age 80,Age <br/>35,
-Female Breast,Age 80,Age <br/>40,
-Female Breast,Age 80,Age <br/>45,
-Female Breast,Age 80,Age <br/>50,
-Female Breast,Age 80,Age <br/>55,
-Female Breast,Age 80,Age <br/>60,
-Female Breast,Age 80,Age <br/>65,
-Female Breast,Age 80,Age <br/>70,
-Female Breast,Age 80,Age <br/>75,
-Female Breast,Age 80,Age <br/>80,
-Female Breast,Age 80,Age <br/>85,1.801
-Female Breast,Age 80,Age <br/>90,2.932
-Female Breast,Age 80,Age <br/>95,3.444
-Female Breast,Age 80,Age <br/>95+,3.665
-Female Breast,Age 85,Age <br/>5,
-Female Breast,Age 85,Age <br/>10,
-Female Breast,Age 85,Age <br/>15,
-Female Breast,Age 85,Age <br/>20,
-Female Breast,Age 85,Age <br/>25,
-Female Breast,Age 85,Age <br/>30,
-Female Breast,Age 85,Age <br/>35,
-Female Breast,Age 85,Age <br/>40,
-Female Breast,Age 85,Age <br/>45,
-Female Breast,Age 85,Age <br/>50,
-Female Breast,Age 85,Age <br/>55,
-Female Breast,Age 85,Age <br/>60,
-Female Breast,Age 85,Age <br/>65,
-Female Breast,Age 85,Age <br/>70,
-Female Breast,Age 85,Age <br/>75,
-Female Breast,Age 85,Age <br/>80,
-Female Breast,Age 85,Age <br/>85,
-Female Breast,Age 85,Age <br/>90,1.491
-Female Breast,Age 85,Age <br/>95,2.165
-Female Breast,Age 85,Age <br/>95+,2.456
-Female Breast,Age 90,Age <br/>5,
-Female Breast,Age 90,Age <br/>10,
-Female Breast,Age 90,Age <br/>15,
-Female Breast,Age 90,Age <br/>20,
-Female Breast,Age 90,Age <br/>25,
-Female Breast,Age 90,Age <br/>30,
-Female Breast,Age 90,Age <br/>35,
-Female Breast,Age 90,Age <br/>40,
-Female Breast,Age 90,Age <br/>45,
-Female Breast,Age 90,Age <br/>50,
-Female Breast,Age 90,Age <br/>55,
-Female Breast,Age 90,Age <br/>60,
-Female Breast,Age 90,Age <br/>65,
-Female Breast,Age 90,Age <br/>70,
-Female Breast,Age 90,Age <br/>75,
-Female Breast,Age 90,Age <br/>80,
-Female Breast,Age 90,Age <br/>85,
-Female Breast,Age 90,Age <br/>90,
-Female Breast,Age 90,Age <br/>95,1.082
-Female Breast,Age 90,Age <br/>95+,1.549
-Female Breast,Age 95,Age <br/>5,
-Female Breast,Age 95,Age <br/>10,
-Female Breast,Age 95,Age <br/>15,
-Female Breast,Age 95,Age <br/>20,
-Female Breast,Age 95,Age <br/>25,
-Female Breast,Age 95,Age <br/>30,
-Female Breast,Age 95,Age <br/>35,
-Female Breast,Age 95,Age <br/>40,
-Female Breast,Age 95,Age <br/>45,
-Female Breast,Age 95,Age <br/>50,
-Female Breast,Age 95,Age <br/>55,
-Female Breast,Age 95,Age <br/>60,
-Female Breast,Age 95,Age <br/>65,
-Female Breast,Age 95,Age <br/>70,
-Female Breast,Age 95,Age <br/>75,
-Female Breast,Age 95,Age <br/>80,
-Female Breast,Age 95,Age <br/>85,
-Female Breast,Age 95,Age <br/>90,
-Female Breast,Age 95,Age <br/>95,
-Female Breast,Age 95,Age <br/>95+,1.027
+All Sites,0,5,0.108
+All Sites,0,10,0.174
+All Sites,0,15,0.247
+All Sites,0,20,0.36
+All Sites,0,25,0.551
+All Sites,0,30,0.886
+All Sites,0,35,1.45
+All Sites,0,40,2.327
+All Sites,0,45,3.669
+All Sites,0,50,5.573
+All Sites,0,55,8.094
+All Sites,0,60,11.199
+All Sites,0,65,14.988
+All Sites,0,70,19.5
+All Sites,0,75,24.314
+All Sites,0,80,28.983
+All Sites,0,85,32.952
+All Sites,0,90,35.724
+All Sites,0,95,37.109
+All Sites,0,95,37.73
+All Sites,5,5,
+All Sites,5,10,0.068
+All Sites,5,15,0.141
+All Sites,5,20,0.255
+All Sites,5,25,0.448
+All Sites,5,30,0.786
+All Sites,5,35,1.357
+All Sites,5,40,2.243
+All Sites,5,45,3.598
+All Sites,5,50,5.522
+All Sites,5,55,8.069
+All Sites,5,60,11.206
+All Sites,5,65,15.033
+All Sites,5,70,19.591
+All Sites,5,75,24.455
+All Sites,5,80,29.172
+All Sites,5,85,33.182
+All Sites,5,90,35.982
+All Sites,5,95,37.382
+All Sites,5,95,38.009
+All Sites,10,5,
+All Sites,10,10,
+All Sites,10,15,0.073
+All Sites,10,20,0.188
+All Sites,10,25,0.381
+All Sites,10,30,0.719
+All Sites,10,35,1.291
+All Sites,10,40,2.178
+All Sites,10,45,3.534
+All Sites,10,50,5.461
+All Sites,10,55,8.01
+All Sites,10,60,11.151
+All Sites,10,65,14.982
+All Sites,10,70,19.546
+All Sites,10,75,24.415
+All Sites,10,80,29.137
+All Sites,10,85,33.152
+All Sites,10,90,35.955
+All Sites,10,95,37.356
+All Sites,10,95,37.984
+All Sites,15,5,
+All Sites,15,10,
+All Sites,15,15,
+All Sites,15,20,0.115
+All Sites,15,25,0.308
+All Sites,15,30,0.647
+All Sites,15,35,1.219
+All Sites,15,40,2.107
+All Sites,15,45,3.465
+All Sites,15,50,5.394
+All Sites,15,55,7.947
+All Sites,15,60,11.092
+All Sites,15,65,14.928
+All Sites,15,70,19.497
+All Sites,15,75,24.372
+All Sites,15,80,29.101
+All Sites,15,85,33.12
+All Sites,15,90,35.927
+All Sites,15,95,37.33
+All Sites,15,95,37.959
+All Sites,20,5,
+All Sites,20,10,
+All Sites,20,15,
+All Sites,20,20,
+All Sites,20,25,0.194
+All Sites,20,30,0.533
+All Sites,20,35,1.107
+All Sites,20,40,1.997
+All Sites,20,45,3.358
+All Sites,20,50,5.291
+All Sites,20,55,7.85
+All Sites,20,60,11.002
+All Sites,20,65,14.847
+All Sites,20,70,19.427
+All Sites,20,75,24.313
+All Sites,20,80,29.052
+All Sites,20,85,33.081
+All Sites,20,90,35.894
+All Sites,20,95,37.301
+All Sites,20,95,37.931
+All Sites,25,5,
+All Sites,25,10,
+All Sites,25,15,
+All Sites,25,20,
+All Sites,25,25,
+All Sites,25,30,0.341
+All Sites,25,35,0.916
+All Sites,25,40,1.81
+All Sites,25,45,3.176
+All Sites,25,50,5.117
+All Sites,25,55,7.686
+All Sites,25,60,10.849
+All Sites,25,65,14.709
+All Sites,25,70,19.306
+All Sites,25,75,24.211
+All Sites,25,80,28.969
+All Sites,25,85,33.013
+All Sites,25,90,35.837
+All Sites,25,95,37.248
+All Sites,25,95,37.881
+All Sites,30,5,
+All Sites,30,10,
+All Sites,30,15,
+All Sites,30,20,
+All Sites,30,25,
+All Sites,30,30,
+All Sites,30,35,0.579
+All Sites,30,40,1.477
+All Sites,30,45,2.852
+All Sites,30,50,4.804
+All Sites,30,55,7.387
+All Sites,30,60,10.57
+All Sites,30,65,14.452
+All Sites,30,70,19.076
+All Sites,30,75,24.009
+All Sites,30,80,28.794
+All Sites,30,85,32.862
+All Sites,30,90,35.703
+All Sites,30,95,37.123
+All Sites,30,95,37.759
+All Sites,35,5,
+All Sites,35,10,
+All Sites,35,15,
+All Sites,35,20,
+All Sites,35,25,
+All Sites,35,30,
+All Sites,35,35,
+All Sites,35,40,0.907
+All Sites,35,45,2.293
+All Sites,35,50,4.263
+All Sites,35,55,6.869
+All Sites,35,60,10.079
+All Sites,35,65,13.996
+All Sites,35,70,18.661
+All Sites,35,75,23.638
+All Sites,35,80,28.465
+All Sites,35,85,32.569
+All Sites,35,90,35.434
+All Sites,35,95,36.867
+All Sites,35,95,37.509
+All Sites,40,5,
+All Sites,40,10,
+All Sites,40,15,
+All Sites,40,20,
+All Sites,40,25,
+All Sites,40,30,
+All Sites,40,35,
+All Sites,40,40,
+All Sites,40,45,1.405
+All Sites,40,50,3.4
+All Sites,40,55,6.04
+All Sites,40,60,9.293
+All Sites,40,65,13.26
+All Sites,40,70,17.986
+All Sites,40,75,23.028
+All Sites,40,80,27.918
+All Sites,40,85,32.076
+All Sites,40,90,34.979
+All Sites,40,95,36.43
+All Sites,40,95,37.08
+All Sites,45,5,
+All Sites,45,10,
+All Sites,45,15,
+All Sites,45,20,
+All Sites,45,25,
+All Sites,45,30,
+All Sites,45,35,
+All Sites,45,40,
+All Sites,45,45,
+All Sites,45,50,2.034
+All Sites,45,55,4.726
+All Sites,45,60,8.043
+All Sites,45,65,12.088
+All Sites,45,70,16.907
+All Sites,45,75,22.048
+All Sites,45,80,27.035
+All Sites,45,85,31.274
+All Sites,45,90,34.234
+All Sites,45,95,35.714
+All Sites,45,95,36.377
+All Sites,50,5,
+All Sites,50,10,
+All Sites,50,15,
+All Sites,50,20,
+All Sites,50,25,
+All Sites,50,30,
+All Sites,50,35,
+All Sites,50,40,
+All Sites,50,45,
+All Sites,50,50,
+All Sites,50,55,2.77
+All Sites,50,60,6.182
+All Sites,50,65,10.345
+All Sites,50,70,15.303
+All Sites,50,75,20.592
+All Sites,50,80,25.723
+All Sites,50,85,30.084
+All Sites,50,90,33.13
+All Sites,50,95,34.652
+All Sites,50,95,35.334
+All Sites,55,5,
+All Sites,55,10,
+All Sites,55,15,
+All Sites,55,20,
+All Sites,55,25,
+All Sites,55,30,
+All Sites,55,35,
+All Sites,55,40,
+All Sites,55,45,
+All Sites,55,50,
+All Sites,55,55,
+All Sites,55,60,3.551
+All Sites,55,65,7.883
+All Sites,55,70,13.042
+All Sites,55,75,18.547
+All Sites,55,80,23.886
+All Sites,55,85,28.426
+All Sites,55,90,31.595
+All Sites,55,95,33.179
+All Sites,55,95,33.889
+All Sites,60,5,
+All Sites,60,10,
+All Sites,60,15,
+All Sites,60,20,
+All Sites,60,25,
+All Sites,60,30,
+All Sites,60,35,
+All Sites,60,40,
+All Sites,60,45,
+All Sites,60,50,
+All Sites,60,55,
+All Sites,60,60,
+All Sites,60,65,4.567
+All Sites,60,70,10.006
+All Sites,60,75,15.809
+All Sites,60,80,21.437
+All Sites,60,85,26.222
+All Sites,60,90,29.563
+All Sites,60,95,31.233
+All Sites,60,95,31.982
+All Sites,65,5,
+All Sites,65,10,
+All Sites,65,15,
+All Sites,65,20,
+All Sites,65,25,
+All Sites,65,30,
+All Sites,65,35,
+All Sites,65,40,
+All Sites,65,45,
+All Sites,65,50,
+All Sites,65,55,
+All Sites,65,60,
+All Sites,65,65,
+All Sites,65,70,5.836
+All Sites,65,75,12.063
+All Sites,65,80,18.102
+All Sites,65,85,23.236
+All Sites,65,90,26.821
+All Sites,65,95,28.613
+All Sites,65,95,29.416
+All Sites,70,5,
+All Sites,70,10,
+All Sites,70,15,
+All Sites,70,20,
+All Sites,70,25,
+All Sites,70,30,
+All Sites,70,35,
+All Sites,70,40,
+All Sites,70,45,
+All Sites,70,50,
+All Sites,70,55,
+All Sites,70,60,
+All Sites,70,65,
+All Sites,70,70,
+All Sites,70,75,6.86
+All Sites,70,80,13.514
+All Sites,70,85,19.17
+All Sites,70,90,23.119
+All Sites,70,95,25.094
+All Sites,70,95,25.978
+All Sites,75,5,
+All Sites,75,10,
+All Sites,75,15,
+All Sites,75,20,
+All Sites,75,25,
+All Sites,75,30,
+All Sites,75,35,
+All Sites,75,40,
+All Sites,75,45,
+All Sites,75,50,
+All Sites,75,55,
+All Sites,75,60,
+All Sites,75,65,
+All Sites,75,70,
+All Sites,75,75,
+All Sites,75,80,7.609
+All Sites,75,85,14.077
+All Sites,75,90,18.594
+All Sites,75,95,20.852
+All Sites,75,95,21.863
+All Sites,80,5,
+All Sites,80,10,
+All Sites,80,15,
+All Sites,80,20,
+All Sites,80,25,
+All Sites,80,30,
+All Sites,80,35,
+All Sites,80,40,
+All Sites,80,45,
+All Sites,80,50,
+All Sites,80,55,
+All Sites,80,60,
+All Sites,80,65,
+All Sites,80,70,
+All Sites,80,75,
+All Sites,80,80,
+All Sites,80,85,7.853
+All Sites,80,90,13.336
+All Sites,80,95,16.077
+All Sites,80,95,17.305
+All Sites,85,5,
+All Sites,85,10,
+All Sites,85,15,
+All Sites,85,20,
+All Sites,85,25,
+All Sites,85,30,
+All Sites,85,35,
+All Sites,85,40,
+All Sites,85,45,
+All Sites,85,50,
+All Sites,85,55,
+All Sites,85,60,
+All Sites,85,65,
+All Sites,85,70,
+All Sites,85,75,
+All Sites,85,80,
+All Sites,85,85,
+All Sites,85,90,7.397
+All Sites,85,95,11.095
+All Sites,85,95,12.752
+All Sites,90,5,
+All Sites,90,10,
+All Sites,90,15,
+All Sites,90,20,
+All Sites,90,25,
+All Sites,90,30,
+All Sites,90,35,
+All Sites,90,40,
+All Sites,90,45,
+All Sites,90,50,
+All Sites,90,55,
+All Sites,90,60,
+All Sites,90,65,
+All Sites,90,70,
+All Sites,90,75,
+All Sites,90,80,
+All Sites,90,85,
+All Sites,90,90,
+All Sites,90,95,6.043
+All Sites,90,95,8.75
+All Sites,95,5,
+All Sites,95,10,
+All Sites,95,15,
+All Sites,95,20,
+All Sites,95,25,
+All Sites,95,30,
+All Sites,95,35,
+All Sites,95,40,
+All Sites,95,45,
+All Sites,95,50,
+All Sites,95,55,
+All Sites,95,60,
+All Sites,95,65,
+All Sites,95,70,
+All Sites,95,75,
+All Sites,95,80,
+All Sites,95,85,
+All Sites,95,90,
+All Sites,95,95,
+All Sites,95,95,6.015
+Colon and Rectum,0,5,0
+Colon and Rectum,0,10,0.001
+Colon and Rectum,0,15,0.003
+Colon and Rectum,0,20,0.008
+Colon and Rectum,0,25,0.016
+Colon and Rectum,0,30,0.031
+Colon and Rectum,0,35,0.06
+Colon and Rectum,0,40,0.109
+Colon and Rectum,0,45,0.196
+Colon and Rectum,0,50,0.342
+Colon and Rectum,0,55,0.577
+Colon and Rectum,0,60,0.843
+Colon and Rectum,0,65,1.168
+Colon and Rectum,0,70,1.58
+Colon and Rectum,0,75,2.067
+Colon and Rectum,0,80,2.634
+Colon and Rectum,0,85,3.224
+Colon and Rectum,0,90,3.7
+Colon and Rectum,0,95,3.952
+Colon and Rectum,0,95,4.06
+Colon and Rectum,5,5,
+Colon and Rectum,5,10,0.001
+Colon and Rectum,5,15,0.003
+Colon and Rectum,5,20,0.008
+Colon and Rectum,5,25,0.016
+Colon and Rectum,5,30,0.031
+Colon and Rectum,5,35,0.06
+Colon and Rectum,5,40,0.11
+Colon and Rectum,5,45,0.198
+Colon and Rectum,5,50,0.345
+Colon and Rectum,5,55,0.582
+Colon and Rectum,5,60,0.851
+Colon and Rectum,5,65,1.178
+Colon and Rectum,5,70,1.595
+Colon and Rectum,5,75,2.086
+Colon and Rectum,5,80,2.659
+Colon and Rectum,5,85,3.254
+Colon and Rectum,5,90,3.734
+Colon and Rectum,5,95,3.989
+Colon and Rectum,5,95,4.097
+Colon and Rectum,10,5,
+Colon and Rectum,10,10,
+Colon and Rectum,10,15,0.002
+Colon and Rectum,10,20,0.007
+Colon and Rectum,10,25,0.015
+Colon and Rectum,10,30,0.03
+Colon and Rectum,10,35,0.059
+Colon and Rectum,10,40,0.109
+Colon and Rectum,10,45,0.197
+Colon and Rectum,10,50,0.345
+Colon and Rectum,10,55,0.582
+Colon and Rectum,10,60,0.851
+Colon and Rectum,10,65,1.179
+Colon and Rectum,10,70,1.595
+Colon and Rectum,10,75,2.087
+Colon and Rectum,10,80,2.659
+Colon and Rectum,10,85,3.255
+Colon and Rectum,10,90,3.736
+Colon and Rectum,10,95,3.99
+Colon and Rectum,10,95,4.099
+Colon and Rectum,15,5,
+Colon and Rectum,15,10,
+Colon and Rectum,15,15,
+Colon and Rectum,15,20,0.005
+Colon and Rectum,15,25,0.013
+Colon and Rectum,15,30,0.028
+Colon and Rectum,15,35,0.057
+Colon and Rectum,15,40,0.107
+Colon and Rectum,15,45,0.195
+Colon and Rectum,15,50,0.343
+Colon and Rectum,15,55,0.58
+Colon and Rectum,15,60,0.849
+Colon and Rectum,15,65,1.177
+Colon and Rectum,15,70,1.594
+Colon and Rectum,15,75,2.086
+Colon and Rectum,15,80,2.659
+Colon and Rectum,15,85,3.255
+Colon and Rectum,15,90,3.736
+Colon and Rectum,15,95,3.99
+Colon and Rectum,15,95,4.099
+Colon and Rectum,20,5,
+Colon and Rectum,20,10,
+Colon and Rectum,20,15,
+Colon and Rectum,20,20,
+Colon and Rectum,20,25,0.008
+Colon and Rectum,20,30,0.023
+Colon and Rectum,20,35,0.052
+Colon and Rectum,20,40,0.102
+Colon and Rectum,20,45,0.19
+Colon and Rectum,20,50,0.338
+Colon and Rectum,20,55,0.575
+Colon and Rectum,20,60,0.845
+Colon and Rectum,20,65,1.173
+Colon and Rectum,20,70,1.591
+Colon and Rectum,20,75,2.083
+Colon and Rectum,20,80,2.657
+Colon and Rectum,20,85,3.254
+Colon and Rectum,20,90,3.736
+Colon and Rectum,20,95,3.991
+Colon and Rectum,20,95,4.1
+Colon and Rectum,25,5,
+Colon and Rectum,25,10,
+Colon and Rectum,25,15,
+Colon and Rectum,25,20,
+Colon and Rectum,25,25,
+Colon and Rectum,25,30,0.015
+Colon and Rectum,25,35,0.044
+Colon and Rectum,25,40,0.094
+Colon and Rectum,25,45,0.182
+Colon and Rectum,25,50,0.331
+Colon and Rectum,25,55,0.569
+Colon and Rectum,25,60,0.839
+Colon and Rectum,25,65,1.168
+Colon and Rectum,25,70,1.586
+Colon and Rectum,25,75,2.08
+Colon and Rectum,25,80,2.655
+Colon and Rectum,25,85,3.253
+Colon and Rectum,25,90,3.736
+Colon and Rectum,25,95,3.991
+Colon and Rectum,25,95,4.101
+Colon and Rectum,30,5,
+Colon and Rectum,30,10,
+Colon and Rectum,30,15,
+Colon and Rectum,30,20,
+Colon and Rectum,30,25,
+Colon and Rectum,30,30,
+Colon and Rectum,30,35,0.029
+Colon and Rectum,30,40,0.079
+Colon and Rectum,30,45,0.168
+Colon and Rectum,30,50,0.317
+Colon and Rectum,30,55,0.555
+Colon and Rectum,30,60,0.826
+Colon and Rectum,30,65,1.156
+Colon and Rectum,30,70,1.576
+Colon and Rectum,30,75,2.071
+Colon and Rectum,30,80,2.648
+Colon and Rectum,30,85,3.247
+Colon and Rectum,30,90,3.731
+Colon and Rectum,30,95,3.987
+Colon and Rectum,30,95,4.097
+Colon and Rectum,35,5,
+Colon and Rectum,35,10,
+Colon and Rectum,35,15,
+Colon and Rectum,35,20,
+Colon and Rectum,35,25,
+Colon and Rectum,35,30,
+Colon and Rectum,35,35,
+Colon and Rectum,35,40,0.05
+Colon and Rectum,35,45,0.139
+Colon and Rectum,35,50,0.288
+Colon and Rectum,35,55,0.528
+Colon and Rectum,35,60,0.8
+Colon and Rectum,35,65,1.131
+Colon and Rectum,35,70,1.552
+Colon and Rectum,35,75,2.049
+Colon and Rectum,35,80,2.628
+Colon and Rectum,35,85,3.23
+Colon and Rectum,35,90,3.716
+Colon and Rectum,35,95,3.973
+Colon and Rectum,35,95,4.083
+Colon and Rectum,40,5,
+Colon and Rectum,40,10,
+Colon and Rectum,40,15,
+Colon and Rectum,40,20,
+Colon and Rectum,40,25,
+Colon and Rectum,40,30,
+Colon and Rectum,40,35,
+Colon and Rectum,40,40,
+Colon and Rectum,40,45,0.089
+Colon and Rectum,40,50,0.24
+Colon and Rectum,40,55,0.48
+Colon and Rectum,40,60,0.754
+Colon and Rectum,40,65,1.087
+Colon and Rectum,40,70,1.51
+Colon and Rectum,40,75,2.01
+Colon and Rectum,40,80,2.592
+Colon and Rectum,40,85,3.197
+Colon and Rectum,40,90,3.686
+Colon and Rectum,40,95,3.944
+Colon and Rectum,40,95,4.055
+Colon and Rectum,45,5,
+Colon and Rectum,45,10,
+Colon and Rectum,45,15,
+Colon and Rectum,45,20,
+Colon and Rectum,45,25,
+Colon and Rectum,45,30,
+Colon and Rectum,45,35,
+Colon and Rectum,45,40,
+Colon and Rectum,45,45,
+Colon and Rectum,45,50,0.151
+Colon and Rectum,45,55,0.394
+Colon and Rectum,45,60,0.67
+Colon and Rectum,45,65,1.006
+Colon and Rectum,45,70,1.433
+Colon and Rectum,45,75,1.936
+Colon and Rectum,45,80,2.523
+Colon and Rectum,45,85,3.133
+Colon and Rectum,45,90,3.625
+Colon and Rectum,45,95,3.886
+Colon and Rectum,45,95,3.998
+Colon and Rectum,50,5,
+Colon and Rectum,50,10,
+Colon and Rectum,50,15,
+Colon and Rectum,50,20,
+Colon and Rectum,50,25,
+Colon and Rectum,50,30,
+Colon and Rectum,50,35,
+Colon and Rectum,50,40,
+Colon and Rectum,50,45,
+Colon and Rectum,50,50,
+Colon and Rectum,50,55,0.246
+Colon and Rectum,50,60,0.525
+Colon and Rectum,50,65,0.865
+Colon and Rectum,50,70,1.298
+Colon and Rectum,50,75,1.807
+Colon and Rectum,50,80,2.402
+Colon and Rectum,50,85,3.019
+Colon and Rectum,50,90,3.518
+Colon and Rectum,50,95,3.782
+Colon and Rectum,50,95,3.895
+Colon and Rectum,55,5,
+Colon and Rectum,55,10,
+Colon and Rectum,55,15,
+Colon and Rectum,55,20,
+Colon and Rectum,55,25,
+Colon and Rectum,55,30,
+Colon and Rectum,55,35,
+Colon and Rectum,55,40,
+Colon and Rectum,55,45,
+Colon and Rectum,55,50,
+Colon and Rectum,55,55,
+Colon and Rectum,55,60,0.285
+Colon and Rectum,55,65,0.632
+Colon and Rectum,55,70,1.073
+Colon and Rectum,55,75,1.593
+Colon and Rectum,55,80,2.199
+Colon and Rectum,55,85,2.829
+Colon and Rectum,55,90,3.338
+Colon and Rectum,55,95,3.607
+Colon and Rectum,55,95,3.722
+Colon and Rectum,60,5,
+Colon and Rectum,60,10,
+Colon and Rectum,60,15,
+Colon and Rectum,60,20,
+Colon and Rectum,60,25,
+Colon and Rectum,60,30,
+Colon and Rectum,60,35,
+Colon and Rectum,60,40,
+Colon and Rectum,60,45,
+Colon and Rectum,60,50,
+Colon and Rectum,60,55,
+Colon and Rectum,60,60,
+Colon and Rectum,60,65,0.357
+Colon and Rectum,60,70,0.811
+Colon and Rectum,60,75,1.345
+Colon and Rectum,60,80,1.969
+Colon and Rectum,60,85,2.617
+Colon and Rectum,60,90,3.14
+Colon and Rectum,60,95,3.417
+Colon and Rectum,60,95,3.536
+Colon and Rectum,65,5,
+Colon and Rectum,65,10,
+Colon and Rectum,65,15,
+Colon and Rectum,65,20,
+Colon and Rectum,65,25,
+Colon and Rectum,65,30,
+Colon and Rectum,65,35,
+Colon and Rectum,65,40,
+Colon and Rectum,65,45,
+Colon and Rectum,65,50,
+Colon and Rectum,65,55,
+Colon and Rectum,65,60,
+Colon and Rectum,65,65,
+Colon and Rectum,65,70,0.472
+Colon and Rectum,65,75,1.029
+Colon and Rectum,65,80,1.678
+Colon and Rectum,65,85,2.353
+Colon and Rectum,65,90,2.898
+Colon and Rectum,65,95,3.186
+Colon and Rectum,65,95,3.31
+Colon and Rectum,70,5,
+Colon and Rectum,70,10,
+Colon and Rectum,70,15,
+Colon and Rectum,70,20,
+Colon and Rectum,70,25,
+Colon and Rectum,70,30,
+Colon and Rectum,70,35,
+Colon and Rectum,70,40,
+Colon and Rectum,70,45,
+Colon and Rectum,70,50,
+Colon and Rectum,70,55,
+Colon and Rectum,70,60,
+Colon and Rectum,70,65,
+Colon and Rectum,70,70,
+Colon and Rectum,70,75,0.591
+Colon and Rectum,70,80,1.28
+Colon and Rectum,70,85,1.997
+Colon and Rectum,70,90,2.575
+Colon and Rectum,70,95,2.881
+Colon and Rectum,70,95,3.013
+Colon and Rectum,75,5,
+Colon and Rectum,75,10,
+Colon and Rectum,75,15,
+Colon and Rectum,75,20,
+Colon and Rectum,75,25,
+Colon and Rectum,75,30,
+Colon and Rectum,75,35,
+Colon and Rectum,75,40,
+Colon and Rectum,75,45,
+Colon and Rectum,75,50,
+Colon and Rectum,75,55,
+Colon and Rectum,75,60,
+Colon and Rectum,75,65,
+Colon and Rectum,75,70,
+Colon and Rectum,75,75,
+Colon and Rectum,75,80,0.758
+Colon and Rectum,75,85,1.545
+Colon and Rectum,75,90,2.182
+Colon and Rectum,75,95,2.518
+Colon and Rectum,75,95,2.663
+Colon and Rectum,80,5,
+Colon and Rectum,80,10,
+Colon and Rectum,80,15,
+Colon and Rectum,80,20,
+Colon and Rectum,80,25,
+Colon and Rectum,80,30,
+Colon and Rectum,80,35,
+Colon and Rectum,80,40,
+Colon and Rectum,80,45,
+Colon and Rectum,80,50,
+Colon and Rectum,80,55,
+Colon and Rectum,80,60,
+Colon and Rectum,80,65,
+Colon and Rectum,80,70,
+Colon and Rectum,80,75,
+Colon and Rectum,80,80,
+Colon and Rectum,80,85,0.921
+Colon and Rectum,80,90,1.665
+Colon and Rectum,80,95,2.058
+Colon and Rectum,80,95,2.227
+Colon and Rectum,85,5,
+Colon and Rectum,85,10,
+Colon and Rectum,85,15,
+Colon and Rectum,85,20,
+Colon and Rectum,85,25,
+Colon and Rectum,85,30,
+Colon and Rectum,85,35,
+Colon and Rectum,85,40,
+Colon and Rectum,85,45,
+Colon and Rectum,85,50,
+Colon and Rectum,85,55,
+Colon and Rectum,85,60,
+Colon and Rectum,85,65,
+Colon and Rectum,85,70,
+Colon and Rectum,85,75,
+Colon and Rectum,85,80,
+Colon and Rectum,85,85,
+Colon and Rectum,85,90,0.971
+Colon and Rectum,85,95,1.485
+Colon and Rectum,85,95,1.705
+Colon and Rectum,90,5,
+Colon and Rectum,90,10,
+Colon and Rectum,90,15,
+Colon and Rectum,90,20,
+Colon and Rectum,90,25,
+Colon and Rectum,90,30,
+Colon and Rectum,90,35,
+Colon and Rectum,90,40,
+Colon and Rectum,90,45,
+Colon and Rectum,90,50,
+Colon and Rectum,90,55,
+Colon and Rectum,90,60,
+Colon and Rectum,90,65,
+Colon and Rectum,90,70,
+Colon and Rectum,90,75,
+Colon and Rectum,90,80,
+Colon and Rectum,90,85,
+Colon and Rectum,90,90,
+Colon and Rectum,90,95,0.82
+Colon and Rectum,90,95,1.171
+Colon and Rectum,95,5,
+Colon and Rectum,95,10,
+Colon and Rectum,95,15,
+Colon and Rectum,95,20,
+Colon and Rectum,95,25,
+Colon and Rectum,95,30,
+Colon and Rectum,95,35,
+Colon and Rectum,95,40,
+Colon and Rectum,95,45,
+Colon and Rectum,95,50,
+Colon and Rectum,95,55,
+Colon and Rectum,95,60,
+Colon and Rectum,95,65,
+Colon and Rectum,95,70,
+Colon and Rectum,95,75,
+Colon and Rectum,95,80,
+Colon and Rectum,95,85,
+Colon and Rectum,95,90,
+Colon and Rectum,95,95,
+Colon and Rectum,95,95,0.77
+Lung and Bronchus,0,5,0
+Lung and Bronchus,0,10,0.001
+Lung and Bronchus,0,15,0.001
+Lung and Bronchus,0,20,0.002
+Lung and Bronchus,0,25,0.003
+Lung and Bronchus,0,30,0.006
+Lung and Bronchus,0,35,0.013
+Lung and Bronchus,0,40,0.027
+Lung and Bronchus,0,45,0.061
+Lung and Bronchus,0,50,0.149
+Lung and Bronchus,0,55,0.347
+Lung and Bronchus,0,60,0.685
+Lung and Bronchus,0,65,1.186
+Lung and Bronchus,0,70,1.951
+Lung and Bronchus,0,75,2.981
+Lung and Bronchus,0,80,4.069
+Lung and Bronchus,0,85,4.985
+Lung and Bronchus,0,90,5.554
+Lung and Bronchus,0,95,5.784
+Lung and Bronchus,0,95,5.871
+Lung and Bronchus,5,5,
+Lung and Bronchus,5,10,0
+Lung and Bronchus,5,15,0.001
+Lung and Bronchus,5,20,0.001
+Lung and Bronchus,5,25,0.003
+Lung and Bronchus,5,30,0.006
+Lung and Bronchus,5,35,0.012
+Lung and Bronchus,5,40,0.027
+Lung and Bronchus,5,45,0.061
+Lung and Bronchus,5,50,0.149
+Lung and Bronchus,5,55,0.349
+Lung and Bronchus,5,60,0.691
+Lung and Bronchus,5,65,1.196
+Lung and Bronchus,5,70,1.969
+Lung and Bronchus,5,75,3.009
+Lung and Bronchus,5,80,4.106
+Lung and Bronchus,5,85,5.031
+Lung and Bronchus,5,90,5.605
+Lung and Bronchus,5,95,5.837
+Lung and Bronchus,5,95,5.925
+Lung and Bronchus,10,5,
+Lung and Bronchus,10,10,
+Lung and Bronchus,10,15,0
+Lung and Bronchus,10,20,0.001
+Lung and Bronchus,10,25,0.003
+Lung and Bronchus,10,30,0.006
+Lung and Bronchus,10,35,0.012
+Lung and Bronchus,10,40,0.026
+Lung and Bronchus,10,45,0.061
+Lung and Bronchus,10,50,0.149
+Lung and Bronchus,10,55,0.349
+Lung and Bronchus,10,60,0.691
+Lung and Bronchus,10,65,1.197
+Lung and Bronchus,10,70,1.97
+Lung and Bronchus,10,75,3.01
+Lung and Bronchus,10,80,4.108
+Lung and Bronchus,10,85,5.033
+Lung and Bronchus,10,90,5.608
+Lung and Bronchus,10,95,5.84
+Lung and Bronchus,10,95,5.928
+Lung and Bronchus,15,5,
+Lung and Bronchus,15,10,
+Lung and Bronchus,15,15,
+Lung and Bronchus,15,20,0.001
+Lung and Bronchus,15,25,0.002
+Lung and Bronchus,15,30,0.005
+Lung and Bronchus,15,35,0.012
+Lung and Bronchus,15,40,0.026
+Lung and Bronchus,15,45,0.061
+Lung and Bronchus,15,50,0.149
+Lung and Bronchus,15,55,0.349
+Lung and Bronchus,15,60,0.691
+Lung and Bronchus,15,65,1.197
+Lung and Bronchus,15,70,1.97
+Lung and Bronchus,15,75,3.012
+Lung and Bronchus,15,80,4.111
+Lung and Bronchus,15,85,5.036
+Lung and Bronchus,15,90,5.611
+Lung and Bronchus,15,95,5.843
+Lung and Bronchus,15,95,5.931
+Lung and Bronchus,20,5,
+Lung and Bronchus,20,10,
+Lung and Bronchus,20,15,
+Lung and Bronchus,20,20,
+Lung and Bronchus,20,25,0.002
+Lung and Bronchus,20,30,0.005
+Lung and Bronchus,20,35,0.011
+Lung and Bronchus,20,40,0.025
+Lung and Bronchus,20,45,0.06
+Lung and Bronchus,20,50,0.149
+Lung and Bronchus,20,55,0.349
+Lung and Bronchus,20,60,0.692
+Lung and Bronchus,20,65,1.198
+Lung and Bronchus,20,70,1.972
+Lung and Bronchus,20,75,3.015
+Lung and Bronchus,20,80,4.115
+Lung and Bronchus,20,85,5.042
+Lung and Bronchus,20,90,5.617
+Lung and Bronchus,20,95,5.85
+Lung and Bronchus,20,95,5.938
+Lung and Bronchus,25,5,
+Lung and Bronchus,25,10,
+Lung and Bronchus,25,15,
+Lung and Bronchus,25,20,
+Lung and Bronchus,25,25,
+Lung and Bronchus,25,30,0.003
+Lung and Bronchus,25,35,0.01
+Lung and Bronchus,25,40,0.024
+Lung and Bronchus,25,45,0.059
+Lung and Bronchus,25,50,0.147
+Lung and Bronchus,25,55,0.348
+Lung and Bronchus,25,60,0.691
+Lung and Bronchus,25,65,1.199
+Lung and Bronchus,25,70,1.975
+Lung and Bronchus,25,75,3.019
+Lung and Bronchus,25,80,4.122
+Lung and Bronchus,25,85,5.051
+Lung and Bronchus,25,90,5.627
+Lung and Bronchus,25,95,5.861
+Lung and Bronchus,25,95,5.949
+Lung and Bronchus,30,5,
+Lung and Bronchus,30,10,
+Lung and Bronchus,30,15,
+Lung and Bronchus,30,20,
+Lung and Bronchus,30,25,
+Lung and Bronchus,30,30,
+Lung and Bronchus,30,35,0.007
+Lung and Bronchus,30,40,0.021
+Lung and Bronchus,30,45,0.056
+Lung and Bronchus,30,50,0.144
+Lung and Bronchus,30,55,0.346
+Lung and Bronchus,30,60,0.69
+Lung and Bronchus,30,65,1.199
+Lung and Bronchus,30,70,1.977
+Lung and Bronchus,30,75,3.024
+Lung and Bronchus,30,80,4.13
+Lung and Bronchus,30,85,5.061
+Lung and Bronchus,30,90,5.639
+Lung and Bronchus,30,95,5.874
+Lung and Bronchus,30,95,5.962
+Lung and Bronchus,35,5,
+Lung and Bronchus,35,10,
+Lung and Bronchus,35,15,
+Lung and Bronchus,35,20,
+Lung and Bronchus,35,25,
+Lung and Bronchus,35,30,
+Lung and Bronchus,35,35,
+Lung and Bronchus,35,40,0.014
+Lung and Bronchus,35,45,0.049
+Lung and Bronchus,35,50,0.139
+Lung and Bronchus,35,55,0.341
+Lung and Bronchus,35,60,0.686
+Lung and Bronchus,35,65,1.197
+Lung and Bronchus,35,70,1.978
+Lung and Bronchus,35,75,3.029
+Lung and Bronchus,35,80,4.139
+Lung and Bronchus,35,85,5.073
+Lung and Bronchus,35,90,5.653
+Lung and Bronchus,35,95,5.888
+Lung and Bronchus,35,95,5.977
+Lung and Bronchus,40,5,
+Lung and Bronchus,40,10,
+Lung and Bronchus,40,15,
+Lung and Bronchus,40,20,
+Lung and Bronchus,40,25,
+Lung and Bronchus,40,30,
+Lung and Bronchus,40,35,
+Lung and Bronchus,40,40,
+Lung and Bronchus,40,45,0.035
+Lung and Bronchus,40,50,0.125
+Lung and Bronchus,40,55,0.328
+Lung and Bronchus,40,60,0.675
+Lung and Bronchus,40,65,1.188
+Lung and Bronchus,40,70,1.973
+Lung and Bronchus,40,75,3.03
+Lung and Bronchus,40,80,4.145
+Lung and Bronchus,40,85,5.084
+Lung and Bronchus,40,90,5.668
+Lung and Bronchus,40,95,5.904
+Lung and Bronchus,40,95,5.993
+Lung and Bronchus,45,5,
+Lung and Bronchus,45,10,
+Lung and Bronchus,45,15,
+Lung and Bronchus,45,20,
+Lung and Bronchus,45,25,
+Lung and Bronchus,45,30,
+Lung and Bronchus,45,35,
+Lung and Bronchus,45,40,
+Lung and Bronchus,45,45,
+Lung and Bronchus,45,50,0.09
+Lung and Bronchus,45,55,0.295
+Lung and Bronchus,45,60,0.645
+Lung and Bronchus,45,65,1.162
+Lung and Bronchus,45,70,1.953
+Lung and Bronchus,45,75,3.017
+Lung and Bronchus,45,80,4.141
+Lung and Bronchus,45,85,5.087
+Lung and Bronchus,45,90,5.675
+Lung and Bronchus,45,95,5.913
+Lung and Bronchus,45,95,6.002
+Lung and Bronchus,50,5,
+Lung and Bronchus,50,10,
+Lung and Bronchus,50,15,
+Lung and Bronchus,50,20,
+Lung and Bronchus,50,25,
+Lung and Bronchus,50,30,
+Lung and Bronchus,50,35,
+Lung and Bronchus,50,40,
+Lung and Bronchus,50,45,
+Lung and Bronchus,50,50,
+Lung and Bronchus,50,55,0.207
+Lung and Bronchus,50,60,0.561
+Lung and Bronchus,50,65,1.084
+Lung and Bronchus,50,70,1.885
+Lung and Bronchus,50,75,2.962
+Lung and Bronchus,50,80,4.099
+Lung and Bronchus,50,85,5.057
+Lung and Bronchus,50,90,5.651
+Lung and Bronchus,50,95,5.892
+Lung and Bronchus,50,95,5.983
+Lung and Bronchus,55,5,
+Lung and Bronchus,55,10,
+Lung and Bronchus,55,15,
+Lung and Bronchus,55,20,
+Lung and Bronchus,55,25,
+Lung and Bronchus,55,30,
+Lung and Bronchus,55,35,
+Lung and Bronchus,55,40,
+Lung and Bronchus,55,45,
+Lung and Bronchus,55,50,
+Lung and Bronchus,55,55,
+Lung and Bronchus,55,60,0.361
+Lung and Bronchus,55,65,0.894
+Lung and Bronchus,55,70,1.709
+Lung and Bronchus,55,75,2.807
+Lung and Bronchus,55,80,3.966
+Lung and Bronchus,55,85,4.941
+Lung and Bronchus,55,90,5.547
+Lung and Bronchus,55,95,5.793
+Lung and Bronchus,55,95,5.885
+Lung and Bronchus,60,5,
+Lung and Bronchus,60,10,
+Lung and Bronchus,60,15,
+Lung and Bronchus,60,20,
+Lung and Bronchus,60,25,
+Lung and Bronchus,60,30,
+Lung and Bronchus,60,35,
+Lung and Bronchus,60,40,
+Lung and Bronchus,60,45,
+Lung and Bronchus,60,50,
+Lung and Bronchus,60,55,
+Lung and Bronchus,60,60,
+Lung and Bronchus,60,65,0.548
+Lung and Bronchus,60,70,1.386
+Lung and Bronchus,60,75,2.515
+Lung and Bronchus,60,80,3.706
+Lung and Bronchus,60,85,4.709
+Lung and Bronchus,60,90,5.332
+Lung and Bronchus,60,95,5.584
+Lung and Bronchus,60,95,5.679
+Lung and Bronchus,65,5,
+Lung and Bronchus,65,10,
+Lung and Bronchus,65,15,
+Lung and Bronchus,65,20,
+Lung and Bronchus,65,25,
+Lung and Bronchus,65,30,
+Lung and Bronchus,65,35,
+Lung and Bronchus,65,40,
+Lung and Bronchus,65,45,
+Lung and Bronchus,65,50,
+Lung and Bronchus,65,55,
+Lung and Bronchus,65,60,
+Lung and Bronchus,65,65,
+Lung and Bronchus,65,70,0.872
+Lung and Bronchus,65,75,2.047
+Lung and Bronchus,65,80,3.286
+Lung and Bronchus,65,85,4.33
+Lung and Bronchus,65,90,4.978
+Lung and Bronchus,65,95,5.24
+Lung and Bronchus,65,95,5.339
+Lung and Bronchus,70,5,
+Lung and Bronchus,70,10,
+Lung and Bronchus,70,15,
+Lung and Bronchus,70,20,
+Lung and Bronchus,70,25,
+Lung and Bronchus,70,30,
+Lung and Bronchus,70,35,
+Lung and Bronchus,70,40,
+Lung and Bronchus,70,45,
+Lung and Bronchus,70,50,
+Lung and Bronchus,70,55,
+Lung and Bronchus,70,60,
+Lung and Bronchus,70,65,
+Lung and Bronchus,70,70,
+Lung and Bronchus,70,75,1.247
+Lung and Bronchus,70,80,2.563
+Lung and Bronchus,70,85,3.671
+Lung and Bronchus,70,90,4.359
+Lung and Bronchus,70,95,4.638
+Lung and Bronchus,70,95,4.742
+Lung and Bronchus,75,5,
+Lung and Bronchus,75,10,
+Lung and Bronchus,75,15,
+Lung and Bronchus,75,20,
+Lung and Bronchus,75,25,
+Lung and Bronchus,75,30,
+Lung and Bronchus,75,35,
+Lung and Bronchus,75,40,
+Lung and Bronchus,75,45,
+Lung and Bronchus,75,50,
+Lung and Bronchus,75,55,
+Lung and Bronchus,75,60,
+Lung and Bronchus,75,65,
+Lung and Bronchus,75,70,
+Lung and Bronchus,75,75,
+Lung and Bronchus,75,80,1.448
+Lung and Bronchus,75,85,2.666
+Lung and Bronchus,75,90,3.423
+Lung and Bronchus,75,95,3.73
+Lung and Bronchus,75,95,3.845
+Lung and Bronchus,80,5,
+Lung and Bronchus,80,10,
+Lung and Bronchus,80,15,
+Lung and Bronchus,80,20,
+Lung and Bronchus,80,25,
+Lung and Bronchus,80,30,
+Lung and Bronchus,80,35,
+Lung and Bronchus,80,40,
+Lung and Bronchus,80,45,
+Lung and Bronchus,80,50,
+Lung and Bronchus,80,55,
+Lung and Bronchus,80,60,
+Lung and Bronchus,80,65,
+Lung and Bronchus,80,70,
+Lung and Bronchus,80,75,
+Lung and Bronchus,80,80,
+Lung and Bronchus,80,85,1.424
+Lung and Bronchus,80,90,2.308
+Lung and Bronchus,80,95,2.666
+Lung and Bronchus,80,95,2.801
+Lung and Bronchus,85,5,
+Lung and Bronchus,85,10,
+Lung and Bronchus,85,15,
+Lung and Bronchus,85,20,
+Lung and Bronchus,85,25,
+Lung and Bronchus,85,30,
+Lung and Bronchus,85,35,
+Lung and Bronchus,85,40,
+Lung and Bronchus,85,45,
+Lung and Bronchus,85,50,
+Lung and Bronchus,85,55,
+Lung and Bronchus,85,60,
+Lung and Bronchus,85,65,
+Lung and Bronchus,85,70,
+Lung and Bronchus,85,75,
+Lung and Bronchus,85,80,
+Lung and Bronchus,85,85,
+Lung and Bronchus,85,90,1.151
+Lung and Bronchus,85,95,1.617
+Lung and Bronchus,85,95,1.793
+Lung and Bronchus,90,5,
+Lung and Bronchus,90,10,
+Lung and Bronchus,90,15,
+Lung and Bronchus,90,20,
+Lung and Bronchus,90,25,
+Lung and Bronchus,90,30,
+Lung and Bronchus,90,35,
+Lung and Bronchus,90,40,
+Lung and Bronchus,90,45,
+Lung and Bronchus,90,50,
+Lung and Bronchus,90,55,
+Lung and Bronchus,90,60,
+Lung and Bronchus,90,65,
+Lung and Bronchus,90,70,
+Lung and Bronchus,90,75,
+Lung and Bronchus,90,80,
+Lung and Bronchus,90,85,
+Lung and Bronchus,90,90,
+Lung and Bronchus,90,95,0.74
+Lung and Bronchus,90,95,1.019
+Lung and Bronchus,95,5,
+Lung and Bronchus,95,10,
+Lung and Bronchus,95,15,
+Lung and Bronchus,95,20,
+Lung and Bronchus,95,25,
+Lung and Bronchus,95,30,
+Lung and Bronchus,95,35,
+Lung and Bronchus,95,40,
+Lung and Bronchus,95,45,
+Lung and Bronchus,95,50,
+Lung and Bronchus,95,55,
+Lung and Bronchus,95,60,
+Lung and Bronchus,95,65,
+Lung and Bronchus,95,70,
+Lung and Bronchus,95,75,
+Lung and Bronchus,95,80,
+Lung and Bronchus,95,85,
+Lung and Bronchus,95,90,
+Lung and Bronchus,95,95,
+Lung and Bronchus,95,95,0.609
+Ovary,0,5,0.001
+Ovary,0,10,0.002
+Ovary,0,15,0.006
+Ovary,0,20,0.013
+Ovary,0,25,0.022
+Ovary,0,30,0.035
+Ovary,0,35,0.052
+Ovary,0,40,0.076
+Ovary,0,45,0.119
+Ovary,0,50,0.184
+Ovary,0,55,0.277
+Ovary,0,60,0.388
+Ovary,0,65,0.518
+Ovary,0,70,0.666
+Ovary,0,75,0.821
+Ovary,0,80,0.974
+Ovary,0,85,1.11
+Ovary,0,90,1.205
+Ovary,0,95,1.249
+Ovary,0,95,1.268
+Ovary,5,5,
+Ovary,5,10,0.001
+Ovary,5,15,0.005
+Ovary,5,20,0.013
+Ovary,5,25,0.022
+Ovary,5,30,0.035
+Ovary,5,35,0.051
+Ovary,5,40,0.076
+Ovary,5,45,0.119
+Ovary,5,50,0.186
+Ovary,5,55,0.279
+Ovary,5,60,0.391
+Ovary,5,65,0.522
+Ovary,5,70,0.671
+Ovary,5,75,0.828
+Ovary,5,80,0.983
+Ovary,5,85,1.12
+Ovary,5,90,1.216
+Ovary,5,95,1.26
+Ovary,5,95,1.279
+Ovary,10,5,
+Ovary,10,10,
+Ovary,10,15,0.004
+Ovary,10,20,0.011
+Ovary,10,25,0.021
+Ovary,10,30,0.033
+Ovary,10,35,0.05
+Ovary,10,40,0.074
+Ovary,10,45,0.118
+Ovary,10,50,0.184
+Ovary,10,55,0.278
+Ovary,10,60,0.39
+Ovary,10,65,0.521
+Ovary,10,70,0.67
+Ovary,10,75,0.827
+Ovary,10,80,0.982
+Ovary,10,85,1.119
+Ovary,10,90,1.215
+Ovary,10,95,1.259
+Ovary,10,95,1.278
+Ovary,15,5,
+Ovary,15,10,
+Ovary,15,15,
+Ovary,15,20,0.007
+Ovary,15,25,0.017
+Ovary,15,30,0.029
+Ovary,15,35,0.046
+Ovary,15,40,0.07
+Ovary,15,45,0.114
+Ovary,15,50,0.18
+Ovary,15,55,0.274
+Ovary,15,60,0.386
+Ovary,15,65,0.517
+Ovary,15,70,0.667
+Ovary,15,75,0.824
+Ovary,15,80,0.979
+Ovary,15,85,1.116
+Ovary,15,90,1.212
+Ovary,15,95,1.256
+Ovary,15,95,1.275
+Ovary,20,5,
+Ovary,20,10,
+Ovary,20,15,
+Ovary,20,20,
+Ovary,20,25,0.009
+Ovary,20,30,0.022
+Ovary,20,35,0.039
+Ovary,20,40,0.063
+Ovary,20,45,0.107
+Ovary,20,50,0.173
+Ovary,20,55,0.267
+Ovary,20,60,0.379
+Ovary,20,65,0.511
+Ovary,20,70,0.66
+Ovary,20,75,0.818
+Ovary,20,80,0.973
+Ovary,20,85,1.11
+Ovary,20,90,1.207
+Ovary,20,95,1.251
+Ovary,20,95,1.269
+Ovary,25,5,
+Ovary,25,10,
+Ovary,25,15,
+Ovary,25,20,
+Ovary,25,25,
+Ovary,25,30,0.013
+Ovary,25,35,0.03
+Ovary,25,40,0.054
+Ovary,25,45,0.098
+Ovary,25,50,0.164
+Ovary,25,55,0.258
+Ovary,25,60,0.37
+Ovary,25,65,0.502
+Ovary,25,70,0.652
+Ovary,25,75,0.81
+Ovary,25,80,0.965
+Ovary,25,85,1.103
+Ovary,25,90,1.2
+Ovary,25,95,1.244
+Ovary,25,95,1.263
+Ovary,30,5,
+Ovary,30,10,
+Ovary,30,15,
+Ovary,30,20,
+Ovary,30,25,
+Ovary,30,30,
+Ovary,30,35,0.017
+Ovary,30,40,0.041
+Ovary,30,45,0.085
+Ovary,30,50,0.152
+Ovary,30,55,0.246
+Ovary,30,60,0.359
+Ovary,30,65,0.491
+Ovary,30,70,0.642
+Ovary,30,75,0.8
+Ovary,30,80,0.956
+Ovary,30,85,1.094
+Ovary,30,90,1.19
+Ovary,30,95,1.235
+Ovary,30,95,1.254
+Ovary,35,5,
+Ovary,35,10,
+Ovary,35,15,
+Ovary,35,20,
+Ovary,35,25,
+Ovary,35,30,
+Ovary,35,35,
+Ovary,35,40,0.025
+Ovary,35,45,0.068
+Ovary,35,50,0.136
+Ovary,35,55,0.23
+Ovary,35,60,0.343
+Ovary,35,65,0.476
+Ovary,35,70,0.627
+Ovary,35,75,0.786
+Ovary,35,80,0.942
+Ovary,35,85,1.081
+Ovary,35,90,1.178
+Ovary,35,95,1.222
+Ovary,35,95,1.241
+Ovary,40,5,
+Ovary,40,10,
+Ovary,40,15,
+Ovary,40,20,
+Ovary,40,25,
+Ovary,40,30,
+Ovary,40,35,
+Ovary,40,40,
+Ovary,40,45,0.044
+Ovary,40,50,0.112
+Ovary,40,55,0.206
+Ovary,40,60,0.32
+Ovary,40,65,0.454
+Ovary,40,70,0.606
+Ovary,40,75,0.765
+Ovary,40,80,0.922
+Ovary,40,85,1.062
+Ovary,40,90,1.159
+Ovary,40,95,1.204
+Ovary,40,95,1.223
+Ovary,45,5,
+Ovary,45,10,
+Ovary,45,15,
+Ovary,45,20,
+Ovary,45,25,
+Ovary,45,30,
+Ovary,45,35,
+Ovary,45,40,
+Ovary,45,45,
+Ovary,45,50,0.068
+Ovary,45,55,0.164
+Ovary,45,60,0.278
+Ovary,45,65,0.413
+Ovary,45,70,0.566
+Ovary,45,75,0.727
+Ovary,45,80,0.885
+Ovary,45,85,1.025
+Ovary,45,90,1.124
+Ovary,45,95,1.169
+Ovary,45,95,1.188
+Ovary,50,5,
+Ovary,50,10,
+Ovary,50,15,
+Ovary,50,20,
+Ovary,50,25,
+Ovary,50,30,
+Ovary,50,35,
+Ovary,50,40,
+Ovary,50,45,
+Ovary,50,50,
+Ovary,50,55,0.097
+Ovary,50,60,0.213
+Ovary,50,65,0.349
+Ovary,50,70,0.504
+Ovary,50,75,0.666
+Ovary,50,80,0.827
+Ovary,50,85,0.969
+Ovary,50,90,1.068
+Ovary,50,95,1.114
+Ovary,50,95,1.133
+Ovary,55,5,
+Ovary,55,10,
+Ovary,55,15,
+Ovary,55,20,
+Ovary,55,25,
+Ovary,55,30,
+Ovary,55,35,
+Ovary,55,40,
+Ovary,55,45,
+Ovary,55,50,
+Ovary,55,55,
+Ovary,55,60,0.118
+Ovary,55,65,0.257
+Ovary,55,70,0.415
+Ovary,55,75,0.58
+Ovary,55,80,0.744
+Ovary,55,85,0.888
+Ovary,55,90,0.99
+Ovary,55,95,1.036
+Ovary,55,95,1.056
+Ovary,60,5,
+Ovary,60,10,
+Ovary,60,15,
+Ovary,60,20,
+Ovary,60,25,
+Ovary,60,30,
+Ovary,60,35,
+Ovary,60,40,
+Ovary,60,45,
+Ovary,60,50,
+Ovary,60,55,
+Ovary,60,60,
+Ovary,60,65,0.143
+Ovary,60,70,0.305
+Ovary,60,75,0.475
+Ovary,60,80,0.642
+Ovary,60,85,0.791
+Ovary,60,90,0.895
+Ovary,60,95,0.943
+Ovary,60,95,0.963
+Ovary,65,5,
+Ovary,65,10,
+Ovary,65,15,
+Ovary,65,20,
+Ovary,65,25,
+Ovary,65,30,
+Ovary,65,35,
+Ovary,65,40,
+Ovary,65,45,
+Ovary,65,50,
+Ovary,65,55,
+Ovary,65,60,
+Ovary,65,65,
+Ovary,65,70,0.168
+Ovary,65,75,0.345
+Ovary,65,80,0.519
+Ovary,65,85,0.674
+Ovary,65,90,0.782
+Ovary,65,95,0.831
+Ovary,65,95,0.853
+Ovary,70,5,
+Ovary,70,10,
+Ovary,70,15,
+Ovary,70,20,
+Ovary,70,25,
+Ovary,70,30,
+Ovary,70,35,
+Ovary,70,40,
+Ovary,70,45,
+Ovary,70,50,
+Ovary,70,55,
+Ovary,70,60,
+Ovary,70,65,
+Ovary,70,70,
+Ovary,70,75,0.187
+Ovary,70,80,0.372
+Ovary,70,85,0.535
+Ovary,70,90,0.65
+Ovary,70,95,0.702
+Ovary,70,95,0.725
+Ovary,75,5,
+Ovary,75,10,
+Ovary,75,15,
+Ovary,75,20,
+Ovary,75,25,
+Ovary,75,30,
+Ovary,75,35,
+Ovary,75,40,
+Ovary,75,45,
+Ovary,75,50,
+Ovary,75,55,
+Ovary,75,60,
+Ovary,75,65,
+Ovary,75,70,
+Ovary,75,75,
+Ovary,75,80,0.202
+Ovary,75,85,0.381
+Ovary,75,90,0.507
+Ovary,75,95,0.564
+Ovary,75,95,0.589
+Ovary,80,5,
+Ovary,80,10,
+Ovary,80,15,
+Ovary,80,20,
+Ovary,80,25,
+Ovary,80,30,
+Ovary,80,35,
+Ovary,80,40,
+Ovary,80,45,
+Ovary,80,50,
+Ovary,80,55,
+Ovary,80,60,
+Ovary,80,65,
+Ovary,80,70,
+Ovary,80,75,
+Ovary,80,80,
+Ovary,80,85,0.209
+Ovary,80,90,0.355
+Ovary,80,95,0.421
+Ovary,80,95,0.45
+Ovary,85,5,
+Ovary,85,10,
+Ovary,85,15,
+Ovary,85,20,
+Ovary,85,25,
+Ovary,85,30,
+Ovary,85,35,
+Ovary,85,40,
+Ovary,85,45,
+Ovary,85,50,
+Ovary,85,55,
+Ovary,85,60,
+Ovary,85,65,
+Ovary,85,70,
+Ovary,85,75,
+Ovary,85,80,
+Ovary,85,85,
+Ovary,85,90,0.189
+Ovary,85,95,0.276
+Ovary,85,95,0.313
+Ovary,90,5,
+Ovary,90,10,
+Ovary,90,15,
+Ovary,90,20,
+Ovary,90,25,
+Ovary,90,30,
+Ovary,90,35,
+Ovary,90,40,
+Ovary,90,45,
+Ovary,90,50,
+Ovary,90,55,
+Ovary,90,60,
+Ovary,90,65,
+Ovary,90,70,
+Ovary,90,75,
+Ovary,90,80,
+Ovary,90,85,
+Ovary,90,90,
+Ovary,90,95,0.138
+Ovary,90,95,0.196
+Ovary,95,5,
+Ovary,95,10,
+Ovary,95,15,
+Ovary,95,20,
+Ovary,95,25,
+Ovary,95,30,
+Ovary,95,35,
+Ovary,95,40,
+Ovary,95,45,
+Ovary,95,50,
+Ovary,95,55,
+Ovary,95,60,
+Ovary,95,65,
+Ovary,95,70,
+Ovary,95,75,
+Ovary,95,80,
+Ovary,95,85,
+Ovary,95,90,
+Ovary,95,95,
+Ovary,95,95,0.128
+Brain and Other Nervous System,0,5,0.02
+Brain and Other Nervous System,0,10,0.037
+Brain and Other Nervous System,0,15,0.049
+Brain and Other Nervous System,0,20,0.06
+Brain and Other Nervous System,0,25,0.07
+Brain and Other Nervous System,0,30,0.082
+Brain and Other Nervous System,0,35,0.095
+Brain and Other Nervous System,0,40,0.11
+Brain and Other Nervous System,0,45,0.127
+Brain and Other Nervous System,0,50,0.149
+Brain and Other Nervous System,0,55,0.179
+Brain and Other Nervous System,0,60,0.217
+Brain and Other Nervous System,0,65,0.26
+Brain and Other Nervous System,0,70,0.315
+Brain and Other Nervous System,0,75,0.377
+Brain and Other Nervous System,0,80,0.436
+Brain and Other Nervous System,0,85,0.489
+Brain and Other Nervous System,0,90,0.524
+Brain and Other Nervous System,0,95,0.541
+Brain and Other Nervous System,0,95,0.548
+Brain and Other Nervous System,5,5,
+Brain and Other Nervous System,5,10,0.018
+Brain and Other Nervous System,5,15,0.03
+Brain and Other Nervous System,5,20,0.041
+Brain and Other Nervous System,5,25,0.051
+Brain and Other Nervous System,5,30,0.063
+Brain and Other Nervous System,5,35,0.076
+Brain and Other Nervous System,5,40,0.091
+Brain and Other Nervous System,5,45,0.108
+Brain and Other Nervous System,5,50,0.131
+Brain and Other Nervous System,5,55,0.161
+Brain and Other Nervous System,5,60,0.199
+Brain and Other Nervous System,5,65,0.243
+Brain and Other Nervous System,5,70,0.299
+Brain and Other Nervous System,5,75,0.361
+Brain and Other Nervous System,5,80,0.42
+Brain and Other Nervous System,5,85,0.474
+Brain and Other Nervous System,5,90,0.51
+Brain and Other Nervous System,5,95,0.526
+Brain and Other Nervous System,5,95,0.534
+Brain and Other Nervous System,10,5,
+Brain and Other Nervous System,10,10,
+Brain and Other Nervous System,10,15,0.013
+Brain and Other Nervous System,10,20,0.023
+Brain and Other Nervous System,10,25,0.033
+Brain and Other Nervous System,10,30,0.045
+Brain and Other Nervous System,10,35,0.059
+Brain and Other Nervous System,10,40,0.074
+Brain and Other Nervous System,10,45,0.091
+Brain and Other Nervous System,10,50,0.113
+Brain and Other Nervous System,10,55,0.143
+Brain and Other Nervous System,10,60,0.182
+Brain and Other Nervous System,10,65,0.226
+Brain and Other Nervous System,10,70,0.281
+Brain and Other Nervous System,10,75,0.343
+Brain and Other Nervous System,10,80,0.403
+Brain and Other Nervous System,10,85,0.457
+Brain and Other Nervous System,10,90,0.493
+Brain and Other Nervous System,10,95,0.509
+Brain and Other Nervous System,10,95,0.517
+Brain and Other Nervous System,15,5,
+Brain and Other Nervous System,15,10,
+Brain and Other Nervous System,15,15,
+Brain and Other Nervous System,15,20,0.011
+Brain and Other Nervous System,15,25,0.021
+Brain and Other Nervous System,15,30,0.033
+Brain and Other Nervous System,15,35,0.046
+Brain and Other Nervous System,15,40,0.061
+Brain and Other Nervous System,15,45,0.078
+Brain and Other Nervous System,15,50,0.101
+Brain and Other Nervous System,15,55,0.131
+Brain and Other Nervous System,15,60,0.169
+Brain and Other Nervous System,15,65,0.213
+Brain and Other Nervous System,15,70,0.269
+Brain and Other Nervous System,15,75,0.331
+Brain and Other Nervous System,15,80,0.391
+Brain and Other Nervous System,15,85,0.445
+Brain and Other Nervous System,15,90,0.48
+Brain and Other Nervous System,15,95,0.497
+Brain and Other Nervous System,15,95,0.505
+Brain and Other Nervous System,20,5,
+Brain and Other Nervous System,20,10,
+Brain and Other Nervous System,20,15,
+Brain and Other Nervous System,20,20,
+Brain and Other Nervous System,20,25,0.01
+Brain and Other Nervous System,20,30,0.022
+Brain and Other Nervous System,20,35,0.035
+Brain and Other Nervous System,20,40,0.05
+Brain and Other Nervous System,20,45,0.067
+Brain and Other Nervous System,20,50,0.09
+Brain and Other Nervous System,20,55,0.12
+Brain and Other Nervous System,20,60,0.158
+Brain and Other Nervous System,20,65,0.203
+Brain and Other Nervous System,20,70,0.258
+Brain and Other Nervous System,20,75,0.32
+Brain and Other Nervous System,20,80,0.38
+Brain and Other Nervous System,20,85,0.434
+Brain and Other Nervous System,20,90,0.47
+Brain and Other Nervous System,20,95,0.486
+Brain and Other Nervous System,20,95,0.494
+Brain and Other Nervous System,25,5,
+Brain and Other Nervous System,25,10,
+Brain and Other Nervous System,25,15,
+Brain and Other Nervous System,25,20,
+Brain and Other Nervous System,25,25,
+Brain and Other Nervous System,25,30,0.012
+Brain and Other Nervous System,25,35,0.025
+Brain and Other Nervous System,25,40,0.04
+Brain and Other Nervous System,25,45,0.057
+Brain and Other Nervous System,25,50,0.08
+Brain and Other Nervous System,25,55,0.111
+Brain and Other Nervous System,25,60,0.149
+Brain and Other Nervous System,25,65,0.193
+Brain and Other Nervous System,25,70,0.249
+Brain and Other Nervous System,25,75,0.311
+Brain and Other Nervous System,25,80,0.371
+Brain and Other Nervous System,25,85,0.425
+Brain and Other Nervous System,25,90,0.461
+Brain and Other Nervous System,25,95,0.478
+Brain and Other Nervous System,25,95,0.485
+Brain and Other Nervous System,30,5,
+Brain and Other Nervous System,30,10,
+Brain and Other Nervous System,30,15,
+Brain and Other Nervous System,30,20,
+Brain and Other Nervous System,30,25,
+Brain and Other Nervous System,30,30,
+Brain and Other Nervous System,30,35,0.014
+Brain and Other Nervous System,30,40,0.029
+Brain and Other Nervous System,30,45,0.046
+Brain and Other Nervous System,30,50,0.068
+Brain and Other Nervous System,30,55,0.099
+Brain and Other Nervous System,30,60,0.137
+Brain and Other Nervous System,30,65,0.182
+Brain and Other Nervous System,30,70,0.238
+Brain and Other Nervous System,30,75,0.3
+Brain and Other Nervous System,30,80,0.36
+Brain and Other Nervous System,30,85,0.415
+Brain and Other Nervous System,30,90,0.45
+Brain and Other Nervous System,30,95,0.467
+Brain and Other Nervous System,30,95,0.475
+Brain and Other Nervous System,35,5,
+Brain and Other Nervous System,35,10,
+Brain and Other Nervous System,35,15,
+Brain and Other Nervous System,35,20,
+Brain and Other Nervous System,35,25,
+Brain and Other Nervous System,35,30,
+Brain and Other Nervous System,35,35,
+Brain and Other Nervous System,35,40,0.015
+Brain and Other Nervous System,35,45,0.032
+Brain and Other Nervous System,35,50,0.055
+Brain and Other Nervous System,35,55,0.086
+Brain and Other Nervous System,35,60,0.124
+Brain and Other Nervous System,35,65,0.169
+Brain and Other Nervous System,35,70,0.225
+Brain and Other Nervous System,35,75,0.288
+Brain and Other Nervous System,35,80,0.348
+Brain and Other Nervous System,35,85,0.403
+Brain and Other Nervous System,35,90,0.439
+Brain and Other Nervous System,35,95,0.455
+Brain and Other Nervous System,35,95,0.463
+Brain and Other Nervous System,40,5,
+Brain and Other Nervous System,40,10,
+Brain and Other Nervous System,40,15,
+Brain and Other Nervous System,40,20,
+Brain and Other Nervous System,40,25,
+Brain and Other Nervous System,40,30,
+Brain and Other Nervous System,40,35,
+Brain and Other Nervous System,40,40,
+Brain and Other Nervous System,40,45,0.017
+Brain and Other Nervous System,40,50,0.04
+Brain and Other Nervous System,40,55,0.071
+Brain and Other Nervous System,40,60,0.11
+Brain and Other Nervous System,40,65,0.155
+Brain and Other Nervous System,40,70,0.211
+Brain and Other Nervous System,40,75,0.274
+Brain and Other Nervous System,40,80,0.335
+Brain and Other Nervous System,40,85,0.389
+Brain and Other Nervous System,40,90,0.426
+Brain and Other Nervous System,40,95,0.442
+Brain and Other Nervous System,40,95,0.45
+Brain and Other Nervous System,45,5,
+Brain and Other Nervous System,45,10,
+Brain and Other Nervous System,45,15,
+Brain and Other Nervous System,45,20,
+Brain and Other Nervous System,45,25,
+Brain and Other Nervous System,45,30,
+Brain and Other Nervous System,45,35,
+Brain and Other Nervous System,45,40,
+Brain and Other Nervous System,45,45,
+Brain and Other Nervous System,45,50,0.023
+Brain and Other Nervous System,45,55,0.054
+Brain and Other Nervous System,45,60,0.093
+Brain and Other Nervous System,45,65,0.138
+Brain and Other Nervous System,45,70,0.195
+Brain and Other Nervous System,45,75,0.259
+Brain and Other Nervous System,45,80,0.32
+Brain and Other Nervous System,45,85,0.375
+Brain and Other Nervous System,45,90,0.411
+Brain and Other Nervous System,45,95,0.428
+Brain and Other Nervous System,45,95,0.436
+Brain and Other Nervous System,50,5,
+Brain and Other Nervous System,50,10,
+Brain and Other Nervous System,50,15,
+Brain and Other Nervous System,50,20,
+Brain and Other Nervous System,50,25,
+Brain and Other Nervous System,50,30,
+Brain and Other Nervous System,50,35,
+Brain and Other Nervous System,50,40,
+Brain and Other Nervous System,50,45,
+Brain and Other Nervous System,50,50,
+Brain and Other Nervous System,50,55,0.032
+Brain and Other Nervous System,50,60,0.071
+Brain and Other Nervous System,50,65,0.117
+Brain and Other Nervous System,50,70,0.174
+Brain and Other Nervous System,50,75,0.238
+Brain and Other Nervous System,50,80,0.3
+Brain and Other Nervous System,50,85,0.356
+Brain and Other Nervous System,50,90,0.393
+Brain and Other Nervous System,50,95,0.41
+Brain and Other Nervous System,50,95,0.418
+Brain and Other Nervous System,55,5,
+Brain and Other Nervous System,55,10,
+Brain and Other Nervous System,55,15,
+Brain and Other Nervous System,55,20,
+Brain and Other Nervous System,55,25,
+Brain and Other Nervous System,55,30,
+Brain and Other Nervous System,55,35,
+Brain and Other Nervous System,55,40,
+Brain and Other Nervous System,55,45,
+Brain and Other Nervous System,55,50,
+Brain and Other Nervous System,55,55,
+Brain and Other Nervous System,55,60,0.04
+Brain and Other Nervous System,55,65,0.087
+Brain and Other Nervous System,55,70,0.145
+Brain and Other Nervous System,55,75,0.211
+Brain and Other Nervous System,55,80,0.274
+Brain and Other Nervous System,55,85,0.33
+Brain and Other Nervous System,55,90,0.368
+Brain and Other Nervous System,55,95,0.385
+Brain and Other Nervous System,55,95,0.393
+Brain and Other Nervous System,60,5,
+Brain and Other Nervous System,60,10,
+Brain and Other Nervous System,60,15,
+Brain and Other Nervous System,60,20,
+Brain and Other Nervous System,60,25,
+Brain and Other Nervous System,60,30,
+Brain and Other Nervous System,60,35,
+Brain and Other Nervous System,60,40,
+Brain and Other Nervous System,60,45,
+Brain and Other Nervous System,60,50,
+Brain and Other Nervous System,60,55,
+Brain and Other Nervous System,60,60,
+Brain and Other Nervous System,60,65,0.048
+Brain and Other Nervous System,60,70,0.108
+Brain and Other Nervous System,60,75,0.175
+Brain and Other Nervous System,60,80,0.24
+Brain and Other Nervous System,60,85,0.298
+Brain and Other Nervous System,60,90,0.337
+Brain and Other Nervous System,60,95,0.354
+Brain and Other Nervous System,60,95,0.363
+Brain and Other Nervous System,65,5,
+Brain and Other Nervous System,65,10,
+Brain and Other Nervous System,65,15,
+Brain and Other Nervous System,65,20,
+Brain and Other Nervous System,65,25,
+Brain and Other Nervous System,65,30,
+Brain and Other Nervous System,65,35,
+Brain and Other Nervous System,65,40,
+Brain and Other Nervous System,65,45,
+Brain and Other Nervous System,65,50,
+Brain and Other Nervous System,65,55,
+Brain and Other Nervous System,65,60,
+Brain and Other Nervous System,65,65,
+Brain and Other Nervous System,65,70,0.062
+Brain and Other Nervous System,65,75,0.132
+Brain and Other Nervous System,65,80,0.199
+Brain and Other Nervous System,65,85,0.26
+Brain and Other Nervous System,65,90,0.3
+Brain and Other Nervous System,65,95,0.318
+Brain and Other Nervous System,65,95,0.327
+Brain and Other Nervous System,70,5,
+Brain and Other Nervous System,70,10,
+Brain and Other Nervous System,70,15,
+Brain and Other Nervous System,70,20,
+Brain and Other Nervous System,70,25,
+Brain and Other Nervous System,70,30,
+Brain and Other Nervous System,70,35,
+Brain and Other Nervous System,70,40,
+Brain and Other Nervous System,70,45,
+Brain and Other Nervous System,70,50,
+Brain and Other Nervous System,70,55,
+Brain and Other Nervous System,70,60,
+Brain and Other Nervous System,70,65,
+Brain and Other Nervous System,70,70,
+Brain and Other Nervous System,70,75,0.074
+Brain and Other Nervous System,70,80,0.145
+Brain and Other Nervous System,70,85,0.209
+Brain and Other Nervous System,70,90,0.251
+Brain and Other Nervous System,70,95,0.271
+Brain and Other Nervous System,70,95,0.28
+Brain and Other Nervous System,75,5,
+Brain and Other Nervous System,75,10,
+Brain and Other Nervous System,75,15,
+Brain and Other Nervous System,75,20,
+Brain and Other Nervous System,75,25,
+Brain and Other Nervous System,75,30,
+Brain and Other Nervous System,75,35,
+Brain and Other Nervous System,75,40,
+Brain and Other Nervous System,75,45,
+Brain and Other Nervous System,75,50,
+Brain and Other Nervous System,75,55,
+Brain and Other Nervous System,75,60,
+Brain and Other Nervous System,75,65,
+Brain and Other Nervous System,75,70,
+Brain and Other Nervous System,75,75,
+Brain and Other Nervous System,75,80,0.078
+Brain and Other Nervous System,75,85,0.148
+Brain and Other Nervous System,75,90,0.195
+Brain and Other Nervous System,75,95,0.216
+Brain and Other Nervous System,75,95,0.226
+Brain and Other Nervous System,80,5,
+Brain and Other Nervous System,80,10,
+Brain and Other Nervous System,80,15,
+Brain and Other Nervous System,80,20,
+Brain and Other Nervous System,80,25,
+Brain and Other Nervous System,80,30,
+Brain and Other Nervous System,80,35,
+Brain and Other Nervous System,80,40,
+Brain and Other Nervous System,80,45,
+Brain and Other Nervous System,80,50,
+Brain and Other Nervous System,80,55,
+Brain and Other Nervous System,80,60,
+Brain and Other Nervous System,80,65,
+Brain and Other Nervous System,80,70,
+Brain and Other Nervous System,80,75,
+Brain and Other Nervous System,80,80,
+Brain and Other Nervous System,80,85,0.081
+Brain and Other Nervous System,80,90,0.136
+Brain and Other Nervous System,80,95,0.16
+Brain and Other Nervous System,80,95,0.172
+Brain and Other Nervous System,85,5,
+Brain and Other Nervous System,85,10,
+Brain and Other Nervous System,85,15,
+Brain and Other Nervous System,85,20,
+Brain and Other Nervous System,85,25,
+Brain and Other Nervous System,85,30,
+Brain and Other Nervous System,85,35,
+Brain and Other Nervous System,85,40,
+Brain and Other Nervous System,85,45,
+Brain and Other Nervous System,85,50,
+Brain and Other Nervous System,85,55,
+Brain and Other Nervous System,85,60,
+Brain and Other Nervous System,85,65,
+Brain and Other Nervous System,85,70,
+Brain and Other Nervous System,85,75,
+Brain and Other Nervous System,85,80,
+Brain and Other Nervous System,85,85,
+Brain and Other Nervous System,85,90,0.07
+Brain and Other Nervous System,85,95,0.103
+Brain and Other Nervous System,85,95,0.118
+Brain and Other Nervous System,90,5,
+Brain and Other Nervous System,90,10,
+Brain and Other Nervous System,90,15,
+Brain and Other Nervous System,90,20,
+Brain and Other Nervous System,90,25,
+Brain and Other Nervous System,90,30,
+Brain and Other Nervous System,90,35,
+Brain and Other Nervous System,90,40,
+Brain and Other Nervous System,90,45,
+Brain and Other Nervous System,90,50,
+Brain and Other Nervous System,90,55,
+Brain and Other Nervous System,90,60,
+Brain and Other Nervous System,90,65,
+Brain and Other Nervous System,90,70,
+Brain and Other Nervous System,90,75,
+Brain and Other Nervous System,90,80,
+Brain and Other Nervous System,90,85,
+Brain and Other Nervous System,90,90,
+Brain and Other Nervous System,90,95,0.051
+Brain and Other Nervous System,90,95,0.075
+Brain and Other Nervous System,95,5,
+Brain and Other Nervous System,95,10,
+Brain and Other Nervous System,95,15,
+Brain and Other Nervous System,95,20,
+Brain and Other Nervous System,95,25,
+Brain and Other Nervous System,95,30,
+Brain and Other Nervous System,95,35,
+Brain and Other Nervous System,95,40,
+Brain and Other Nervous System,95,45,
+Brain and Other Nervous System,95,50,
+Brain and Other Nervous System,95,55,
+Brain and Other Nervous System,95,60,
+Brain and Other Nervous System,95,65,
+Brain and Other Nervous System,95,70,
+Brain and Other Nervous System,95,75,
+Brain and Other Nervous System,95,80,
+Brain and Other Nervous System,95,85,
+Brain and Other Nervous System,95,90,
+Brain and Other Nervous System,95,95,
+Brain and Other Nervous System,95,95,0.053
+Female Breast,0,5,0
+Female Breast,0,10,0
+Female Breast,0,15,0
+Female Breast,0,20,0.002
+Female Breast,0,25,0.014
+Female Breast,0,30,0.066
+Female Breast,0,35,0.208
+Female Breast,0,40,0.518
+Female Breast,0,45,1.105
+Female Breast,0,50,1.964
+Female Breast,0,55,2.989
+Female Breast,0,60,4.152
+Female Breast,0,65,5.566
+Female Breast,0,70,7.213
+Female Breast,0,75,8.863
+Female Breast,0,80,10.283
+Female Breast,0,85,11.342
+Female Breast,0,90,12.008
+Female Breast,0,95,12.309
+Female Breast,0,95,12.439
+Female Breast,5,5,
+Female Breast,5,10,0
+Female Breast,5,15,0
+Female Breast,5,20,0.002
+Female Breast,5,25,0.014
+Female Breast,5,30,0.066
+Female Breast,5,35,0.209
+Female Breast,5,40,0.523
+Female Breast,5,45,1.116
+Female Breast,5,50,1.982
+Female Breast,5,55,3.017
+Female Breast,5,60,4.191
+Female Breast,5,65,5.618
+Female Breast,5,70,7.279
+Female Breast,5,75,8.946
+Female Breast,5,80,10.378
+Female Breast,5,85,11.447
+Female Breast,5,90,12.119
+Female Breast,5,95,12.423
+Female Breast,5,95,12.555
+Female Breast,10,5,
+Female Breast,10,10,
+Female Breast,10,15,0
+Female Breast,10,20,0.002
+Female Breast,10,25,0.014
+Female Breast,10,30,0.066
+Female Breast,10,35,0.21
+Female Breast,10,40,0.523
+Female Breast,10,45,1.116
+Female Breast,10,50,1.983
+Female Breast,10,55,3.019
+Female Breast,10,60,4.193
+Female Breast,10,65,5.621
+Female Breast,10,70,7.283
+Female Breast,10,75,8.95
+Female Breast,10,80,10.384
+Female Breast,10,85,11.454
+Female Breast,10,90,12.126
+Female Breast,10,95,12.43
+Female Breast,10,95,12.562
+Female Breast,15,5,
+Female Breast,15,10,
+Female Breast,15,15,
+Female Breast,15,20,0.001
+Female Breast,15,25,0.014
+Female Breast,15,30,0.066
+Female Breast,15,35,0.21
+Female Breast,15,40,0.524
+Female Breast,15,45,1.117
+Female Breast,15,50,1.984
+Female Breast,15,55,3.02
+Female Breast,15,60,4.196
+Female Breast,15,65,5.624
+Female Breast,15,70,7.288
+Female Breast,15,75,8.956
+Female Breast,15,80,10.39
+Female Breast,15,85,11.461
+Female Breast,15,90,12.134
+Female Breast,15,95,12.438
+Female Breast,15,95,12.57
+Female Breast,20,5,
+Female Breast,20,10,
+Female Breast,20,15,
+Female Breast,20,20,
+Female Breast,20,25,0.012
+Female Breast,20,30,0.065
+Female Breast,20,35,0.208
+Female Breast,20,40,0.523
+Female Breast,20,45,1.117
+Female Breast,20,50,1.985
+Female Breast,20,55,3.023
+Female Breast,20,60,4.2
+Female Breast,20,65,5.63
+Female Breast,20,70,7.296
+Female Breast,20,75,8.966
+Female Breast,20,80,10.402
+Female Breast,20,85,11.474
+Female Breast,20,90,12.148
+Female Breast,20,95,12.453
+Female Breast,20,95,12.584
+Female Breast,25,5,
+Female Breast,25,10,
+Female Breast,25,15,
+Female Breast,25,20,
+Female Breast,25,25,
+Female Breast,25,30,0.053
+Female Breast,25,35,0.197
+Female Breast,25,40,0.512
+Female Breast,25,45,1.107
+Female Breast,25,50,1.977
+Female Breast,25,55,3.017
+Female Breast,25,60,4.197
+Female Breast,25,65,5.63
+Female Breast,25,70,7.299
+Female Breast,25,75,8.973
+Female Breast,25,80,10.412
+Female Breast,25,85,11.487
+Female Breast,25,90,12.162
+Female Breast,25,95,12.467
+Female Breast,25,95,12.599
+Female Breast,30,5,
+Female Breast,30,10,
+Female Breast,30,15,
+Female Breast,30,20,
+Female Breast,30,25,
+Female Breast,30,30,
+Female Breast,30,35,0.144
+Female Breast,30,40,0.46
+Female Breast,30,45,1.057
+Female Breast,30,50,1.931
+Female Breast,30,55,2.974
+Female Breast,30,60,4.157
+Female Breast,30,65,5.595
+Female Breast,30,70,7.27
+Female Breast,30,75,8.949
+Female Breast,30,80,10.393
+Female Breast,30,85,11.47
+Female Breast,30,90,12.148
+Female Breast,30,95,12.454
+Female Breast,30,95,12.586
+Female Breast,35,5,
+Female Breast,35,10,
+Female Breast,35,15,
+Female Breast,35,20,
+Female Breast,35,25,
+Female Breast,35,30,
+Female Breast,35,35,
+Female Breast,35,40,0.318
+Female Breast,35,45,0.918
+Female Breast,35,50,1.795
+Female Breast,35,55,2.843
+Female Breast,35,60,4.032
+Female Breast,35,65,5.478
+Female Breast,35,70,7.16
+Female Breast,35,75,8.848
+Female Breast,35,80,10.299
+Female Breast,35,85,11.382
+Female Breast,35,90,12.062
+Female Breast,35,95,12.37
+Female Breast,35,95,12.503
+Female Breast,40,5,
+Female Breast,40,10,
+Female Breast,40,15,
+Female Breast,40,20,
+Female Breast,40,25,
+Female Breast,40,30,
+Female Breast,40,35,
+Female Breast,40,40,
+Female Breast,40,45,0.605
+Female Breast,40,50,1.489
+Female Breast,40,55,2.546
+Female Breast,40,60,3.744
+Female Breast,40,65,5.2
+Female Breast,40,70,6.897
+Female Breast,40,75,8.597
+Female Breast,40,80,10.059
+Female Breast,40,85,11.151
+Female Breast,40,90,11.837
+Female Breast,40,95,12.147
+Female Breast,40,95,12.281
+Female Breast,45,5,
+Female Breast,45,10,
+Female Breast,45,15,
+Female Breast,45,20,
+Female Breast,45,25,
+Female Breast,45,30,
+Female Breast,45,35,
+Female Breast,45,40,
+Female Breast,45,45,
+Female Breast,45,50,0.896
+Female Breast,45,55,1.966
+Female Breast,45,60,3.18
+Female Breast,45,65,4.655
+Female Breast,45,70,6.373
+Female Breast,45,75,8.096
+Female Breast,45,80,9.577
+Female Breast,45,85,10.682
+Female Breast,45,90,11.377
+Female Breast,45,95,11.691
+Female Breast,45,95,11.827
+Female Breast,50,5,
+Female Breast,50,10,
+Female Breast,50,15,
+Female Breast,50,20,
+Female Breast,50,25,
+Female Breast,50,30,
+Female Breast,50,35,
+Female Breast,50,40,
+Female Breast,50,45,
+Female Breast,50,50,
+Female Breast,50,55,1.091
+Female Breast,50,60,2.329
+Female Breast,50,65,3.833
+Female Breast,50,70,5.585
+Female Breast,50,75,7.342
+Female Breast,50,80,8.852
+Female Breast,50,85,9.979
+Female Breast,50,90,10.688
+Female Breast,50,95,11.008
+Female Breast,50,95,11.147
+Female Breast,55,5,
+Female Breast,55,10,
+Female Breast,55,15,
+Female Breast,55,20,
+Female Breast,55,25,
+Female Breast,55,30,
+Female Breast,55,35,
+Female Breast,55,40,
+Female Breast,55,45,
+Female Breast,55,50,
+Female Breast,55,55,
+Female Breast,55,60,1.272
+Female Breast,55,65,2.819
+Female Breast,55,70,4.619
+Female Breast,55,75,6.425
+Female Breast,55,80,7.977
+Female Breast,55,85,9.136
+Female Breast,55,90,9.865
+Female Breast,55,95,10.194
+Female Breast,55,95,10.336
+Female Breast,60,5,
+Female Breast,60,10,
+Female Breast,60,15,
+Female Breast,60,20,
+Female Breast,60,25,
+Female Breast,60,30,
+Female Breast,60,35,
+Female Breast,60,40,
+Female Breast,60,45,
+Female Breast,60,50,
+Female Breast,60,55,
+Female Breast,60,60,
+Female Breast,60,65,1.605
+Female Breast,60,70,3.474
+Female Breast,60,75,5.348
+Female Breast,60,80,6.959
+Female Breast,60,85,8.162
+Female Breast,60,90,8.917
+Female Breast,60,95,9.259
+Female Breast,60,95,9.407
+Female Breast,65,5,
+Female Breast,65,10,
+Female Breast,65,15,
+Female Breast,65,20,
+Female Breast,65,25,
+Female Breast,65,30,
+Female Breast,65,35,
+Female Breast,65,40,
+Female Breast,65,45,
+Female Breast,65,50,
+Female Breast,65,55,
+Female Breast,65,60,
+Female Breast,65,65,
+Female Breast,65,70,1.968
+Female Breast,65,75,3.941
+Female Breast,65,80,5.638
+Female Breast,65,85,6.904
+Female Breast,65,90,7.7
+Female Breast,65,95,8.06
+Female Breast,65,95,8.215
+Female Breast,70,5,
+Female Breast,70,10,
+Female Breast,70,15,
+Female Breast,70,20,
+Female Breast,70,25,
+Female Breast,70,30,
+Female Breast,70,35,
+Female Breast,70,40,
+Female Breast,70,45,
+Female Breast,70,50,
+Female Breast,70,55,
+Female Breast,70,60,
+Female Breast,70,65,
+Female Breast,70,70,
+Female Breast,70,75,2.125
+Female Breast,70,80,3.951
+Female Breast,70,85,5.315
+Female Breast,70,90,6.172
+Female Breast,70,95,6.56
+Female Breast,70,95,6.727
+Female Breast,75,5,
+Female Breast,75,10,
+Female Breast,75,15,
+Female Breast,75,20,
+Female Breast,75,25,
+Female Breast,75,30,
+Female Breast,75,35,
+Female Breast,75,40,
+Female Breast,75,45,
+Female Breast,75,50,
+Female Breast,75,55,
+Female Breast,75,60,
+Female Breast,75,65,
+Female Breast,75,70,
+Female Breast,75,75,
+Female Breast,75,80,2.038
+Female Breast,75,85,3.56
+Female Breast,75,90,4.516
+Female Breast,75,95,4.948
+Female Breast,75,95,5.135
+Female Breast,80,5,
+Female Breast,80,10,
+Female Breast,80,15,
+Female Breast,80,20,
+Female Breast,80,25,
+Female Breast,80,30,
+Female Breast,80,35,
+Female Breast,80,40,
+Female Breast,80,45,
+Female Breast,80,50,
+Female Breast,80,55,
+Female Breast,80,60,
+Female Breast,80,65,
+Female Breast,80,70,
+Female Breast,80,75,
+Female Breast,80,80,
+Female Breast,80,85,1.801
+Female Breast,80,90,2.932
+Female Breast,80,95,3.444
+Female Breast,80,95,3.665
+Female Breast,85,5,
+Female Breast,85,10,
+Female Breast,85,15,
+Female Breast,85,20,
+Female Breast,85,25,
+Female Breast,85,30,
+Female Breast,85,35,
+Female Breast,85,40,
+Female Breast,85,45,
+Female Breast,85,50,
+Female Breast,85,55,
+Female Breast,85,60,
+Female Breast,85,65,
+Female Breast,85,70,
+Female Breast,85,75,
+Female Breast,85,80,
+Female Breast,85,85,
+Female Breast,85,90,1.491
+Female Breast,85,95,2.165
+Female Breast,85,95,2.456
+Female Breast,90,5,
+Female Breast,90,10,
+Female Breast,90,15,
+Female Breast,90,20,
+Female Breast,90,25,
+Female Breast,90,30,
+Female Breast,90,35,
+Female Breast,90,40,
+Female Breast,90,45,
+Female Breast,90,50,
+Female Breast,90,55,
+Female Breast,90,60,
+Female Breast,90,65,
+Female Breast,90,70,
+Female Breast,90,75,
+Female Breast,90,80,
+Female Breast,90,85,
+Female Breast,90,90,
+Female Breast,90,95,1.082
+Female Breast,90,95,1.549
+Female Breast,95,5,
+Female Breast,95,10,
+Female Breast,95,15,
+Female Breast,95,20,
+Female Breast,95,25,
+Female Breast,95,30,
+Female Breast,95,35,
+Female Breast,95,40,
+Female Breast,95,45,
+Female Breast,95,50,
+Female Breast,95,55,
+Female Breast,95,60,
+Female Breast,95,65,
+Female Breast,95,70,
+Female Breast,95,75,
+Female Breast,95,80,
+Female Breast,95,85,
+Female Breast,95,90,
+Female Breast,95,95,
+Female Breast,95,95,1.027
 ,,,
 ,,,
-Cancer sites include invasive cases only unless otherwise noted.,,,
 ,,,
-"Source: Underlying Incidence data are from the SEER 18 areas (San Francisco, Connecticut, Detroit, Hawaii, Iowa, New Mexico, Seattle, Utah, Atlanta, San Jose-Monterey, Los Angeles, Alaska Native Registry, Rural Georgia, California excluding SF/SJM/LA, Kentucky, Louisiana, New Jersey and Georgia excluding ATL/RG).\
-Rates are calculated using DevCan Version 6.7, April 2018, National Cancer Institute (http://surveillance.cancer.gov/devcan/).",,,
+,,,
+,,,
