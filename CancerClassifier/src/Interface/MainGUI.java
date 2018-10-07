@@ -169,7 +169,7 @@ public class MainGUI extends JFrame{
 
         BufferedImage image = null;
         try {
-            URL url = new URL("https://github.com/austin-strom/HackySlackers2018/blob/master/CancerClassifier/Interface/src/humanBody.jpg?raw=true");
+            URL url = new URL(" https://github.com/austin-strom/HackySlackers2018/blob/master/CancerClassifier/src/Interface/humanBody.jpg?raw=true");
             image = ImageIO.read(url);
 //            image = (BufferedImage) Toolkit.getDefaultToolkit().getImage(getClass().getResource("MainClassifier/src/humanBody.jpg"));
         } catch (Exception e) {
